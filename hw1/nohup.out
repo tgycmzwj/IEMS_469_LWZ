@@ -1,0 +1,3351 @@
+500
+499
+498
+497
+496
+495
+494
+493
+492
+491
+490
+489
+488
+487
+486
+485
+484
+483
+482
+481
+480
+479
+478
+477
+476
+475
+474
+473
+472
+471
+470
+469
+468
+467
+466
+465
+464
+463
+462
+461
+460
+459
+458
+457
+456
+455
+454
+453
+452
+451
+450
+449
+448
+447
+446
+445
+444
+443
+442
+441
+440
+439
+438
+437
+436
+435
+434
+433
+432
+431
+430
+429
+428
+427
+426
+425
+424
+423
+422
+421
+420
+419
+418
+417
+416
+415
+414
+413
+412
+411
+410
+409
+408
+407
+406
+405
+404
+403
+402
+401
+400
+399
+398
+397
+396
+395
+394
+393
+392
+391
+390
+389
+388
+387
+386
+385
+384
+383
+382
+381
+380
+379
+378
+377
+376
+375
+374
+373
+372
+371
+370
+369
+368
+367
+366
+365
+364
+363
+362
+361
+360
+359
+358
+357
+356
+355
+354
+353
+352
+351
+350
+349
+348
+347
+346
+345
+344
+343
+342
+341
+340
+339
+338
+337
+336
+335
+334
+333
+332
+331
+330
+329
+328
+327
+326
+325
+324
+323
+322
+321
+320
+319
+318
+317
+316
+315
+314
+313
+312
+311
+310
+309
+308
+307
+306
+305
+304
+303
+302
+301
+300
+299
+298
+297
+296
+295
+294
+293
+292
+291
+290
+289
+288
+287
+286
+285
+284
+283
+282
+281
+280
+279
+278
+277
+276
+275
+274
+273
+272
+271
+270
+269
+268
+267
+266
+265
+264
+263
+262
+261
+260
+259
+258
+257
+256
+255
+254
+253
+252
+251
+250
+249
+248
+247
+246
+245
+244
+243
+242
+241
+240
+239
+238
+237
+236
+235
+234
+233
+232
+231
+230
+229
+228
+227
+226
+225
+224
+223
+222
+221
+220
+219
+218
+217
+216
+215
+214
+213
+212
+211
+210
+209
+208
+207
+206
+205
+204
+203
+202
+201
+200
+199
+198
+197
+196
+195
+194
+193
+192
+191
+190
+189
+188
+187
+186
+185
+184
+183
+182
+181
+180
+179
+178
+177
+176
+175
+174
+173
+172
+171
+170
+169
+168
+167
+166
+165
+164
+163
+162
+161
+160
+159
+158
+157
+156
+155
+154
+153
+152
+151
+150
+149
+148
+147
+146
+145
+144
+143
+142
+141
+140
+139
+138
+137
+136
+135
+134
+133
+132
+131
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+cur_iter= 1 , cur_error= 9.999999999999999e-06
+cur_iter= 2 , cur_error= 23914.46881847891
+cur_iter= 3 , cur_error= 25561.48464677332
+cur_iter= 4 , cur_error= 24188.270264900275
+cur_iter= 5 , cur_error= 21288.495196777425
+cur_iter= 6 , cur_error= 18912.325767133767
+cur_iter= 7 , cur_error= 16933.689011968745
+cur_iter= 8 , cur_error= 15108.89030488761
+cur_iter= 9 , cur_error= 13762.407351535954
+cur_iter= 10 , cur_error= 12626.331187849035
+cur_iter= 11 , cur_error= 11528.070115112992
+cur_iter= 12 , cur_error= 10583.930367838302
+cur_iter= 13 , cur_error= 9818.132983733865
+cur_iter= 14 , cur_error= 9257.536177332118
+cur_iter= 15 , cur_error= 8784.401648184043
+cur_iter= 16 , cur_error= 8344.161514555646
+cur_iter= 17 , cur_error= 7926.99311073577
+cur_iter= 18 , cur_error= 7530.5050646348955
+cur_iter= 19 , cur_error= 7154.0390244970895
+cur_iter= 20 , cur_error= 6796.323920647805
+cur_iter= 21 , cur_error= 6456.501375057474
+cur_iter= 22 , cur_error= 6133.685103977894
+cur_iter= 23 , cur_error= 5826.995510350436
+cur_iter= 24 , cur_error= 5535.647584122063
+cur_iter= 25 , cur_error= 5258.86520717603
+cur_iter= 26 , cur_error= 4995.921425879339
+cur_iter= 27 , cur_error= 4746.125775422152
+cur_iter= 28 , cur_error= 4508.819292393263
+cur_iter= 29 , cur_error= 4283.378366811065
+cur_iter= 30 , cur_error= 4069.2094714151294
+cur_iter= 31 , cur_error= 3865.7489683227036
+cur_iter= 32 , cur_error= 3672.4615373509773
+cur_iter= 33 , cur_error= 3488.8384546565335
+cur_iter= 34 , cur_error= 3314.3965317413836
+cur_iter= 35 , cur_error= 3148.676706937454
+cur_iter= 36 , cur_error= 2991.242870199077
+cur_iter= 37 , cur_error= 2841.6807273144154
+cur_iter= 38 , cur_error= 2699.596690833392
+cur_iter= 39 , cur_error= 2564.6168562094767
+cur_iter= 40 , cur_error= 2436.3860134979
+cur_iter= 41 , cur_error= 2314.566712766082
+cur_iter= 42 , cur_error= 2198.8383771460844
+cur_iter= 43 , cur_error= 2088.8964582899507
+cur_iter= 44 , cur_error= 1984.4516353693575
+cur_iter= 45 , cur_error= 1885.2290536054788
+cur_iter= 46 , cur_error= 1790.9676009232055
+cur_iter= 47 , cur_error= 1701.419220877398
+cur_iter= 48 , cur_error= 1616.3482598338128
+cur_iter= 49 , cur_error= 1535.5308468417825
+cur_iter= 50 , cur_error= 1458.7543044998783
+cur_iter= 51 , cur_error= 1385.8165892748282
+cur_iter= 52 , cur_error= 1316.5257598110745
+cur_iter= 53 , cur_error= 1250.6994718205458
+cur_iter= 54 , cur_error= 1188.164498229489
+cur_iter= 55 , cur_error= 1128.7562733180414
+cur_iter= 56 , cur_error= 1072.3184596521392
+cur_iter= 57 , cur_error= 1018.7025366695296
+cur_iter= 58 , cur_error= 967.7674098360455
+cur_iter= 59 , cur_error= 919.3790393442446
+cur_iter= 60 , cur_error= 873.4100873770298
+cur_iter= 61 , cur_error= 829.7395830081848
+cur_iter= 62 , cur_error= 788.2526038577813
+cur_iter= 63 , cur_error= 748.8399736648884
+cur_iter= 64 , cur_error= 711.3979749816314
+cur_iter= 65 , cur_error= 675.8280762325525
+cur_iter= 66 , cur_error= 642.0366724209317
+cur_iter= 67 , cur_error= 609.9348387998812
+cur_iter= 68 , cur_error= 579.4380968598771
+cur_iter= 69 , cur_error= 550.466192016887
+cur_iter= 70 , cur_error= 522.9428824160519
+cur_iter= 71 , cur_error= 496.79573829524395
+cur_iter= 72 , cur_error= 471.95595138047446
+cur_iter= 73 , cur_error= 448.35815381146375
+cur_iter= 74 , cur_error= 425.9402461208827
+cur_iter= 75 , cur_error= 404.64323381482745
+cur_iter= 76 , cur_error= 384.4110721240811
+cur_iter= 77 , cur_error= 365.1905185178862
+cur_iter= 78 , cur_error= 346.93099259201784
+cur_iter= 79 , cur_error= 329.58444296242294
+cur_iter= 80 , cur_error= 313.1052208142711
+cur_iter= 81 , cur_error= 297.4499597735632
+cur_iter= 82 , cur_error= 282.5774617848775
+cur_iter= 83 , cur_error= 268.44858869563495
+cur_iter= 84 , cur_error= 255.02615926086355
+cur_iter= 85 , cur_error= 242.27485129781422
+cur_iter= 86 , cur_error= 230.16110873293724
+cur_iter= 87 , cur_error= 218.65305329628734
+cur_iter= 88 , cur_error= 207.7204006314786
+cur_iter= 89 , cur_error= 197.334380599906
+cur_iter= 90 , cur_error= 187.46766156991413
+cur_iter= 91 , cur_error= 178.09427849141525
+cur_iter= 92 , cur_error= 169.1895645668257
+cur_iter= 93 , cur_error= 160.73008633849062
+cur_iter= 94 , cur_error= 152.6935820215662
+cur_iter= 95 , cur_error= 145.05890292047775
+cur_iter= 96 , cur_error= 137.80595777444736
+cur_iter= 97 , cur_error= 130.91565988573942
+cur_iter= 98 , cur_error= 124.36987689144513
+cur_iter= 99 , cur_error= 118.15138304688264
+cur_iter= 100 , cur_error= 112.24381389453282
+cur_iter= 101 , cur_error= 106.63162319980836
+cur_iter= 102 , cur_error= 101.30004203981338
+cur_iter= 103 , cur_error= 96.2350399378211
+cur_iter= 104 , cur_error= 91.42328794093893
+cur_iter= 105 , cur_error= 86.85212354389822
+cur_iter= 106 , cur_error= 82.50951736670774
+cur_iter= 107 , cur_error= 78.38404149837599
+cur_iter= 108 , cur_error= 74.46483942345724
+cur_iter= 109 , cur_error= 70.74159745227797
+cur_iter= 110 , cur_error= 67.20451757965049
+cur_iter= 111 , cur_error= 63.84429170067952
+cur_iter= 112 , cur_error= 60.652077115646605
+cur_iter= 113 , cur_error= 57.61947325985771
+cur_iter= 114 , cur_error= 54.73849959687231
+cur_iter= 115 , cur_error= 52.00157461702979
+cur_iter= 116 , cur_error= 49.40149588617416
+cur_iter= 117 , cur_error= 46.931421091864834
+cur_iter= 118 , cur_error= 44.58485003725796
+cur_iter= 119 , cur_error= 42.3556075354086
+cur_iter= 120 , cur_error= 40.23782715864979
+cur_iter= 121 , cur_error= 38.2259358007002
+cur_iter= 122 , cur_error= 36.314639010671804
+cur_iter= 123 , cur_error= 34.498907060135146
+cur_iter= 124 , cur_error= 32.773961707123206
+cur_iter= 125 , cur_error= 31.135263621763777
+cur_iter= 126 , cur_error= 29.578500440675487
+cur_iter= 127 , cur_error= 28.099575418649838
+cur_iter= 128 , cur_error= 26.694596647726133
+cur_iter= 129 , cur_error= 25.35986681535222
+cur_iter= 130 , cur_error= 24.091873474575227
+cur_iter= 131 , cur_error= 22.887279800832776
+cur_iter= 132 , cur_error= 21.7429158108045
+cur_iter= 133 , cur_error= 20.655770020256778
+cur_iter= 134 , cur_error= 19.622981519248267
+cur_iter= 135 , cur_error= 18.64183244328174
+cur_iter= 136 , cur_error= 17.709740821112035
+cur_iter= 137 , cur_error= 16.824253780056086
+cur_iter= 138 , cur_error= 15.983041091060592
+cur_iter= 139 , cur_error= 15.18388903651225
+cur_iter= 140 , cur_error= 14.424694584689316
+cur_iter= 141 , cur_error= 13.703459855442928
+cur_iter= 142 , cur_error= 13.01828686266477
+cur_iter= 143 , cur_error= 12.36737251953275
+cur_iter= 144 , cur_error= 11.74900389355926
+cur_iter= 145 , cur_error= 11.161553698881749
+cur_iter= 146 , cur_error= 10.603476013947581
+cur_iter= 147 , cur_error= 10.073302213249058
+cur_iter= 148 , cur_error= 9.569637102585654
+cur_iter= 149 , cur_error= 9.09115524745016
+cur_iter= 150 , cur_error= 8.636597485085762
+cur_iter= 151 , cur_error= 8.20476761081944
+cur_iter= 152 , cur_error= 7.794529230280838
+cur_iter= 153 , cur_error= 7.404802768779705
+cur_iter= 154 , cur_error= 7.034562630337105
+cur_iter= 155 , cur_error= 6.682834498831166
+cur_iter= 156 , cur_error= 6.3486927738756345
+cur_iter= 157 , cur_error= 6.031258135182585
+cur_iter= 158 , cur_error= 5.729695228417543
+cur_iter= 159 , cur_error= 5.443210467003876
+cur_iter= 160 , cur_error= 5.17104994365925
+cur_iter= 161 , cur_error= 4.912497446467547
+cur_iter= 162 , cur_error= 4.666872574132171
+cur_iter= 163 , cur_error= 4.433528945420479
+cur_iter= 164 , cur_error= 4.21185249815167
+cur_iter= 165 , cur_error= 4.001259873261376
+cur_iter= 166 , cur_error= 3.8011968795975295
+cur_iter= 167 , cur_error= 3.6111370356128027
+cur_iter= 168 , cur_error= 3.430580183823808
+cur_iter= 169 , cur_error= 3.259051174632504
+cur_iter= 170 , cur_error= 3.096098615902
+cur_iter= 171 , cur_error= 2.941293685113388
+cur_iter= 172 , cur_error= 2.7942290008517325
+cur_iter= 173 , cur_error= 2.654517550814316
+cur_iter= 174 , cur_error= 2.5217916732621095
+cur_iter= 175 , cur_error= 2.395702089600807
+cur_iter= 176 , cur_error= 2.27591698512136
+cur_iter= 177 , cur_error= 2.1621211358771593
+cur_iter= 178 , cur_error= 2.0540150790927676
+cur_iter= 179 , cur_error= 1.9513143251344154
+cur_iter= 180 , cur_error= 1.8537486088554196
+cur_iter= 181 , cur_error= 1.7610611784130794
+cur_iter= 182 , cur_error= 1.673008119495331
+cur_iter= 183 , cur_error= 1.5893577135356944
+cur_iter= 184 , cur_error= 1.5098898278689135
+cur_iter= 185 , cur_error= 1.4343953364737636
+cur_iter= 186 , cur_error= 1.3626755696532526
+cur_iter= 187 , cur_error= 1.2945417911603472
+cur_iter= 188 , cur_error= 1.2298147015945968
+cur_iter= 189 , cur_error= 1.1683239665042293
+cur_iter= 190 , cur_error= 1.1099077681856506
+cur_iter= 191 , cur_error= 1.0544123797681273
+cur_iter= 192 , cur_error= 1.001691760775532
+cur_iter= 193 , cur_error= 0.9516071727373911
+cur_iter= 194 , cur_error= 0.904026814098241
+cur_iter= 195 , cur_error= 0.8588254734130447
+cur_iter= 196 , cur_error= 0.8158841997390427
+cur_iter= 197 , cur_error= 0.7750899897449913
+cur_iter= 198 , cur_error= 0.7363354902722942
+cur_iter= 199 , cur_error= 0.6995187157578158
+cur_iter= 200 , cur_error= 0.664542779976222
+cur_iter= 201 , cur_error= 0.6313156409805113
+cur_iter= 202 , cur_error= 0.5997498589228947
+cur_iter= 203 , cur_error= 0.5697623659696203
+cur_iter= 204 , cur_error= 0.5412742476818719
+cur_iter= 205 , cur_error= 0.514210535292759
+cur_iter= 206 , cur_error= 0.48850000852054304
+cur_iter= 207 , cur_error= 0.4640750080921111
+cur_iter= 208 , cur_error= 0.44087125768973223
+cur_iter= 209 , cur_error= 0.4188276948039786
+cur_iter= 210 , cur_error= 0.3978863100657355
+cur_iter= 211 , cur_error= 0.3779919945637408
+cur_iter= 212 , cur_error= 0.35909239482373834
+cur_iter= 213 , cur_error= 0.34113777509669524
+cur_iter= 214 , cur_error= 0.3240808863205109
+cur_iter= 215 , cur_error= 0.30787684201230936
+cur_iter= 216 , cur_error= 0.2924829999124211
+cur_iter= 217 , cur_error= 0.27785884992729754
+cur_iter= 218 , cur_error= 0.2639659074262708
+cur_iter= 219 , cur_error= 0.250767612050376
+cur_iter= 220 , cur_error= 0.23822923146198308
+cur_iter= 221 , cur_error= 0.2263177698941088
+cur_iter= 222 , cur_error= 0.21500188140108223
+cur_iter= 223 , cur_error= 0.20425178733175536
+cur_iter= 224 , cur_error= 0.19403919796136163
+cur_iter= 225 , cur_error= 0.18433723805750793
+cur_iter= 226 , cur_error= 0.17512037612679532
+cur_iter= 227 , cur_error= 0.16636435732311794
+cur_iter= 228 , cur_error= 0.15804613947527288
+cur_iter= 229 , cur_error= 0.15014383250434307
+cur_iter= 230 , cur_error= 0.14263664087483932
+cur_iter= 231 , cur_error= 0.13550480883869087
+cur_iter= 232 , cur_error= 0.12872956838518892
+cur_iter= 233 , cur_error= 0.12229308997529327
+cur_iter= 234 , cur_error= 0.11617843548249
+cur_iter= 235 , cur_error= 0.11036951370820114
+cur_iter= 236 , cur_error= 0.10485103803610614
+cur_iter= 237 , cur_error= 0.09960848611858414
+cur_iter= 238 , cur_error= 0.09462806181400285
+cur_iter= 239 , cur_error= 0.0898966587282472
+cur_iter= 240 , cur_error= 0.08540182579125187
+cur_iter= 241 , cur_error= 0.08113173449199489
+cur_iter= 242 , cur_error= 0.07707514778735572
+cur_iter= 243 , cur_error= 0.0732213903883816
+cur_iter= 244 , cur_error= 0.06956032087310939
+cur_iter= 245 , cur_error= 0.0660823048168478
+cur_iter= 246 , cur_error= 0.06277818957574545
+cur_iter= 247 , cur_error= 0.05963928010569886
+cur_iter= 248 , cur_error= 0.056657316085573166
+cur_iter= 249 , cur_error= 0.053824450280902936
+cur_iter= 250 , cur_error= 0.05113322776813829
+cur_iter= 251 , cur_error= 0.048576566367456483
+cur_iter= 252 , cur_error= 0.046147738053849065
+cur_iter= 253 , cur_error= 0.043840351155904504
+cur_iter= 254 , cur_error= 0.041648333618789925
+cur_iter= 255 , cur_error= 0.039565916947816554
+cur_iter= 256 , cur_error= 0.037587621082669775
+cur_iter= 257 , cur_error= 0.03570824002112611
+cur_iter= 258 , cur_error= 0.03392282800948711
+cur_iter= 259 , cur_error= 0.03222668661773669
+cur_iter= 260 , cur_error= 0.0306153522845569
+cur_iter= 261 , cur_error= 0.029084584666157362
+cur_iter= 262 , cur_error= 0.027630355428937728
+cur_iter= 263 , cur_error= 0.026248837662496805
+cur_iter= 264 , cur_error= 0.024936395798428983
+cur_iter= 265 , cur_error= 0.023689576010185297
+cur_iter= 266 , cur_error= 0.022505097191484767
+cur_iter= 267 , cur_error= 0.021379842337634028
+cur_iter= 268 , cur_error= 0.020310850227191157
+cur_iter= 269 , cur_error= 0.019295307706923295
+cur_iter= 270 , cur_error= 0.018330542336628588
+cur_iter= 271 , cur_error= 0.017414015224575734
+cur_iter= 272 , cur_error= 0.016543314453843997
+cur_iter= 273 , cur_error= 0.015716148725017674
+cur_iter= 274 , cur_error= 0.014930341287687558
+cur_iter= 275 , cur_error= 0.0141838242221538
+cur_iter= 276 , cur_error= 0.013474633006507942
+cur_iter= 277 , cur_error= 0.01280090137554908
+cur_iter= 278 , cur_error= 0.012160856301366846
+cur_iter= 279 , cur_error= 0.011552813479048926
+cur_iter= 280 , cur_error= 0.01097517281884614
+cur_iter= 281 , cur_error= 0.010426414177127722
+cur_iter= 282 , cur_error= 0.009905093478920907
+cur_iter= 283 , cur_error= 0.00940983877986084
+cur_iter= 284 , cur_error= 0.00893934683327426
+cur_iter= 285 , cur_error= 0.008492379487301334
+cur_iter= 286 , cur_error= 0.008067760525337763
+cur_iter= 287 , cur_error= 0.007664372506104085
+cur_iter= 288 , cur_error= 0.007281153894437229
+cur_iter= 289 , cur_error= 0.006917096197172308
+cur_iter= 290 , cur_error= 0.00657124137644683
+cur_iter= 291 , cur_error= 0.006242679312278647
+cur_iter= 292 , cur_error= 0.005930545328086411
+cur_iter= 293 , cur_error= 0.005634018068787954
+cur_iter= 294 , cur_error= 0.005352317174199955
+cur_iter= 295 , cur_error= 0.005084701323624329
+cur_iter= 296 , cur_error= 0.004830466244783419
+cur_iter= 297 , cur_error= 0.004588942926078614
+cur_iter= 298 , cur_error= 0.00435949577852005
+cur_iter= 299 , cur_error= 0.004141520993972753
+cur_iter= 300 , cur_error= 0.0039344449475336735
+cur_iter= 301 , cur_error= 0.00373772269714417
+cur_iter= 302 , cur_error= 0.003550836572417959
+cur_iter= 303 , cur_error= 0.003373294742201963
+cur_iter= 304 , cur_error= 0.0032046299850166026
+cur_iter= 305 , cur_error= 0.003044398515061488
+cur_iter= 306 , cur_error= 0.0028921785786615428
+cur_iter= 307 , cur_error= 0.002747569642126038
+cur_iter= 308 , cur_error= 0.002610191161655346
+cur_iter= 309 , cur_error= 0.002479681601601772
+cur_iter= 310 , cur_error= 0.002355697531167375
+cur_iter= 311 , cur_error= 0.0022379126523155855
+cur_iter= 312 , cur_error= 0.0021260170191014717
+cur_iter= 313 , cur_error= 0.002019716171336728
+cur_iter= 314 , cur_error= 0.0019187303533139627
+cur_iter= 315 , cur_error= 0.001822793845751009
+cur_iter= 316 , cur_error= 0.0017316541461305584
+cur_iter= 317 , cur_error= 0.0016450714429909077
+cur_iter= 318 , cur_error= 0.0015628178527122662
+cur_iter= 319 , cur_error= 0.0014846769503635189
+cur_iter= 320 , cur_error= 0.0014104431116543277
+cur_iter= 321 , cur_error= 0.0013399209733108448
+cur_iter= 322 , cur_error= 0.0012729249268366946
+cur_iter= 323 , cur_error= 0.0012092786912748467
+cur_iter= 324 , cur_error= 0.0011488147500331753
+cur_iter= 325 , cur_error= 0.0010913740156111382
+cur_iter= 326 , cur_error= 0.0010368052940907188
+cur_iter= 327 , cur_error= 0.0009849650369182046
+cur_iter= 328 , cur_error= 0.0009357167863556503
+cur_iter= 329 , cur_error= 0.000888930934803016
+cur_iter= 330 , cur_error= 0.0008444843900385491
+cur_iter= 331 , cur_error= 0.0008022601717388241
+cur_iter= 332 , cur_error= 0.0007621471664879122
+cur_iter= 333 , cur_error= 0.0007240398007597453
+cur_iter= 334 , cur_error= 0.0006878378069336234
+cur_iter= 335 , cur_error= 0.0006534459242213086
+cur_iter= 336 , cur_error= 0.0006207736364111921
+cur_iter= 337 , cur_error= 0.0005897349445388731
+cur_iter= 338 , cur_error= 0.0005602481952419336
+cur_iter= 339 , cur_error= 0.0005322357796398121
+cur_iter= 340 , cur_error= 0.0005056240026155816
+cur_iter= 341 , cur_error= 0.00048034281764869395
+cur_iter= 342 , cur_error= 0.0004563256766923709
+cur_iter= 343 , cur_error= 0.0004335093836023776
+cur_iter= 344 , cur_error= 0.0004118339033508879
+cur_iter= 345 , cur_error= 0.00039124220337649005
+cur_iter= 346 , cur_error= 0.0003716801027081992
+cur_iter= 347 , cur_error= 0.0003530960983333393
+cur_iter= 348 , cur_error= 0.00033544129026095645
+cur_iter= 349 , cur_error= 0.00031866922747974294
+cur_iter= 350 , cur_error= 0.0003027357875799069
+cur_iter= 351 , cur_error= 0.00028759899241635826
+cur_iter= 352 , cur_error= 0.00027321903142171967
+cur_iter= 353 , cur_error= 0.0002595580746758444
+cur_iter= 354 , cur_error= 0.00024658016673368
+cur_iter= 355 , cur_error= 0.00023425116701023948
+cur_iter= 356 , cur_error= 0.00022253861704286387
+cur_iter= 357 , cur_error= 0.00021141168627627195
+cur_iter= 358 , cur_error= 0.00020084109972870077
+cur_iter= 359 , cur_error= 0.00019079904628640848
+cur_iter= 360 , cur_error= 0.00018125908222628375
+cur_iter= 361 , cur_error= 0.0001721961249761779
+cur_iter= 362 , cur_error= 0.00016358633408483414
+cur_iter= 363 , cur_error= 0.0001554070327815312
+cur_iter= 364 , cur_error= 0.00014763668560429838
+cur_iter= 365 , cur_error= 0.00014025485461913786
+cur_iter= 366 , cur_error= 0.0001332420960536469
+cur_iter= 367 , cur_error= 0.0001265799888980139
+cur_iter= 368 , cur_error= 0.00012025096612993867
+cur_iter= 369 , cur_error= 0.00011423843656870595
+cur_iter= 370 , cur_error= 0.00010852650420647273
+cur_iter= 371 , cur_error= 0.00010310019007247485
+cur_iter= 372 , cur_error= 9.794519922785813e-05
+cur_iter= 373 , cur_error= 9.304792342915755e-05
+cur_iter= 374 , cur_error= 8.839552180091039e-05
+cur_iter= 375 , cur_error= 8.397575475537965e-05
+cur_iter= 376 , cur_error= 7.977696442630442e-05
+cur_iter= 377 , cur_error= 7.578812309783577e-05
+cur_iter= 378 , cur_error= 7.199870686910475e-05
+cur_iter= 379 , cur_error= 6.83987608812513e-05
+cur_iter= 380 , cur_error= 6.497883339231852e-05
+cur_iter= 381 , cur_error= 6.17298898708564e-05
+cur_iter= 382 , cur_error= 5.864339961223672e-05
+cur_iter= 383 , cur_error= 5.571123090649618e-05
+cur_iter= 384 , cur_error= 5.292566840426999e-05
+cur_iter= 385 , cur_error= 5.0279375715405176e-05
+cur_iter= 386 , cur_error= 4.776539373566323e-05
+cur_iter= 387 , cur_error= 4.537711981673792e-05
+cur_iter= 388 , cur_error= 4.310827182647063e-05
+cur_iter= 389 , cur_error= 4.095285711006786e-05
+cur_iter= 390 , cur_error= 3.890522705686064e-05
+cur_iter= 391 , cur_error= 3.695997327312072e-05
+cur_iter= 392 , cur_error= 3.5111979305865706e-05
+cur_iter= 393 , cur_error= 3.33563637608576e-05
+cur_iter= 394 , cur_error= 3.168854020549692e-05
+cur_iter= 395 , cur_error= 3.0104099194280992e-05
+cur_iter= 396 , cur_error= 2.8598891396727126e-05
+cur_iter= 397 , cur_error= 2.716895633426421e-05
+cur_iter= 398 , cur_error= 2.5810513217663126e-05
+cur_iter= 399 , cur_error= 2.4519995080984002e-05
+cur_iter= 400 , cur_error= 2.3293997247565683e-05
+cur_iter= 401 , cur_error= 2.212930616833755e-05
+cur_iter= 402 , cur_error= 2.1022835188620614e-05
+cur_iter= 403 , cur_error= 1.9971688518577654e-05
+cur_iter= 404 , cur_error= 1.8973091225912105e-05
+cur_iter= 405 , cur_error= 1.8024427315271975e-05
+cur_iter= 406 , cur_error= 1.7123215095737945e-05
+cur_iter= 407 , cur_error= 1.626705728447738e-05
+cur_iter= 408 , cur_error= 1.5453712081573447e-05
+cur_iter= 409 , cur_error= 1.468102418423433e-05
+cur_iter= 410 , cur_error= 1.3946965800761987e-05
+cur_iter= 411 , cur_error= 1.3249634151670073e-05
+cur_iter= 412 , cur_error= 1.2587159975419627e-05
+cur_iter= 413 , cur_error= 1.195779171888802e-05
+cur_iter= 414 , cur_error= 1.1359900389844836e-05
+cur_iter= 415 , cur_error= 1.0791906056510629e-05
+cur_iter= 416 , cur_error= 1.0252314420079954e-05
+cur_iter= 417 , cur_error= 9.739694377597325e-06
+cur_iter= 418 , cur_error= 9.252703907213766e-06
+cur_iter= 419 , cur_error= 8.790063393379193e-06
+cur_iter= 420 , cur_error= 8.350562725555463e-06
+cur_iter= 421 , cur_error= 7.93304839086776e-06
+cur_iter= 422 , cur_error= 7.536390421585181e-06
+cur_iter= 423 , cur_error= 7.15957548659622e-06
+cur_iter= 424 , cur_error= 6.80158743901593e-06
+cur_iter= 425 , cur_error= 6.4615101922550226e-06
+cur_iter= 426 , cur_error= 6.1384337804244835e-06
+cur_iter= 427 , cur_error= 5.831535136452392e-06
+cur_iter= 428 , cur_error= 5.539929897351531e-06
+cur_iter= 429 , cur_error= 5.2629519025590075e-06
+cur_iter= 430 , cur_error= 4.999800911078386e-06
+cur_iter= 431 , cur_error= 4.749816045711981e-06
+cur_iter= 432 , cur_error= 4.512318903707053e-06
+cur_iter= 433 , cur_error= 4.2866876300395744e-06
+cur_iter= 434 , cur_error= 4.072353906641175e-06
+cur_iter= 435 , cur_error= 3.868734016568852e-06
+cur_iter= 436 , cur_error= 3.6753016405122963e-06
+cur_iter= 437 , cur_error= 3.491551927633129e-06
+cur_iter= 438 , cur_error= 3.316959673501251e-06
+cur_iter= 439 , cur_error= 3.1511294732832663e-06
+cur_iter= 440 , cur_error= 2.993566719374679e-06
+cur_iter= 441 , cur_error= 2.8438994031711287e-06
+cur_iter= 442 , cur_error= 2.701701885556553e-06
+cur_iter= 443 , cur_error= 2.5666131646922678e-06
+cur_iter= 444 , cur_error= 2.438270095322361e-06
+cur_iter= 445 , cur_error= 2.3163627332894305e-06
+cur_iter= 446 , cur_error= 2.2005266219293076e-06
+cur_iter= 447 , cur_error= 2.0905076074002645e-06
+cur_iter= 448 , cur_error= 1.9859967753598628e-06
+cur_iter= 449 , cur_error= 1.8867032728959502e-06
+cur_iter= 450 , cur_error= 1.7923676342807515e-06
+cur_iter= 451 , cur_error= 1.7027382259194884e-06
+cur_iter= 452 , cur_error= 1.6176096121844367e-06
+cur_iter= 453 , cur_error= 1.5367303988766581e-06
+cur_iter= 454 , cur_error= 1.4598948079554795e-06
+cur_iter= 455 , cur_error= 1.3869045274266965e-06
+cur_iter= 456 , cur_error= 1.3175584678807716e-06
+cur_iter= 457 , cur_error= 1.2516840477121722e-06
+cur_iter= 458 , cur_error= 1.189078151140399e-06
+cur_iter= 459 , cur_error= 1.129623702694522e-06
+cur_iter= 460 , cur_error= 1.0731298527405948e-06
+cur_iter= 461 , cur_error= 1.0194815519052225e-06
+cur_iter_out= 1 , cur_error_out= 9.999999999999999e-06
+cur_iter_in= 1 , cur_error_in= 9.999999999999999e-06
+cur_iter_in= 2 , cur_error_in= 23914.46881847891
+cur_iter_in= 3 , cur_error_in= 25561.48464677332
+cur_iter_in= 4 , cur_error_in= 26671.447092525534
+cur_iter_in= 5 , cur_error_in= 27313.41373085345
+cur_iter_in= 6 , cur_error_in= 27546.925936729785
+cur_iter_in= 7 , cur_error_in= 27424.20764121531
+cur_iter_in= 8 , cur_error_in= 26991.479960344455
+cur_iter_in= 9 , cur_error_in= 26292.191485996973
+cur_iter_in= 10 , cur_error_in= 25378.543950697665
+cur_iter_in= 11 , cur_error_in= 24321.571448754126
+cur_iter_in= 12 , cur_error_in= 23199.45173118755
+cur_iter_in= 13 , cur_error_in= 22074.184922142176
+cur_iter_in= 14 , cur_error_in= 20981.192503060938
+cur_iter_in= 15 , cur_error_in= 19934.919298633577
+cur_iter_in= 16 , cur_error_in= 18938.788002356163
+cur_iter_in= 17 , cur_error_in= 17991.96439500191
+cur_iter_in= 18 , cur_error_in= 17092.384895591214
+cur_iter_in= 19 , cur_error_in= 16237.768256515841
+cur_iter_in= 20 , cur_error_in= 15425.88015637105
+cur_iter_in= 21 , cur_error_in= 14654.586180880067
+cur_iter_in= 22 , cur_error_in= 13921.856874707655
+cur_iter_in= 23 , cur_error_in= 13225.764031190229
+cur_iter_in= 24 , cur_error_in= 12564.475829644714
+cur_iter_in= 25 , cur_error_in= 11936.252038163268
+cur_iter_in= 26 , cur_error_in= 11339.43943625517
+cur_iter_in= 27 , cur_error_in= 10772.467464442461
+cur_iter_in= 28 , cur_error_in= 10233.844091220413
+cur_iter_in= 29 , cur_error_in= 9722.151886659482
+cur_iter_in= 30 , cur_error_in= 9236.044292326555
+cur_iter_in= 31 , cur_error_in= 8774.242077710225
+cur_iter_in= 32 , cur_error_in= 8335.529973824701
+cur_iter_in= 33 , cur_error_in= 7918.753475133463
+cur_iter_in= 34 , cur_error_in= 7522.815801376786
+cur_iter_in= 35 , cur_error_in= 7146.6750113079615
+cur_iter_in= 36 , cur_error_in= 6789.341260742586
+cur_iter_in= 37 , cur_error_in= 6449.874197705376
+cur_iter_in= 38 , cur_error_in= 6127.380487819923
+cur_iter_in= 39 , cur_error_in= 5821.011463428668
+cur_iter_in= 40 , cur_error_in= 5529.9608902570235
+cur_iter_in= 41 , cur_error_in= 5253.4628457440485
+cur_iter_in= 42 , cur_error_in= 4990.789703456871
+cur_iter_in= 43 , cur_error_in= 4741.250218284164
+cur_iter_in= 44 , cur_error_in= 4504.187707370129
+cur_iter_in= 45 , cur_error_in= 4278.978322001781
+cur_iter_in= 46 , cur_error_in= 4065.0294059017688
+cur_iter_in= 47 , cur_error_in= 3861.7779356066303
+cur_iter_in= 48 , cur_error_in= 3668.689038826171
+cur_iter_in= 49 , cur_error_in= 3485.254586884768
+cur_iter_in= 50 , cur_error_in= 3310.991857540509
+cur_iter_in= 51 , cur_error_in= 3145.4422646635107
+cur_iter_in= 52 , cur_error_in= 2988.1701514304314
+cur_iter_in= 53 , cur_error_in= 2838.761643859043
+cur_iter_in= 54 , cur_error_in= 2696.8235616661855
+cur_iter_in= 55 , cur_error_in= 2561.982383582965
+cur_iter_in= 56 , cur_error_in= 2433.8832644038553
+cur_iter_in= 57 , cur_error_in= 2312.1891011837056
+cur_iter_in= 58 , cur_error_in= 2196.57964612456
+cur_iter_in= 59 , cur_error_in= 2086.7506638184
+cur_iter_in= 60 , cur_error_in= 1982.4131306274514
+cur_iter_in= 61 , cur_error_in= 1883.2924740959954
+cur_iter_in= 62 , cur_error_in= 1789.1278503910726
+cur_iter_in= 63 , cur_error_in= 1699.671457871353
+cur_iter_in= 64 , cur_error_in= 1614.6878849776706
+cur_iter_in= 65 , cur_error_in= 1533.9534907287484
+cur_iter_in= 66 , cur_error_in= 1457.2558161923741
+cur_iter_in= 67 , cur_error_in= 1384.393025382868
+cur_iter_in= 68 , cur_error_in= 1315.1733741138194
+cur_iter_in= 69 , cur_error_in= 1249.4147054082264
+cur_iter_in= 70 , cur_error_in= 1186.943970137821
+cur_iter_in= 71 , cur_error_in= 1127.5967716308705
+cur_iter_in= 72 , cur_error_in= 1071.2169330492611
+cur_iter_in= 73 , cur_error_in= 1017.656086396753
+cur_iter_in= 74 , cur_error_in= 966.7732820769494
+cur_iter_in= 75 , cur_error_in= 918.4346179730752
+cur_iter_in= 76 , cur_error_in= 872.5128870743554
+cur_iter_in= 77 , cur_error_in= 828.8872427206462
+cur_iter_in= 78 , cur_error_in= 787.4428805847093
+cur_iter_in= 79 , cur_error_in= 748.0707365555074
+cur_iter_in= 80 , cur_error_in= 710.6671997277764
+cur_iter_in= 81 , cur_error_in= 675.133839741452
+cur_iter_in= 82 , cur_error_in= 641.3771477544598
+cur_iter_in= 83 , cur_error_in= 609.3082903668391
+cur_iter_in= 84 , cur_error_in= 578.8428758486021
+cur_iter_in= 85 , cur_error_in= 549.9007320561951
+cur_iter_in= 86 , cur_error_in= 522.4056954532933
+cur_iter_in= 87 , cur_error_in= 496.2854106805811
+cur_iter_in= 88 , cur_error_in= 471.47114014649566
+cur_iter_in= 89 , cur_error_in= 447.89758313904264
+cur_iter_in= 90 , cur_error_in= 425.50270398191986
+cur_iter_in= 91 , cur_error_in= 404.2275687826507
+cur_iter_in= 92 , cur_error_in= 384.0161903433748
+cur_iter_in= 93 , cur_error_in= 364.81538082613304
+cur_iter_in= 94 , cur_error_in= 346.574611784844
+cur_iter_in= 95 , cur_error_in= 329.2458811956403
+cur_iter_in= 96 , cur_error_in= 312.7835871358965
+cur_iter_in= 97 , cur_error_in= 297.1444077791298
+cur_iter_in= 98 , cur_error_in= 282.2871873902162
+cur_iter_in= 99 , cur_error_in= 268.1728280207417
+cur_iter_in= 100 , cur_error_in= 254.76418661972954
+cur_iter_in= 101 , cur_error_in= 242.02597728876364
+cur_iter_in= 102 , cur_error_in= 229.92467842430008
+cur_iter_in= 103 , cur_error_in= 218.4284445030564
+cur_iter_in= 104 , cur_error_in= 207.5070222778954
+cur_iter_in= 105 , cur_error_in= 197.13167116400254
+cur_iter_in= 106 , cur_error_in= 187.27508760588623
+cur_iter_in= 107 , cur_error_in= 177.91133322570454
+cur_iter_in= 108 , cur_error_in= 169.0157665644718
+cur_iter_in= 109 , cur_error_in= 160.5649782362071
+cur_iter_in= 110 , cur_error_in= 152.53672932429916
+cur_iter_in= 111 , cur_error_in= 144.90989285806452
+cur_iter_in= 112 , cur_error_in= 137.66439821513237
+cur_iter_in= 113 , cur_error_in= 130.78117830438728
+cur_iter_in= 114 , cur_error_in= 124.24211938921225
+cur_iter_in= 115 , cur_error_in= 118.03001341988129
+cur_iter_in= 116 , cur_error_in= 112.1285127490376
+cur_iter_in= 117 , cur_error_in= 106.5220871116359
+cur_iter_in= 118 , cur_error_in= 101.19598275603202
+cur_iter_in= 119 , cur_error_in= 96.13618361819454
+cur_iter_in= 120 , cur_error_in= 91.32937443721491
+cur_iter_in= 121 , cur_error_in= 86.76290571537463
+cur_iter_in= 122 , cur_error_in= 82.42476042965907
+cur_iter_in= 123 , cur_error_in= 78.3035224082148
+cur_iter_in= 124 , cur_error_in= 74.38834628781213
+cur_iter_in= 125 , cur_error_in= 70.66892897336949
+cur_iter_in= 126 , cur_error_in= 67.13548252466504
+cur_iter_in= 127 , cur_error_in= 63.77870839845107
+cur_iter_in= 128 , cur_error_in= 60.58977297862345
+cur_iter_in= 129 , cur_error_in= 57.560284329737044
+cur_iter_in= 130 , cur_error_in= 54.68227011318435
+cur_iter_in= 131 , cur_error_in= 51.94815660739483
+cur_iter_in= 132 , cur_error_in= 49.35074877688066
+cur_iter_in= 133 , cur_error_in= 46.883211337884376
+cur_iter_in= 134 , cur_error_in= 44.53905077085362
+cur_iter_in= 135 , cur_error_in= 42.31209823228352
+cur_iter_in= 136 , cur_error_in= 40.19649332070982
+cur_iter_in= 137 , cur_error_in= 38.18666865472267
+cur_iter_in= 138 , cur_error_in= 36.27733522203919
+cur_iter_in= 139 , cur_error_in= 34.463468460989766
+cur_iter_in= 140 , cur_error_in= 32.74029503799928
+cur_iter_in= 141 , cur_error_in= 31.10328028604828
+cur_iter_in= 142 , cur_error_in= 29.548116271662423
+cur_iter_in= 143 , cur_error_in= 28.070710457981804
+cur_iter_in= 144 , cur_error_in= 26.667174934962947
+cur_iter_in= 145 , cur_error_in= 25.333816188167948
+cur_iter_in= 146 , cur_error_in= 24.067125378724533
+cur_iter_in= 147 , cur_error_in= 22.863769109779817
+cur_iter_in= 148 , cur_error_in= 21.720580654262097
+cur_iter_in= 149 , cur_error_in= 20.634551621560593
+cur_iter_in= 150 , cur_error_in= 19.602824040588825
+cur_iter_in= 151 , cur_error_in= 18.62268283872303
+cur_iter_in= 152 , cur_error_in= 17.69154869693696
+cur_iter_in= 153 , cur_error_in= 16.80697126221262
+cur_iter_in= 154 , cur_error_in= 15.966622699203151
+cur_iter_in= 155 , cur_error_in= 15.16829156426885
+cur_iter_in= 156 , cur_error_in= 14.409876986014442
+cur_iter_in= 157 , cur_error_in= 13.689383136588194
+cur_iter_in= 158 , cur_error_in= 13.004913979615852
+cur_iter_in= 159 , cur_error_in= 12.354668280516984
+cur_iter_in= 160 , cur_error_in= 11.736934866528026
+cur_iter_in= 161 , cur_error_in= 11.150088123301307
+cur_iter_in= 162 , cur_error_in= 10.592583717222874
+cur_iter_in= 163 , cur_error_in= 10.062954531419127
+cur_iter_in= 164 , cur_error_in= 9.559806804888561
+cur_iter_in= 165 , cur_error_in= 9.081816464749107
+cur_iter_in= 166 , cur_error_in= 8.62772564156218
+cur_iter_in= 167 , cur_error_in= 8.19633935950919
+cur_iter_in= 168 , cur_error_in= 7.786522391536286
+cur_iter_in= 169 , cur_error_in= 7.397196271985411
+cur_iter_in= 170 , cur_error_in= 7.0273364584091
+cur_iter_in= 171 , cur_error_in= 6.6759696354117475
+cur_iter_in= 172 , cur_error_in= 6.34217115358238
+cur_iter_in= 173 , cur_error_in= 6.025062595862823
+cur_iter_in= 174 , cur_error_in= 5.723809466121036
+cur_iter_in= 175 , cur_error_in= 5.437618992888639
+cur_iter_in= 176 , cur_error_in= 5.165738043321317
+cur_iter_in= 177 , cur_error_in= 4.907451141151065
+cur_iter_in= 178 , cur_error_in= 4.662078584007022
+cur_iter_in= 179 , cur_error_in= 4.428974654657342
+cur_iter_in= 180 , cur_error_in= 4.207525921776658
+cur_iter_in= 181 , cur_error_in= 3.9971496255853456
+cur_iter_in= 182 , cur_error_in= 3.7972921443800605
+cur_iter_in= 183 , cur_error_in= 3.607427537321854
+cur_iter_in= 184 , cur_error_in= 3.427056160609551
+cur_iter_in= 185 , cur_error_in= 3.255703352663731
+cur_iter_in= 186 , cur_error_in= 3.0929181850515137
+cur_iter_in= 187 , cur_error_in= 2.9382722757640956
+cur_iter_in= 188 , cur_error_in= 2.791358661961679
+cur_iter_in= 189 , cur_error_in= 2.6517907288231055
+cur_iter_in= 190 , cur_error_in= 2.5192011922810202
+cur_iter_in= 191 , cur_error_in= 2.393241132546136
+cur_iter_in= 192 , cur_error_in= 2.2735790757942764
+cur_iter_in= 193 , cur_error_in= 2.159900121947412
+cur_iter_in= 194 , cur_error_in= 2.0519051158592183
+cur_iter_in= 195 , cur_error_in= 1.9493098601366654
+cur_iter_in= 196 , cur_error_in= 1.8518443671930012
+cur_iter_in= 197 , cur_error_in= 1.7592521488670243
+cur_iter_in= 198 , cur_error_in= 1.6712895414955684
+cur_iter_in= 199 , cur_error_in= 1.5877250644674676
+cur_iter_in= 200 , cur_error_in= 1.508338811279711
+cur_iter_in= 201 , cur_error_in= 1.4329218708321385
+cur_iter_in= 202 , cur_error_in= 1.3612757774332434
+cur_iter_in= 203 , cur_error_in= 1.2932119886917277
+cur_iter_in= 204 , cur_error_in= 1.2285513892455573
+cur_iter_in= 205 , cur_error_in= 1.1671238196843376
+cur_iter_in= 206 , cur_error_in= 1.108767628598211
+cur_iter_in= 207 , cur_error_in= 1.0533292469996927
+cur_iter_in= 208 , cur_error_in= 1.0006627845074443
+cur_iter_in= 209 , cur_error_in= 0.9506296451587466
+cur_iter_in= 210 , cur_error_in= 0.9030981628717462
+cur_iter_in= 211 , cur_error_in= 0.857943254737837
+cur_iter_in= 212 , cur_error_in= 0.8150460920970272
+cur_iter_in= 213 , cur_error_in= 0.7742937875876224
+cur_iter_in= 214 , cur_error_in= 0.7355790983472424
+cur_iter_in= 215 , cur_error_in= 0.6988001435119836
+cur_iter_in= 216 , cur_error_in= 0.6638601364021419
+cur_iter_in= 217 , cur_error_in= 0.6306671296093824
+cur_iter_in= 218 , cur_error_in= 0.5991337731682308
+cur_iter_in= 219 , cur_error_in= 0.5691770845616715
+cur_iter_in= 220 , cur_error_in= 0.5407182303780038
+cur_iter_in= 221 , cur_error_in= 0.5136823188284138
+cur_iter_in= 222 , cur_error_in= 0.48799820278416434
+cur_iter_in= 223 , cur_error_in= 0.46359829253871165
+cur_iter_in= 224 , cur_error_in= 0.44041837780991466
+cur_iter_in= 225 , cur_error_in= 0.41839745877106993
+cur_iter_in= 226 , cur_error_in= 0.3974775856033347
+cur_iter_in= 227 , cur_error_in= 0.3776037061209841
+cur_iter_in= 228 , cur_error_in= 0.35872352066262747
+cur_iter_in= 229 , cur_error_in= 0.34078734457794907
+cur_iter_in= 230 , cur_error_in= 0.32374797733259364
+cur_iter_in= 231 , cur_error_in= 0.30756057847736445
+cur_iter_in= 232 , cur_error_in= 0.29218254958055445
+cur_iter_in= 233 , cur_error_in= 0.27757342219773845
+cur_iter_in= 234 , cur_error_in= 0.2636947512436846
+cur_iter_in= 235 , cur_error_in= 0.2505100138582731
+cur_iter_in= 236 , cur_error_in= 0.2379845133010156
+cur_iter_in= 237 , cur_error_in= 0.22608528777529546
+cur_iter_in= 238 , cur_error_in= 0.21478102355816497
+cur_iter_in= 239 , cur_error_in= 0.20404197246790678
+cur_iter_in= 240 , cur_error_in= 0.19383987383616832
+cur_iter_in= 241 , cur_error_in= 0.18414788018053907
+cur_iter_in= 242 , cur_error_in= 0.17494048622620212
+cur_iter_in= 243 , cur_error_in= 0.16619346193233953
+cur_iter_in= 244 , cur_error_in= 0.15788378883567405
+cur_iter_in= 245 , cur_error_in= 0.1499895993873486
+cur_iter_in= 246 , cur_error_in= 0.1424901192858404
+cur_iter_in= 247 , cur_error_in= 0.13536561314047327
+cur_iter_in= 248 , cur_error_in= 0.1285973322709392
+cur_iter_in= 249 , cur_error_in= 0.12216746548135712
+cur_iter_in= 250 , cur_error_in= 0.11605909214308412
+cur_iter_in= 251 , cur_error_in= 0.11025613762620849
+cur_iter_in= 252 , cur_error_in= 0.10474333090752692
+cur_iter_in= 253 , cur_error_in= 0.09950616451442498
+cur_iter_in= 254 , cur_error_in= 0.09453085632830346
+cur_iter_in= 255 , cur_error_in= 0.08980431347443806
+cur_iter_in= 256 , cur_error_in= 0.0853140978088784
+cur_iter_in= 257 , cur_error_in= 0.08104839297562358
+cur_iter_in= 258 , cur_error_in= 0.07699597339784146
+cur_iter_in= 259 , cur_error_in= 0.07314617477040393
+cur_iter_in= 260 , cur_error_in= 0.06948886598824598
+cur_iter_in= 261 , cur_error_in= 0.06601442254657168
+cur_iter_in= 262 , cur_error_in= 0.0627137012955095
+cur_iter_in= 263 , cur_error_in= 0.05957801622162239
+cur_iter_in= 264 , cur_error_in= 0.05659911546952988
+cur_iter_in= 265 , cur_error_in= 0.053769159743677436
+cur_iter_in= 266 , cur_error_in= 0.05108070184603958
+cur_iter_in= 267 , cur_error_in= 0.04852666685427904
+cur_iter_in= 268 , cur_error_in= 0.04610033360247006
+cur_iter_in= 269 , cur_error_in= 0.0437953168881234
+cur_iter_in= 270 , cur_error_in= 0.04160555088781224
+cur_iter_in= 271 , cur_error_in= 0.03952527306985914
+cur_iter_in= 272 , cur_error_in= 0.03754900918095225
+cur_iter_in= 273 , cur_error_in= 0.03567155857001357
+cur_iter_in= 274 , cur_error_in= 0.03388798059228801
+cur_iter_in= 275 , cur_error_in= 0.03219358154818788
+cur_iter_in= 276 , cur_error_in= 0.030583902496745356
+cur_iter_in= 277 , cur_error_in= 0.02905470746468026
+cur_iter_in= 278 , cur_error_in= 0.027601972266995272
+cur_iter_in= 279 , cur_error_in= 0.026221873797655722
+cur_iter_in= 280 , cur_error_in= 0.024910780221890617
+cur_iter_in= 281 , cur_error_in= 0.023665241329108952
+cur_iter_in= 282 , cur_error_in= 0.022481979322432396
+cur_iter_in= 283 , cur_error_in= 0.021357880387784377
+cur_iter_in= 284 , cur_error_in= 0.02028998640249884
+cur_iter_in= 285 , cur_error_in= 0.019275487128280137
+cur_iter_in= 286 , cur_error_in= 0.0183117128025608
+cur_iter_in= 287 , cur_error_in= 0.01739612716859896
+cur_iter_in= 288 , cur_error_in= 0.016526320788224243
+cur_iter_in= 289 , cur_error_in= 0.015700004705117024
+cur_iter_in= 290 , cur_error_in= 0.014915004463395146
+cur_iter_in= 291 , cur_error_in= 0.014169254181768724
+cur_iter_in= 292 , cur_error_in= 0.013460791365394333
+cur_iter_in= 293 , cur_error_in= 0.012787751708434096
+cur_iter_in= 294 , cur_error_in= 0.012148364120754734
+cur_iter_in= 295 , cur_error_in= 0.011540945931579609
+cur_iter_in= 296 , cur_error_in= 0.01096389866958461
+cur_iter_in= 297 , cur_error_in= 0.010415703687068605
+cur_iter_in= 298 , cur_error_in= 0.009894918424904033
+cur_iter_in= 299 , cur_error_in= 0.00940017237385388
+cur_iter_in= 300 , cur_error_in= 0.008930163613752859
+cur_iter_in= 301 , cur_error_in= 0.008483655354790893
+cur_iter_in= 302 , cur_error_in= 0.008059472622584333
+cur_iter_in= 303 , cur_error_in= 0.007656499074214326
+cur_iter_in= 304 , cur_error_in= 0.007273674177829741
+cur_iter_in= 305 , cur_error_in= 0.006909990534741457
+cur_iter_in= 306 , cur_error_in= 0.006564491116708992
+cur_iter_in= 307 , cur_error_in= 0.006236266647973648
+cur_iter_in= 308 , cur_error_in= 0.005924453365265392
+cur_iter_in= 309 , cur_error_in= 0.005628230796212921
+cur_iter_in= 310 , cur_error_in= 0.005346819342426507
+cur_iter_in= 311 , cur_error_in= 0.005079478406668399
+cur_iter_in= 312 , cur_error_in= 0.004825504478800997
+cur_iter_in= 313 , cur_error_in= 0.004584229221121122
+cur_iter_in= 314 , cur_error_in= 0.004355017719824061
+cur_iter_in= 315 , cur_error_in= 0.004137266838184428
+cur_iter_in= 316 , cur_error_in= 0.003930403444013055
+cur_iter_in= 317 , cur_error_in= 0.0037338832021890393
+cur_iter_in= 318 , cur_error_in= 0.00354718899210583
+cur_iter_in= 319 , cur_error_in= 0.0033698294863805764
+cur_iter_in= 320 , cur_error_in= 0.0032013379233207196
+cur_iter_in= 321 , cur_error_in= 0.003041270956620516
+cur_iter_in= 322 , cur_error_in= 0.002889207406136244
+cur_iter_in= 323 , cur_error_in= 0.002744747129271481
+cur_iter_in= 324 , cur_error_in= 0.0026075099010780573
+cur_iter_in= 325 , cur_error_in= 0.0024771345849697902
+cur_iter_in= 326 , cur_error_in= 0.002353278042695591
+cur_iter_in= 327 , cur_error_in= 0.002235614238480118
+cur_iter_in= 328 , cur_error_in= 0.002123833528727468
+cur_iter_in= 329 , cur_error_in= 0.0020176417760977045
+cur_iter_in= 330 , cur_error_in= 0.0019167596485422309
+cur_iter_in= 331 , cur_error_in= 0.001820921704420056
+cur_iter_in= 332 , cur_error_in= 0.0017298756636611415
+cur_iter_in= 333 , cur_error_in= 0.001643381826118956
+cur_iter_in= 334 , cur_error_in= 0.0015612125578265308
+cur_iter_in= 335 , cur_error_in= 0.0014831517513249038
+cur_iter_in= 336 , cur_error_in= 0.0014089940247736467
+cur_iter_in= 337 , cur_error_in= 0.0013385442668332045
+cur_iter_in= 338 , cur_error_in= 0.0012716171493557143
+cur_iter_in= 339 , cur_error_in= 0.001208036426725452
+cur_iter_in= 340 , cur_error_in= 0.0011476347515798708
+cur_iter_in= 341 , cur_error_in= 0.001090253044572604
+cur_iter_in= 342 , cur_error_in= 0.001035740306131464
+cur_iter_in= 343 , cur_error_in= 0.000983953149962151
+cur_iter_in= 344 , cur_error_in= 0.0009347553910210133
+cur_iter_in= 345 , cur_error_in= 0.0008880175844048499
+cur_iter_in= 346 , cur_error_in= 0.0008436167416875152
+cur_iter_in= 347 , cur_error_in= 0.0008014359608089767
+cur_iter_in= 348 , cur_error_in= 0.000761364244518746
+cur_iter_in= 349 , cur_error_in= 0.0007232961093559333
+cur_iter_in= 350 , cur_error_in= 0.000687131398760773
+cur_iter_in= 351 , cur_error_in= 0.0006527749607243415
+cur_iter_in= 352 , cur_error_in= 0.000620136342808476
+cur_iter_in= 353 , cur_error_in= 0.0005891296546243749
+cur_iter_in= 354 , cur_error_in= 0.0005596731648516693
+cur_iter_in= 355 , cur_error_in= 0.0005316894084001209
+cur_iter_in= 356 , cur_error_in= 0.0005051047972436571
+cur_iter_in= 357 , cur_error_in= 0.0004798494643408249
+cur_iter_in= 358 , cur_error_in= 0.00045585697712828576
+cur_iter_in= 359 , cur_error_in= 0.0004330641284634909
+cur_iter_in= 360 , cur_error_in= 0.00041141088139896496
+cur_iter_in= 361 , cur_error_in= 0.000390840286993786
+cur_iter_in= 362 , cur_error_in= 0.00037129819921351433
+cur_iter_in= 363 , cur_error_in= 0.00035273320340144774
+cur_iter_in= 364 , cur_error_in= 0.00033509655557586597
+cur_iter_in= 365 , cur_error_in= 0.00031834181506591356
+cur_iter_in= 366 , cur_error_in= 0.00030242481987986764
+cur_iter_in= 367 , cur_error_in= 0.0002873036829283672
+cur_iter_in= 368 , cur_error_in= 0.00027293858978426604
+cur_iter_in= 369 , cur_error_in= 0.0002592916310538901
+cur_iter_in= 370 , cur_error_in= 0.00024632695941431053
+cur_iter_in= 371 , cur_error_in= 0.0002340105469138926
+cur_iter_in= 372 , cur_error_in= 0.00022230999155117704
+cur_iter_in= 373 , cur_error_in= 0.000211194538981609
+cur_iter_in= 374 , cur_error_in= 0.00020063484842956688
+cur_iter_in= 375 , cur_error_in= 0.0001906031279920926
+cur_iter_in= 376 , cur_error_in= 0.00018107299344099546
+cur_iter_in= 377 , cur_error_in= 0.00017201936180802346
+cur_iter_in= 378 , cur_error_in= 0.00016341842033989974
+cur_iter_in= 379 , cur_error_in= 0.000155247490278796
+cur_iter_in= 380 , cur_error_in= 0.00014748505635979773
+cur_iter_in= 381 , cur_error_in= 0.00014011075320591594
+cur_iter_in= 382 , cur_error_in= 0.00013310514117066235
+cur_iter_in= 383 , cur_error_in= 0.00012644985737917975
+cur_iter_in= 384 , cur_error_in= 0.00012012736437053408
+cur_iter_in= 385 , cur_error_in= 0.00011412101198390741
+cur_iter_in= 386 , cur_error_in= 0.00010841492820242414
+cur_iter_in= 387 , cur_error_in= 0.00010299410322460237
+cur_iter_in= 388 , cur_error_in= 9.784435728007447e-05
+cur_iter_in= 389 , cur_error_in= 9.295203909194012e-05
+cur_iter_in= 390 , cur_error_in= 8.830430269762105e-05
+cur_iter_in= 391 , cur_error_in= 8.388905313655804e-05
+cur_iter_in= 392 , cur_error_in= 7.969465895153936e-05
+cur_iter_in= 393 , cur_error_in= 7.571007740713016e-05
+cur_iter_in= 394 , cur_error_in= 7.192469762365555e-05
+cur_iter_in= 395 , cur_error_in= 6.832851179049426e-05
+cur_iter_in= 396 , cur_error_in= 6.491206171928905e-05
+cur_iter_in= 397 , cur_error_in= 6.166649415123899e-05
+cur_iter_in= 398 , cur_error_in= 5.858320517846168e-05
+cur_iter_in= 399 , cur_error_in= 5.565411269164078e-05
+cur_iter_in= 400 , cur_error_in= 5.287142006002203e-05
+cur_iter_in= 401 , cur_error_in= 5.022783941483785e-05
+cur_iter_in= 402 , cur_error_in= 4.7716375159338737e-05
+cur_iter_in= 403 , cur_error_in= 4.533039625737535e-05
+cur_iter_in= 404 , cur_error_in= 4.3063790766565175e-05
+cur_iter_in= 405 , cur_error_in= 4.0910625057710546e-05
+cur_iter_in= 406 , cur_error_in= 3.886520630756361e-05
+cur_iter_in= 407 , cur_error_in= 3.692206174978686e-05
+cur_iter_in= 408 , cur_error_in= 3.507603519773048e-05
+cur_iter_in= 409 , cur_error_in= 3.3322178758121136e-05
+cur_iter_in= 410 , cur_error_in= 3.165593898729749e-05
+cur_iter_in= 411 , cur_error_in= 3.0073005733134475e-05
+cur_iter_in= 412 , cur_error_in= 2.8569273741919097e-05
+cur_iter_in= 413 , cur_error_in= 2.7140745990168687e-05
+cur_iter_in= 414 , cur_error_in= 2.5783639041244933e-05
+cur_iter_in= 415 , cur_error_in= 2.4494458810204442e-05
+cur_iter_in= 416 , cur_error_in= 2.326976579158965e-05
+cur_iter_in= 417 , cur_error_in= 2.210628105671488e-05
+cur_iter_in= 418 , cur_error_in= 2.1000946577203514e-05
+cur_iter_in= 419 , cur_error_in= 1.9950916684333083e-05
+cur_iter_in= 420 , cur_error_in= 1.8953454929360408e-05
+cur_iter_in= 421 , cur_error_in= 1.8005896096651737e-05
+cur_iter_in= 422 , cur_error_in= 1.7105688527852195e-05
+cur_iter_in= 423 , cur_error_in= 1.625051796092912e-05
+cur_iter_in= 424 , cur_error_in= 1.5438131589200406e-05
+cur_iter_in= 425 , cur_error_in= 1.466625712600815e-05
+cur_iter_in= 426 , cur_error_in= 1.3932924477537378e-05
+cur_iter_in= 427 , cur_error_in= 1.3236216514552049e-05
+cur_iter_in= 428 , cur_error_in= 1.2574377147284547e-05
+cur_iter_in= 429 , cur_error_in= 1.1945706395863406e-05
+cur_iter_in= 430 , cur_error_in= 1.1348536322073743e-05
+cur_iter_in= 431 , cur_error_in= 1.0781297382831602e-05
+cur_iter_in= 432 , cur_error_in= 1.0242389398019662e-05
+cur_iter_in= 433 , cur_error_in= 9.730309977721422e-06
+cur_iter_in= 434 , cur_error_in= 9.243731876728387e-06
+cur_iter_in= 435 , cur_error_in= 8.781457146729532e-06
+cur_iter_in= 436 , cur_error_in= 8.342251986880634e-06
+cur_iter_in= 437 , cur_error_in= 7.924990538350377e-06
+cur_iter_in= 438 , cur_error_in= 7.528581804989494e-06
+cur_iter_in= 439 , cur_error_in= 7.151952886670263e-06
+cur_iter_in= 440 , cur_error_in= 6.79417137866231e-06
+cur_iter_in= 441 , cur_error_in= 6.454307367208556e-06
+cur_iter_in= 442 , cur_error_in= 6.131538386428454e-06
+cur_iter_in= 443 , cur_error_in= 5.8250525150359025e-06
+cur_iter_in= 444 , cur_error_in= 5.5339295000672785e-06
+cur_iter_in= 445 , cur_error_in= 5.25739877977506e-06
+cur_iter_in= 446 , cur_error_in= 4.994661723428697e-06
+cur_iter_in= 447 , cur_error_in= 4.745100486276249e-06
+cur_iter_in= 448 , cur_error_in= 4.5080091578940585e-06
+cur_iter_in= 449 , cur_error_in= 4.282729262703482e-06
+cur_iter_in= 450 , cur_error_in= 4.06864528207743e-06
+cur_iter_in= 451 , cur_error_in= 3.865225585709264e-06
+cur_iter_in= 452 , cur_error_in= 3.671921732369e-06
+cur_iter_in= 453 , cur_error_in= 3.4883220698769947e-06
+cur_iter_in= 454 , cur_error_in= 3.3138829113982276e-06
+cur_iter_in= 455 , cur_error_in= 3.1481412228745092e-06
+cur_iter_in= 456 , cur_error_in= 2.990581060302148e-06
+cur_iter_in= 457 , cur_error_in= 2.8407666551258236e-06
+cur_iter_in= 458 , cur_error_in= 2.698462038201176e-06
+cur_iter_in= 459 , cur_error_in= 2.5633854883356997e-06
+cur_iter_in= 460 , cur_error_in= 2.4352545125892062e-06
+cur_iter_in= 461 , cur_error_in= 2.3135479653128497e-06
+cur_iter_in= 462 , cur_error_in= 2.1978635462803983e-06
+cur_iter_in= 463 , cur_error_in= 2.0879822504058892e-06
+cur_iter_in= 464 , cur_error_in= 1.9836335219945292e-06
+cur_iter_in= 465 , cur_error_in= 1.8845650480290708e-06
+cur_iter_in= 466 , cur_error_in= 1.7904855924551566e-06
+cur_iter_in= 467 , cur_error_in= 1.7010424146860503e-06
+cur_iter_in= 468 , cur_error_in= 1.6160389319373639e-06
+cur_iter_in= 469 , cur_error_in= 1.5352580378394828e-06
+cur_iter_in= 470 , cur_error_in= 1.4585027254608805e-06
+cur_iter_in= 471 , cur_error_in= 1.3855525835290387e-06
+cur_iter_in= 472 , cur_error_in= 1.316248560305753e-06
+cur_iter_in= 473 , cur_error_in= 1.2504472497569143e-06
+cur_iter_in= 474 , cur_error_in= 1.1879421040500473e-06
+cur_iter_in= 475 , cur_error_in= 1.1285911750196187e-06
+cur_iter_in= 476 , cur_error_in= 1.0721620457436618e-06
+cur_iter_in= 477 , cur_error_in= 1.0185635163051907e-06
+cur_iter_out= 2 , cur_error_out= 169.10943202553784
+cur_iter_in= 1 , cur_error_in= 9.999999999999999e-06
+cur_iter_in= 2 , cur_error_in= 20511.769670976886
+cur_iter_in= 3 , cur_error_in= 20679.79701549303
+cur_iter_in= 4 , cur_error_in= 16398.346019116787
+cur_iter_in= 5 , cur_error_in= 15065.04170859835
+cur_iter_in= 6 , cur_error_in= 13362.183318194075
+cur_iter_in= 7 , cur_error_in= 11933.22755592123
+cur_iter_in= 8 , cur_error_in= 11060.83351140022
+cur_iter_in= 9 , cur_error_in= 10048.77121281084
+cur_iter_in= 10 , cur_error_in= 8959.901351207935
+cur_iter_in= 11 , cur_error_in= 8021.9583304252055
+cur_iter_in= 12 , cur_error_in= 7377.63556437317
+cur_iter_in= 13 , cur_error_in= 6935.9109759034845
+cur_iter_in= 14 , cur_error_in= 6574.280107495905
+cur_iter_in= 15 , cur_error_in= 6243.342526345435
+cur_iter_in= 16 , cur_error_in= 5930.904320177203
+cur_iter_in= 17 , cur_error_in= 5634.3282340157575
+cur_iter_in= 18 , cur_error_in= 5352.608281924673
+cur_iter_in= 19 , cur_error_in= 5084.977466586028
+cur_iter_in= 20 , cur_error_in= 4830.728548609398
+cur_iter_in= 21 , cur_error_in= 4589.192116159747
+cur_iter_in= 22 , cur_error_in= 4359.732509782183
+cur_iter_in= 23 , cur_error_in= 4141.745884228998
+cur_iter_in= 24 , cur_error_in= 3934.658590010322
+cur_iter_in= 25 , cur_error_in= 3737.9256605089877
+cur_iter_in= 26 , cur_error_in= 3551.029377483446
+cur_iter_in= 27 , cur_error_in= 3373.4779086092703
+cur_iter_in= 28 , cur_error_in= 3204.8040131788375
+cur_iter_in= 29 , cur_error_in= 3044.5638125198757
+cur_iter_in= 30 , cur_error_in= 2892.335621893846
+cur_iter_in= 31 , cur_error_in= 2747.718840799175
+cur_iter_in= 32 , cur_error_in= 2610.3328987592413
+cur_iter_in= 33 , cur_error_in= 2479.8162538212846
+cur_iter_in= 34 , cur_error_in= 2355.8254411302323
+cur_iter_in= 35 , cur_error_in= 2238.0341690737123
+cur_iter_in= 36 , cur_error_in= 2126.1324606200346
+cur_iter_in= 37 , cur_error_in= 2019.8258375890464
+cur_iter_in= 38 , cur_error_in= 1918.8345457096173
+cur_iter_in= 39 , cur_error_in= 1822.8928184240942
+cur_iter_in= 40 , cur_error_in= 1731.7481775029075
+cur_iter_in= 41 , cur_error_in= 1645.1607686277714
+cur_iter_in= 42 , cur_error_in= 1562.9027301963667
+cur_iter_in= 43 , cur_error_in= 1484.7575936865358
+cur_iter_in= 44 , cur_error_in= 1410.5197140022067
+cur_iter_in= 45 , cur_error_in= 1339.993728302112
+cur_iter_in= 46 , cur_error_in= 1272.994041886975
+cur_iter_in= 47 , cur_error_in= 1209.344339792648
+cur_iter_in= 48 , cur_error_in= 1148.877122803009
+cur_iter_in= 49 , cur_error_in= 1091.4332666628534
+cur_iter_in= 50 , cur_error_in= 1036.861603329716
+cur_iter_in= 51 , cur_error_in= 985.0185231632287
+cur_iter_in= 52 , cur_error_in= 935.767597005098
+cur_iter_in= 53 , cur_error_in= 888.9792171548382
+cur_iter_in= 54 , cur_error_in= 844.5302562971092
+cur_iter_in= 55 , cur_error_in= 802.3037434822431
+cur_iter_in= 56 , cur_error_in= 762.1885563081322
+cur_iter_in= 57 , cur_error_in= 724.0791284927034
+cur_iter_in= 58 , cur_error_in= 687.8751720680744
+cur_iter_in= 59 , cur_error_in= 653.48141346469
+cur_iter_in= 60 , cur_error_in= 620.8073427914568
+cur_iter_in= 61 , cur_error_in= 589.7669756518717
+cur_iter_in= 62 , cur_error_in= 560.2786268692696
+cur_iter_in= 63 , cur_error_in= 532.2646955258185
+cur_iter_in= 64 , cur_error_in= 505.6514607495045
+cur_iter_in= 65 , cur_error_in= 480.3688877120445
+cur_iter_in= 66 , cur_error_in= 456.3504433264475
+cur_iter_in= 67 , cur_error_in= 433.53292116011215
+cur_iter_in= 68 , cur_error_in= 411.85627510210065
+cur_iter_in= 69 , cur_error_in= 391.26346134696144
+cur_iter_in= 70 , cur_error_in= 371.7002882796245
+cur_iter_in= 71 , cur_error_in= 353.11527386567684
+cur_iter_in= 72 , cur_error_in= 335.45951017240134
+cur_iter_in= 73 , cur_error_in= 318.68653466379305
+cur_iter_in= 74 , cur_error_in= 302.7522079306008
+cur_iter_in= 75 , cur_error_in= 287.61459753408184
+cur_iter_in= 76 , cur_error_in= 273.23386765737064
+cur_iter_in= 77 , cur_error_in= 259.57217427451985
+cur_iter_in= 78 , cur_error_in= 246.5935655607925
+cur_iter_in= 79 , cur_error_in= 234.26388728274995
+cur_iter_in= 80 , cur_error_in= 222.55069291861543
+cur_iter_in= 81 , cur_error_in= 211.42315827267038
+cur_iter_in= 82 , cur_error_in= 200.8520003590514
+cur_iter_in= 83 , cur_error_in= 190.80940034107869
+cur_iter_in= 84 , cur_error_in= 181.2689303240282
+cur_iter_in= 85 , cur_error_in= 172.20548380782986
+cur_iter_in= 86 , cur_error_in= 163.59520961743655
+cur_iter_in= 87 , cur_error_in= 155.4154491365565
+cur_iter_in= 88 , cur_error_in= 147.64467667973432
+cur_iter_in= 89 , cur_error_in= 140.2624428457349
+cur_iter_in= 90 , cur_error_in= 133.24932070345366
+cur_iter_in= 91 , cur_error_in= 126.58685466826113
+cur_iter_in= 92 , cur_error_in= 120.25751193484216
+cur_iter_in= 93 , cur_error_in= 114.2446363381098
+cur_iter_in= 94 , cur_error_in= 108.53240452119938
+cur_iter_in= 95 , cur_error_in= 103.10578429514945
+cur_iter_in= 96 , cur_error_in= 97.95049508040145
+cur_iter_in= 97 , cur_error_in= 93.05297032637196
+cur_iter_in= 98 , cur_error_in= 88.40032181004314
+cur_iter_in= 99 , cur_error_in= 83.98030571954584
+cur_iter_in= 100 , cur_error_in= 79.78129043359694
+cur_iter_in= 101 , cur_error_in= 75.79222591190918
+cur_iter_in= 102 , cur_error_in= 72.0026146163356
+cur_iter_in= 103 , cur_error_in= 68.40248388552394
+cur_iter_in= 104 , cur_error_in= 64.98235969124221
+cur_iter_in= 105 , cur_error_in= 61.733241706694756
+cur_iter_in= 106 , cur_error_in= 58.64657962135185
+cur_iter_in= 107 , cur_error_in= 55.714250640302346
+cur_iter_in= 108 , cur_error_in= 52.928538108276136
+cur_iter_in= 109 , cur_error_in= 50.28211120285051
+cur_iter_in= 110 , cur_error_in= 47.76800564270368
+cur_iter_in= 111 , cur_error_in= 45.379605360568824
+cur_iter_in= 112 , cur_error_in= 43.1106250925185
+cur_iter_in= 113 , cur_error_in= 40.95509383787925
+cur_iter_in= 114 , cur_error_in= 38.907339145975904
+cur_iter_in= 115 , cur_error_in= 36.9619721886916
+cur_iter_in= 116 , cur_error_in= 35.11387357924846
+cur_iter_in= 117 , cur_error_in= 33.35817990029859
+cur_iter_in= 118 , cur_error_in= 31.690270905291513
+cur_iter_in= 119 , cur_error_in= 30.105757360004336
+cur_iter_in= 120 , cur_error_in= 28.600469492027255
+cur_iter_in= 121 , cur_error_in= 27.17044601740198
+cur_iter_in= 122 , cur_error_in= 25.811923716548556
+cur_iter_in= 123 , cur_error_in= 24.521327530705893
+cur_iter_in= 124 , cur_error_in= 23.295261154173296
+cur_iter_in= 125 , cur_error_in= 22.130498096456126
+cur_iter_in= 126 , cur_error_in= 21.023973191641854
+cur_iter_in= 127 , cur_error_in= 19.972774532049275
+cur_iter_in= 128 , cur_error_in= 18.9741358054822
+cur_iter_in= 129 , cur_error_in= 18.02542901518459
+cur_iter_in= 130 , cur_error_in= 17.12415756441954
+cur_iter_in= 131 , cur_error_in= 16.267949686218028
+cur_iter_in= 132 , cur_error_in= 15.454552201892858
+cur_iter_in= 133 , cur_error_in= 14.681824591814548
+cur_iter_in= 134 , cur_error_in= 13.947733362237948
+cur_iter_in= 135 , cur_error_in= 13.25034669412548
+cur_iter_in= 136 , cur_error_in= 12.587829359417553
+cur_iter_in= 137 , cur_error_in= 11.958437891456581
+cur_iter_in= 138 , cur_error_in= 11.360515996852532
+cur_iter_in= 139 , cur_error_in= 10.792490196987758
+cur_iter_in= 140 , cur_error_in= 10.25286568712204
+cur_iter_in= 141 , cur_error_in= 9.740222402759796
+cur_iter_in= 142 , cur_error_in= 9.253211282622708
+cur_iter_in= 143 , cur_error_in= 8.790550718506186
+cur_iter_in= 144 , cur_error_in= 8.351023182590662
+cur_iter_in= 145 , cur_error_in= 7.9334720234667895
+cur_iter_in= 146 , cur_error_in= 7.5367984222982995
+cur_iter_in= 147 , cur_error_in= 7.159958501208726
+cur_iter_in= 148 , cur_error_in= 6.801960576123092
+cur_iter_in= 149 , cur_error_in= 6.4618625473414655
+cur_iter_in= 150 , cur_error_in= 6.138769419974455
+cur_iter_in= 151 , cur_error_in= 5.831830948974977
+cur_iter_in= 152 , cur_error_in= 5.540239401493827
+cur_iter_in= 153 , cur_error_in= 5.263227431427482
+cur_iter_in= 154 , cur_error_in= 5.000066059862087
+cur_iter_in= 155 , cur_error_in= 4.750062756885149
+cur_iter_in= 156 , cur_error_in= 4.512559619030479
+cur_iter_in= 157 , cur_error_in= 4.286931638092165
+cur_iter_in= 158 , cur_error_in= 4.072585056209296
+cur_iter_in= 159 , cur_error_in= 3.868955803413506
+cur_iter_in= 160 , cur_error_in= 3.675508013248403
+cur_iter_in= 161 , cur_error_in= 3.49173261258683
+cur_iter_in= 162 , cur_error_in= 3.317145981943757
+cur_iter_in= 163 , cur_error_in= 3.1512886828322717
+cur_iter_in= 164 , cur_error_in= 2.9937242486534745
+cur_iter_in= 165 , cur_error_in= 2.844038036197146
+cur_iter_in= 166 , cur_error_in= 2.7018361344040223
+cur_iter_in= 167 , cur_error_in= 2.566744327708555
+cur_iter_in= 168 , cur_error_in= 2.4384071113553016
+cur_iter_in= 169 , cur_error_in= 2.3164867558156077
+cur_iter_in= 170 , cur_error_in= 2.2006624180333394
+cur_iter_in= 171 , cur_error_in= 2.090629297126693
+cur_iter_in= 172 , cur_error_in= 1.9860978322614662
+cur_iter_in= 173 , cur_error_in= 1.8867929406240764
+cur_iter_in= 174 , cur_error_in= 1.7924532935780169
+cur_iter_in= 175 , cur_error_in= 1.7028306288730946
+cur_iter_in= 176 , cur_error_in= 1.6176890974306788
+cur_iter_in= 177 , cur_error_in= 1.5368046425634578
+cur_iter_in= 178 , cur_error_in= 1.4599644104436074
+cur_iter_in= 179 , cur_error_in= 1.3869661899214563
+cur_iter_in= 180 , cur_error_in= 1.3176178804286516
+cur_iter_in= 181 , cur_error_in= 1.2517369864086259
+cur_iter_in= 182 , cur_error_in= 1.189150137119444
+cur_iter_in= 183 , cur_error_in= 1.12969263025702
+cur_iter_in= 184 , cur_error_in= 1.0732079987436425
+cur_iter_in= 185 , cur_error_in= 1.0195475988212737
+cur_iter_in= 186 , cur_error_in= 0.9685702188773466
+cur_iter_in= 187 , cur_error_in= 0.9201417078970069
+cur_iter_in= 188 , cur_error_in= 0.8741346225086323
+cur_iter_in= 189 , cur_error_in= 0.8304278913440765
+cur_iter_in= 190 , cur_error_in= 0.7889064967755083
+cur_iter_in= 191 , cur_error_in= 0.7494611719467099
+cur_iter_in= 192 , cur_error_in= 0.7119881133355889
+cur_iter_in= 193 , cur_error_in= 0.6763887076801697
+cur_iter_in= 194 , cur_error_in= 0.64256927228294
+cur_iter_in= 195 , cur_error_in= 0.610440808666884
+cur_iter_in= 196 , cur_error_in= 0.5799187682111272
+cur_iter_in= 197 , cur_error_in= 0.5509228298004374
+cur_iter_in= 198 , cur_error_in= 0.5233766883201019
+cur_iter_in= 199 , cur_error_in= 0.4972078539034884
+cur_iter_in= 200 , cur_error_in= 0.4723474612120743
+cur_iter_in= 201 , cur_error_in= 0.44873008815935095
+cur_iter_in= 202 , cur_error_in= 0.4262935837528421
+cur_iter_in= 203 , cur_error_in= 0.4049789045756895
+cur_iter_in= 204 , cur_error_in= 0.3847299593703165
+cur_iter_in= 205 , cur_error_in= 0.36549346139169897
+cur_iter_in= 206 , cur_error_in= 0.34721878833425823
+cur_iter_in= 207 , cur_error_in= 0.32985784888672953
+cur_iter_in= 208 , cur_error_in= 0.3133649564208203
+cur_iter_in= 209 , cur_error_in= 0.2976967086158268
+cur_iter_in= 210 , cur_error_in= 0.2828118731771326
+cur_iter_in= 211 , cur_error_in= 0.2686712795104594
+cur_iter_in= 212 , cur_error_in= 0.25523771551501634
+cur_iter_in= 213 , cur_error_in= 0.24247582976039644
+cur_iter_in= 214 , cur_error_in= 0.23035203829538461
+cur_iter_in= 215 , cur_error_in= 0.2188344364103008
+cur_iter_in= 216 , cur_error_in= 0.20789271457200428
+cur_iter_in= 217 , cur_error_in= 0.19749807886188417
+cur_iter_in= 218 , cur_error_in= 0.18762317491521113
+cur_iter_in= 219 , cur_error_in= 0.17824201617418425
+cur_iter_in= 220 , cur_error_in= 0.16932991536505107
+cur_iter_in= 221 , cur_error_in= 0.16086341956975614
+cur_iter_in= 222 , cur_error_in= 0.15282024861502932
+cur_iter_in= 223 , cur_error_in= 0.14517923615660103
+cur_iter_in= 224 , cur_error_in= 0.13792027434617954
+cur_iter_in= 225 , cur_error_in= 0.13102426065250433
+cur_iter_in= 226 , cur_error_in= 0.12447304761458998
+cur_iter_in= 227 , cur_error_in= 0.11824939524163701
+cur_iter_in= 228 , cur_error_in= 0.11233692546562621
+cur_iter_in= 229 , cur_error_in= 0.1067200791658204
+cur_iter_in= 230 , cur_error_in= 0.10138407520315663
+cur_iter_in= 231 , cur_error_in= 0.09631487145279387
+cur_iter_in= 232 , cur_error_in= 0.09149912788025168
+cur_iter_in= 233 , cur_error_in= 0.08692417150954679
+cur_iter_in= 234 , cur_error_in= 0.0825779629465915
+cur_iter_in= 235 , cur_error_in= 0.07844906477614225
+cur_iter_in= 236 , cur_error_in= 0.07452661154235067
+cur_iter_in= 237 , cur_error_in= 0.0708002809664963
+cur_iter_in= 238 , cur_error_in= 0.06726026694020636
+cur_iter_in= 239 , cur_error_in= 0.06389725357741699
+cur_iter_in= 240 , cur_error_in= 0.06070239092098274
+cur_iter_in= 241 , cur_error_in= 0.05766727140248456
+cur_iter_in= 242 , cur_error_in= 0.05478390783422623
+cur_iter_in= 243 , cur_error_in= 0.05204471243236029
+cur_iter_in= 244 , cur_error_in= 0.04944247679445436
+cur_iter_in= 245 , cur_error_in= 0.04697035295096377
+cur_iter_in= 246 , cur_error_in= 0.044621835301596545
+cur_iter_in= 247 , cur_error_in= 0.04239074354849937
+cur_iter_in= 248 , cur_error_in= 0.04027120636385738
+cur_iter_in= 249 , cur_error_in= 0.03825764603347268
+cur_iter_in= 250 , cur_error_in= 0.036344763731880454
+cur_iter_in= 251 , cur_error_in= 0.03452752554838717
+cur_iter_in= 252 , cur_error_in= 0.03280114927765748
+cur_iter_in= 253 , cur_error_in= 0.03116109183898653
+cur_iter_in= 254 , cur_error_in= 0.029603037260490895
+cur_iter_in= 255 , cur_error_in= 0.02812288538511756
+cur_iter_in= 256 , cur_error_in= 0.026716741131174993
+cur_iter_in= 257 , cur_error_in= 0.02538090405971431
+cur_iter_in= 258 , cur_error_in= 0.024111858827818036
+cur_iter_in= 259 , cur_error_in= 0.022906265871461457
+cur_iter_in= 260 , cur_error_in= 0.021760952573556612
+cur_iter_in= 261 , cur_error_in= 0.020672904964259792
+cur_iter_in= 262 , cur_error_in= 0.01963925970611941
+cur_iter_in= 263 , cur_error_in= 0.01865729674722534
+cur_iter_in= 264 , cur_error_in= 0.017724431898995547
+cur_iter_in= 265 , cur_error_in= 0.016838210300464843
+cur_iter_in= 266 , cur_error_in= 0.01599629979333234
+cur_iter_in= 267 , cur_error_in= 0.015196484795649778
+cur_iter_in= 268 , cur_error_in= 0.014436660562283786
+cur_iter_in= 269 , cur_error_in= 0.013714827499778318
+cur_iter_in= 270 , cur_error_in= 0.013029086132096551
+cur_iter_in= 271 , cur_error_in= 0.012377631829492192
+cur_iter_in= 272 , cur_error_in= 0.01175875024977381
+cur_iter_in= 273 , cur_error_in= 0.01117081272670357
+cur_iter_in= 274 , cur_error_in= 0.0106122720821402
+cur_iter_in= 275 , cur_error_in= 0.010081658488768339
+cur_iter_in= 276 , cur_error_in= 0.009577575571136771
+cur_iter_in= 277 , cur_error_in= 0.00909869676285868
+cur_iter_in= 278 , cur_error_in= 0.008643761943823448
+cur_iter_in= 279 , cur_error_in= 0.00821157386976267
+cur_iter_in= 280 , cur_error_in= 0.007800995201712904
+cur_iter_in= 281 , cur_error_in= 0.007410945439549489
+cur_iter_in= 282 , cur_error_in= 0.007040398168817124
+cur_iter_in= 283 , cur_error_in= 0.006688378263316027
+cur_iter_in= 284 , cur_error_in= 0.006353959320190609
+cur_iter_in= 285 , cur_error_in= 0.0060362613486384786
+cur_iter_in= 286 , cur_error_in= 0.005734448279657469
+cur_iter_in= 287 , cur_error_in= 0.005447725843393063
+cur_iter_in= 288 , cur_error_in= 0.00517533955642989
+cur_iter_in= 289 , cur_error_in= 0.004916572586061374
+cur_iter_in= 290 , cur_error_in= 0.004670743939827738
+cur_iter_in= 291 , cur_error_in= 0.004437206746207577
+cur_iter_in= 292 , cur_error_in= 0.004215346428705119
+cur_iter_in= 293 , cur_error_in= 0.004004579100519252
+cur_iter_in= 294 , cur_error_in= 0.003804350154217085
+cur_iter_in= 295 , cur_error_in= 0.003614132667614035
+cur_iter_in= 296 , cur_error_in= 0.0034334260336047503
+cur_iter_in= 297 , cur_error_in= 0.0032617547165163887
+cur_iter_in= 298 , cur_error_in= 0.0030986669887312856
+cur_iter_in= 299 , cur_error_in= 0.002943733667781047
+cur_iter_in= 300 , cur_error_in= 0.0027965469875101266
+cur_iter_in= 301 , cur_error_in= 0.0026567196245338947
+cur_iter_in= 302 , cur_error_in= 0.0025238836390978248
+cur_iter_in= 303 , cur_error_in= 0.0023976894218180208
+cur_iter_in= 304 , cur_error_in= 0.0022778049422074033
+cur_iter_in= 305 , cur_error_in= 0.0021639146802708855
+cur_iter_in= 306 , cur_error_in= 0.002055718940425897
+cur_iter_in= 307 , cur_error_in= 0.0019529330089874926
+cur_iter_in= 308 , cur_error_in= 0.001855286377066517
+cur_iter_in= 309 , cur_error_in= 0.0017625220794994893
+cur_iter_in= 310 , cur_error_in= 0.0016743959916445225
+cur_iter_in= 311 , cur_error_in= 0.0015906762010363775
+cur_iter_in= 312 , cur_error_in= 0.001511142427496183
+cur_iter_in= 313 , cur_error_in= 0.0014355853074013122
+cur_iter_in= 314 , cur_error_in= 0.0013638060328794719
+cur_iter_in= 315 , cur_error_in= 0.001295615727473258
+cur_iter_in= 316 , cur_error_in= 0.0012308349318931845
+cur_iter_in= 317 , cur_error_in= 0.0011692931773943976
+cur_iter_in= 318 , cur_error_in= 0.001110828491980734
+cur_iter_in= 319 , cur_error_in= 0.0010552870725572465
+cur_iter_in= 320 , cur_error_in= 0.0010025226951357288
+cur_iter_in= 321 , cur_error_in= 0.0009523965584609226
+cur_iter_in= 322 , cur_error_in= 0.0009047767285376298
+cur_iter_in= 323 , cur_error_in= 0.0008595378886581238
+cur_iter_in= 324 , cur_error_in= 0.0008165609804683524
+cur_iter_in= 325 , cur_error_in= 0.0007757329199310942
+cur_iter_in= 326 , cur_error_in= 0.0007369462453153846
+cur_iter_in= 327 , cur_error_in= 0.0007000989311854418
+cur_iter_in= 328 , cur_error_in= 0.000665094003922022
+cur_iter_in= 329 , cur_error_in= 0.0006318393081593236
+cur_iter_in= 330 , cur_error_in= 0.0006002473848104006
+cur_iter_in= 331 , cur_error_in= 0.0005702350257927107
+cur_iter_in= 332 , cur_error_in= 0.0005417232800432828
+cur_iter_in= 333 , cur_error_in= 0.0005146371381652898
+cur_iter_in= 334 , cur_error_in= 0.0004889052595566538
+cur_iter_in= 335 , cur_error_in= 0.0004644599918057088
+cur_iter_in= 336 , cur_error_in= 0.00044123695806155914
+cur_iter_in= 337 , cur_error_in= 0.00041917511290756983
+cur_iter_in= 338 , cur_error_in= 0.00039821632285924786
+cur_iter_in= 339 , cur_error_in= 0.0003783054894451838
+cur_iter_in= 340 , cur_error_in= 0.00035939021373717695
+cur_iter_in= 341 , cur_error_in= 0.0003414207017204741
+cur_iter_in= 342 , cur_error_in= 0.00032434967729396514
+cur_iter_in= 343 , cur_error_in= 0.0003081321816173196
+cur_iter_in= 344 , cur_error_in= 0.00029272558114571713
+cur_iter_in= 345 , cur_error_in= 0.0002780893086236429
+cur_iter_in= 346 , cur_error_in= 0.00026418485252686496
+cur_iter_in= 347 , cur_error_in= 0.0002509755924618305
+cur_iter_in= 348 , cur_error_in= 0.00023842680061114
+cur_iter_in= 349 , cur_error_in= 0.00022650547934233134
+cur_iter_in= 350 , cur_error_in= 0.00021518021760385373
+cur_iter_in= 351 , cur_error_in= 0.00020442120998532184
+cur_iter_in= 352 , cur_error_in= 0.00019420011434378737
+cur_iter_in= 353 , cur_error_in= 0.00018449009132580314
+cur_iter_in= 354 , cur_error_in= 0.0001752656100190129
+cur_iter_in= 355 , cur_error_in= 0.00016650237208881406
+cur_iter_in= 356 , cur_error_in= 0.00015817726156678433
+cur_iter_in= 357 , cur_error_in= 0.0001502683989937096
+cur_iter_in= 358 , cur_error_in= 0.00014275500267407588
+cur_iter_in= 359 , cur_error_in= 0.00013561723806019071
+cur_iter_in= 360 , cur_error_in= 0.00012883638762743035
+cur_iter_in= 361 , cur_error_in= 0.00012239455741181767
+cur_iter_in= 362 , cur_error_in= 0.00011627480299993546
+cur_iter_in= 363 , cur_error_in= 0.00011046106532092284
+cur_iter_in= 364 , cur_error_in= 0.00010493801986722474
+cur_iter_in= 365 , cur_error_in= 9.969109895340662e-05
+cur_iter_in= 366 , cur_error_in= 9.470655857071659e-05
+cur_iter_in= 367 , cur_error_in= 8.997125181319956e-05
+cur_iter_in= 368 , cur_error_in= 8.547266878683755e-05
+cur_iter_in= 369 , cur_error_in= 8.119904003168425e-05
+cur_iter_in= 370 , cur_error_in= 7.713911702782257e-05
+cur_iter_in= 371 , cur_error_in= 7.328216598663306e-05
+cur_iter_in= 372 , cur_error_in= 6.961803794309671e-05
+cur_iter_in= 373 , cur_error_in= 6.613715290959415e-05
+cur_iter_in= 374 , cur_error_in= 6.283028877846816e-05
+cur_iter_in= 375 , cur_error_in= 5.9688770008075586e-05
+cur_iter_in= 376 , cur_error_in= 5.670432846322638e-05
+cur_iter_in= 377 , cur_error_in= 5.386909475229023e-05
+cur_iter_in= 378 , cur_error_in= 5.117564604277224e-05
+cur_iter_in= 379 , cur_error_in= 4.8616881425932334e-05
+cur_iter_in= 380 , cur_error_in= 4.6185997967599956e-05
+cur_iter_in= 381 , cur_error_in= 4.387670226087067e-05
+cur_iter_in= 382 , cur_error_in= 4.1682880459692985e-05
+cur_iter_in= 383 , cur_error_in= 3.959871237826089e-05
+cur_iter_in= 384 , cur_error_in= 3.761876915955155e-05
+cur_iter_in= 385 , cur_error_in= 3.5737848716428015e-05
+cur_iter_in= 386 , cur_error_in= 3.395096249516541e-05
+cur_iter_in= 387 , cur_error_in= 3.225340926735912e-05
+cur_iter_in= 388 , cur_error_in= 3.0640762958378256e-05
+cur_iter_in= 389 , cur_error_in= 2.910873460200952e-05
+cur_iter_in= 390 , cur_error_in= 2.7653297124264755e-05
+cur_iter_in= 391 , cur_error_in= 2.627061264236268e-05
+cur_iter_in= 392 , cur_error_in= 2.4957088265698768e-05
+cur_iter_in= 393 , cur_error_in= 2.3709231130041822e-05
+cur_iter_in= 394 , cur_error_in= 2.2523779263638075e-05
+cur_iter_in= 395 , cur_error_in= 2.139762075741052e-05
+cur_iter_in= 396 , cur_error_in= 2.0327747707653473e-05
+cur_iter_in= 397 , cur_error_in= 1.931134510269794e-05
+cur_iter_in= 398 , cur_error_in= 1.8345770041221296e-05
+cur_iter_in= 399 , cur_error_in= 1.7428478880136253e-05
+cur_iter_in= 400 , cur_error_in= 1.65570519408829e-05
+cur_iter_in= 401 , cur_error_in= 1.5729171351201343e-05
+cur_iter_in= 402 , cur_error_in= 1.4942694537864953e-05
+cur_iter_in= 403 , cur_error_in= 1.4195570510171969e-05
+cur_iter_in= 404 , cur_error_in= 1.3485784936481266e-05
+cur_iter_in= 405 , cur_error_in= 1.281154061490192e-05
+cur_iter_in= 406 , cur_error_in= 1.2170935632017167e-05
+cur_iter_in= 407 , cur_error_in= 1.1562410379639966e-05
+cur_iter_in= 408 , cur_error_in= 1.0984291674710573e-05
+cur_iter_in= 409 , cur_error_in= 1.0435060537061559e-05
+cur_iter_in= 410 , cur_error_in= 9.913293361222377e-06
+cur_iter_in= 411 , cur_error_in= 9.417618353512486e-06
+cur_iter_in= 412 , cur_error_in= 8.946741315968918e-06
+cur_iter_in= 413 , cur_error_in= 8.499421665139367e-06
+cur_iter_in= 414 , cur_error_in= 8.074444231907816e-06
+cur_iter_in= 415 , cur_error_in= 7.670730623602311e-06
+cur_iter_in= 416 , cur_error_in= 7.28721445600836e-06
+cur_iter_in= 417 , cur_error_in= 6.922850777894279e-06
+cur_iter_in= 418 , cur_error_in= 6.576707790494996e-06
+cur_iter_in= 419 , cur_error_in= 6.247852049357428e-06
+cur_iter_in= 420 , cur_error_in= 5.935424399413139e-06
+cur_iter_in= 421 , cur_error_in= 5.638676868496789e-06
+cur_iter_in= 422 , cur_error_in= 5.356734021816931e-06
+cur_iter_in= 423 , cur_error_in= 5.088885408167585e-06
+cur_iter_in= 424 , cur_error_in= 4.8344284874942e-06
+cur_iter_in= 425 , cur_error_in= 4.592689238265127e-06
+cur_iter_in= 426 , cur_error_in= 4.363050580252604e-06
+cur_iter_in= 427 , cur_error_in= 4.144908540667373e-06
+cur_iter_in= 428 , cur_error_in= 3.937667364507276e-06
+cur_iter_in= 429 , cur_error_in= 3.7407426364700073e-06
+cur_iter_in= 430 , cur_error_in= 3.5537178092698965e-06
+cur_iter_in= 431 , cur_error_in= 3.376053772701015e-06
+cur_iter_in= 432 , cur_error_in= 3.207250484700649e-06
+cur_iter_in= 433 , cur_error_in= 3.0469158476808387e-06
+cur_iter_in= 434 , cur_error_in= 2.8945624745114358e-06
+cur_iter_in= 435 , cur_error_in= 2.7498601916744964e-06
+cur_iter_in= 436 , cur_error_in= 2.6123819884865256e-06
+cur_iter_in= 437 , cur_error_in= 2.481775948104051e-06
+cur_iter_in= 438 , cur_error_in= 2.357662938440168e-06
+cur_iter_in= 439 , cur_error_in= 2.2397767807739253e-06
+cur_iter_in= 440 , cur_error_in= 2.1278291023006015e-06
+cur_iter_in= 441 , cur_error_in= 2.0214289244860395e-06
+cur_iter_in= 442 , cur_error_in= 1.920338043141251e-06
+cur_iter_in= 443 , cur_error_in= 1.8243336299648541e-06
+cur_iter_in= 444 , cur_error_in= 1.7331327196501007e-06
+cur_iter_in= 445 , cur_error_in= 1.6464883857646579e-06
+cur_iter_in= 446 , cur_error_in= 1.5641450953696083e-06
+cur_iter_in= 447 , cur_error_in= 1.4859605028169827e-06
+cur_iter_in= 448 , cur_error_in= 1.4116604746799919e-06
+cur_iter_in= 449 , cur_error_in= 1.3410586402372337e-06
+cur_iter_in= 450 , cur_error_in= 1.2739780982008346e-06
+cur_iter_in= 451 , cur_error_in= 1.210271843531583e-06
+cur_iter_in= 452 , cur_error_in= 1.1497590446240006e-06
+cur_iter_in= 453 , cur_error_in= 1.092262091387556e-06
+cur_iter_in= 454 , cur_error_in= 1.0376635653428513e-06
+cur_iter_out= 3 , cur_error_out= 52.278102490430925
+cur_iter_in= 1 , cur_error_in= 9.999999999999999e-06
+cur_iter_in= 2 , cur_error_in= 48881.580302762704
+cur_iter_in= 3 , cur_error_in= 913.5780888457472
+cur_iter_in= 4 , cur_error_in= 796.1308674572211
+cur_iter_in= 5 , cur_error_in= 748.3701871115732
+cur_iter_in= 6 , cur_error_in= 753.7756915343186
+cur_iter_in= 7 , cur_error_in= 776.5179182533905
+cur_iter_in= 8 , cur_error_in= 792.1495486783587
+cur_iter_in= 9 , cur_error_in= 787.488155439348
+cur_iter_in= 10 , cur_error_in= 765.0317192411144
+cur_iter_in= 11 , cur_error_in= 725.3341117816516
+cur_iter_in= 12 , cur_error_in= 692.0047427579932
+cur_iter_in= 13 , cur_error_in= 657.3692030261924
+cur_iter_in= 14 , cur_error_in= 624.242170822498
+cur_iter_in= 15 , cur_error_in= 593.4541161234218
+cur_iter_in= 16 , cur_error_in= 563.5350613251264
+cur_iter_in= 17 , cur_error_in= 535.4649530861161
+cur_iter_in= 18 , cur_error_in= 508.6760493496985
+cur_iter_in= 19 , cur_error_in= 483.2255104304015
+cur_iter_in= 20 , cur_error_in= 459.0842894184335
+cur_iter_in= 21 , cur_error_in= 436.1174348268762
+cur_iter_in= 22 , cur_error_in= 414.3167852615898
+cur_iter_in= 23 , cur_error_in= 393.60013034372054
+cur_iter_in= 24 , cur_error_in= 373.9192771361095
+cur_iter_in= 25 , cur_error_in= 355.2243129586228
+cur_iter_in= 26 , cur_error_in= 337.46246464776624
+cur_iter_in= 27 , cur_error_in= 320.5896021832093
+cur_iter_in= 28 , cur_error_in= 304.5600812166437
+cur_iter_in= 29 , cur_error_in= 289.33203480868974
+cur_iter_in= 30 , cur_error_in= 274.8654830307842
+cur_iter_in= 31 , cur_error_in= 261.12217725326013
+cur_iter_in= 32 , cur_error_in= 248.06608142452706
+cur_iter_in= 33 , cur_error_in= 235.66277531080289
+cur_iter_in= 34 , cur_error_in= 223.8796344284539
+cur_iter_in= 35 , cur_error_in= 212.68565520441575
+cur_iter_in= 36 , cur_error_in= 202.05137086335458
+cur_iter_in= 37 , cur_error_in= 191.94880297168834
+cur_iter_in= 38 , cur_error_in= 182.35136272102406
+cur_iter_in= 39 , cur_error_in= 173.23379447915485
+cur_iter_in= 40 , cur_error_in= 164.57210488001826
+cur_iter_in= 41 , cur_error_in= 156.34349955698943
+cur_iter_in= 42 , cur_error_in= 148.52632461172803
+cur_iter_in= 43 , cur_error_in= 141.10000837604326
+cur_iter_in= 44 , cur_error_in= 134.04500795195017
+cur_iter_in= 45 , cur_error_in= 127.34275756057875
+cur_iter_in= 46 , cur_error_in= 120.97561967859265
+cur_iter_in= 47 , cur_error_in= 114.92683869629482
+cur_iter_in= 48 , cur_error_in= 109.18049676122479
+cur_iter_in= 49 , cur_error_in= 103.72147192290288
+cur_iter_in= 50 , cur_error_in= 98.535398327085
+cur_iter_in= 51 , cur_error_in= 93.60862841052663
+cur_iter_in= 52 , cur_error_in= 88.92819699007771
+cur_iter_in= 53 , cur_error_in= 84.48178714055382
+cur_iter_in= 54 , cur_error_in= 80.25769778350302
+cur_iter_in= 55 , cur_error_in= 76.24481289432495
+cur_iter_in= 56 , cur_error_in= 72.43257224963848
+cur_iter_in= 57 , cur_error_in= 68.81094363716072
+cur_iter_in= 58 , cur_error_in= 65.37039645530189
+cur_iter_in= 59 , cur_error_in= 62.10187663254516
+cur_iter_in= 60 , cur_error_in= 58.99678280090535
+cur_iter_in= 61 , cur_error_in= 56.046943660873815
+cur_iter_in= 62 , cur_error_in= 53.244596477822995
+cur_iter_in= 63 , cur_error_in= 50.58236665394646
+cur_iter_in= 64 , cur_error_in= 48.05324832123587
+cur_iter_in= 65 , cur_error_in= 45.650585905171475
+cur_iter_in= 66 , cur_error_in= 43.368056609923585
+cur_iter_in= 67 , cur_error_in= 41.199653779408614
+cur_iter_in= 68 , cur_error_in= 39.139671090434334
+cur_iter_in= 69 , cur_error_in= 37.182687535898474
+cur_iter_in= 70 , cur_error_in= 35.323553159124174
+cur_iter_in= 71 , cur_error_in= 33.55737550117745
+cur_iter_in= 72 , cur_error_in= 31.87950672611436
+cur_iter_in= 73 , cur_error_in= 30.285531389790304
+cur_iter_in= 74 , cur_error_in= 28.77125482031598
+cur_iter_in= 75 , cur_error_in= 27.332692079285177
+cur_iter_in= 76 , cur_error_in= 25.966057475325577
+cur_iter_in= 77 , cur_error_in= 24.667754601571197
+cur_iter_in= 78 , cur_error_in= 23.43436687149459
+cur_iter_in= 79 , cur_error_in= 22.26264852789592
+cur_iter_in= 80 , cur_error_in= 21.149516101509718
+cur_iter_in= 81 , cur_error_in= 20.092040296425253
+cur_iter_in= 82 , cur_error_in= 19.087438281606314
+cur_iter_in= 83 , cur_error_in= 18.133066367519415
+cur_iter_in= 84 , cur_error_in= 17.22641304916723
+cur_iter_in= 85 , cur_error_in= 16.365092396715198
+cur_iter_in= 86 , cur_error_in= 15.546837776887138
+cur_iter_in= 87 , cur_error_in= 14.769495888036142
+cur_iter_in= 88 , cur_error_in= 14.03102109362622
+cur_iter_in= 89 , cur_error_in= 13.329470038969763
+cur_iter_in= 90 , cur_error_in= 12.66299653702137
+cur_iter_in= 91 , cur_error_in= 12.029846710165852
+cur_iter_in= 92 , cur_error_in= 11.428354374649627
+cur_iter_in= 93 , cur_error_in= 10.85693665590879
+cur_iter_in= 94 , cur_error_in= 10.314089823105625
+cur_iter_in= 95 , cur_error_in= 9.798385331986118
+cur_iter_in= 96 , cur_error_in= 9.308466065349961
+cur_iter_in= 97 , cur_error_in= 8.843042762104407
+cur_iter_in= 98 , cur_error_in= 8.400890623987776
+cur_iter_in= 99 , cur_error_in= 7.980846092770958
+cur_iter_in= 100 , cur_error_in= 7.58180378814476
+cur_iter_in= 101 , cur_error_in= 7.20271359870428
+cur_iter_in= 102 , cur_error_in= 6.842577918810399
+cur_iter_in= 103 , cur_error_in= 6.500449022864351
+cur_iter_in= 104 , cur_error_in= 6.17542657170013
+cur_iter_in= 105 , cur_error_in= 5.866655243129783
+cur_iter_in= 106 , cur_error_in= 5.573322480975203
+cur_iter_in= 107 , cur_error_in= 5.294656356931154
+cur_iter_in= 108 , cur_error_in= 5.029923539086865
+cur_iter_in= 109 , cur_error_in= 4.778427362131994
+cur_iter_in= 110 , cur_error_in= 4.5395059940113205
+cur_iter_in= 111 , cur_error_in= 4.312530694318767
+cur_iter_in= 112 , cur_error_in= 4.096904159582125
+cur_iter_in= 113 , cur_error_in= 3.8920589516126025
+cur_iter_in= 114 , cur_error_in= 3.6974560040479387
+cur_iter_in= 115 , cur_error_in= 3.512583203850111
+cur_iter_in= 116 , cur_error_in= 3.336954043658249
+cur_iter_in= 117 , cur_error_in= 3.1701063414592743
+cur_iter_in= 118 , cur_error_in= 3.0116010243731015
+cur_iter_in= 119 , cur_error_in= 2.861020973176253
+cur_iter_in= 120 , cur_error_in= 2.7179699245017206
+cur_iter_in= 121 , cur_error_in= 2.5820714282923594
+cur_iter_in= 122 , cur_error_in= 2.4529678568690714
+cur_iter_in= 123 , cur_error_in= 2.3303194640238116
+cur_iter_in= 124 , cur_error_in= 2.213803490825103
+cur_iter_in= 125 , cur_error_in= 2.1031133162577955
+cur_iter_in= 126 , cur_error_in= 1.9979576504761816
+cur_iter_in= 127 , cur_error_in= 1.8980597679411033
+cur_iter_in= 128 , cur_error_in= 1.8031567795543235
+cur_iter_in= 129 , cur_error_in= 1.7129989405678707
+cur_iter_in= 130 , cur_error_in= 1.6273489935380874
+cur_iter_in= 131 , cur_error_in= 1.5459815438643814
+cur_iter_in= 132 , cur_error_in= 1.4686824666805773
+cur_iter_in= 133 , cur_error_in= 1.3952483433403846
+cur_iter_in= 134 , cur_error_in= 1.3254859261885326
+cur_iter_in= 135 , cur_error_in= 1.2592116298877727
+cur_iter_in= 136 , cur_error_in= 1.196251048362706
+cur_iter_in= 137 , cur_error_in= 1.136438495951088
+cur_iter_in= 138 , cur_error_in= 1.0796165711406165
+cur_iter_in= 139 , cur_error_in= 1.0256357425994669
+cur_iter_in= 140 , cur_error_in= 0.9743539554789882
+cur_iter_in= 141 , cur_error_in= 0.9256362577132241
+cur_iter_in= 142 , cur_error_in= 0.8793544448188385
+cur_iter_in= 143 , cur_error_in= 0.8353867225834803
+cur_iter_in= 144 , cur_error_in= 0.7936173864437198
+cur_iter_in= 145 , cur_error_in= 0.7539365171144055
+cur_iter_in= 146 , cur_error_in= 0.7162396912557111
+cur_iter_in= 147 , cur_error_in= 0.6804277067068593
+cur_iter_in= 148 , cur_error_in= 0.6464063213779755
+cur_iter_in= 149 , cur_error_in= 0.614086005301984
+cur_iter_in= 150 , cur_error_in= 0.583381705040023
+cur_iter_in= 151 , cur_error_in= 0.5542126197931874
+cur_iter_in= 152 , cur_error_in= 0.5265019887852046
+cur_iter_in= 153 , cur_error_in= 0.5001768893552256
+cur_iter_in= 154 , cur_error_in= 0.4751680448860368
+cur_iter_in= 155 , cur_error_in= 0.4514096426449994
+cur_iter_in= 156 , cur_error_in= 0.42883916050051407
+cur_iter_in= 157 , cur_error_in= 0.4073972024862362
+cur_iter_in= 158 , cur_error_in= 0.38702734235588704
+cur_iter_in= 159 , cur_error_in= 0.36767597524699486
+cur_iter_in= 160 , cur_error_in= 0.34929217648281025
+cur_iter_in= 161 , cur_error_in= 0.33182756764591204
+cur_iter_in= 162 , cur_error_in= 0.3152361892689744
+cur_iter_in= 163 , cur_error_in= 0.29947437981975367
+cur_iter_in= 164 , cur_error_in= 0.28450066082692005
+cur_iter_in= 165 , cur_error_in= 0.270275627796835
+cur_iter_in= 166 , cur_error_in= 0.2567618463708947
+cur_iter_in= 167 , cur_error_in= 0.2439237540723538
+cur_iter_in= 168 , cur_error_in= 0.23172756635918998
+cur_iter_in= 169 , cur_error_in= 0.22014118804426755
+cur_iter_in= 170 , cur_error_in= 0.20913412861880457
+cur_iter_in= 171 , cur_error_in= 0.19867742222010568
+cur_iter_in= 172 , cur_error_in= 0.18874355109223503
+cur_iter_in= 173 , cur_error_in= 0.17930637356418225
+cur_iter_in= 174 , cur_error_in= 0.17034105485884335
+cur_iter_in= 175 , cur_error_in= 0.1618240021234991
+cur_iter_in= 176 , cur_error_in= 0.15373280203350537
+cur_iter_in= 177 , cur_error_in= 0.14604616190708797
+cur_iter_in= 178 , cur_error_in= 0.13874385383533683
+cur_iter_in= 179 , cur_error_in= 0.13180666113642417
+cur_iter_in= 180 , cur_error_in= 0.125216328054633
+cur_iter_in= 181 , cur_error_in= 0.11895551167906177
+cur_iter_in= 182 , cur_error_in= 0.11300773610165304
+cur_iter_in= 183 , cur_error_in= 0.10735734929978118
+cur_iter_in= 184 , cur_error_in= 0.1019894818466205
+cur_iter_in= 185 , cur_error_in= 0.09689000772510002
+cur_iter_in= 186 , cur_error_in= 0.092045507362807
+cur_iter_in= 187 , cur_error_in= 0.08744323197101754
+cur_iter_in= 188 , cur_error_in= 0.083071070366666
+cur_iter_in= 189 , cur_error_in= 0.07891751685427799
+cur_iter_in= 190 , cur_error_in= 0.07497164103154999
+cur_iter_in= 191 , cur_error_in= 0.0712230589597745
+cur_iter_in= 192 , cur_error_in= 0.06766190602652454
+cur_iter_in= 193 , cur_error_in= 0.06427881070490327
+cur_iter_in= 194 , cur_error_in= 0.0610648701789601
+cur_iter_in= 195 , cur_error_in= 0.05801162665189458
+cur_iter_in= 196 , cur_error_in= 0.05511104533685276
+cur_iter_in= 197 , cur_error_in= 0.0523554930914676
+cur_iter_in= 198 , cur_error_in= 0.049737718416699536
+cur_iter_in= 199 , cur_error_in= 0.04725083250537746
+cur_iter_in= 200 , cur_error_in= 0.04488829086559771
+cur_iter_in= 201 , cur_error_in= 0.04264387631532301
+cur_iter_in= 202 , cur_error_in= 0.04051168252825903
+cur_iter_in= 203 , cur_error_in= 0.03848609836582939
+cur_iter_in= 204 , cur_error_in= 0.0365617934559067
+cur_iter_in= 205 , cur_error_in= 0.03473370378506788
+cur_iter_in= 206 , cur_error_in= 0.032997018580734915
+cur_iter_in= 207 , cur_error_in= 0.031347167686427584
+cur_iter_in= 208 , cur_error_in= 0.029779809275066488
+cur_iter_in= 209 , cur_error_in= 0.028290818831095122
+cur_iter_in= 210 , cur_error_in= 0.026876277892848736
+cur_iter_in= 211 , cur_error_in= 0.025532464001102862
+cur_iter_in= 212 , cur_error_in= 0.02425584078493337
+cur_iter_in= 213 , cur_error_in= 0.023043048721535127
+cur_iter_in= 214 , cur_error_in= 0.02189089629924143
+cur_iter_in= 215 , cur_error_in= 0.020796351487422784
+cur_iter_in= 216 , cur_error_in= 0.019756533915759832
+cur_iter_in= 217 , cur_error_in= 0.018768707214982423
+cur_iter_in= 218 , cur_error_in= 0.0178302718718427
+cur_iter_in= 219 , cur_error_in= 0.01693875828014253
+cur_iter_in= 220 , cur_error_in= 0.016091820367453928
+cur_iter_in= 221 , cur_error_in= 0.015287229349871768
+cur_iter_in= 222 , cur_error_in= 0.014522867858058517
+cur_iter_in= 223 , cur_error_in= 0.013796724487943848
+cur_iter_in= 224 , cur_error_in= 0.013106888247238522
+cur_iter_in= 225 , cur_error_in= 0.012451543846718423
+cur_iter_in= 226 , cur_error_in= 0.01182896662890042
+cur_iter_in= 227 , cur_error_in= 0.011237518325880548
+cur_iter_in= 228 , cur_error_in= 0.010675642400084158
+cur_iter_in= 229 , cur_error_in= 0.010141860278904485
+cur_iter_in= 230 , cur_error_in= 0.009634767270495118
+cur_iter_in= 231 , cur_error_in= 0.00915302890131911
+cur_iter_in= 232 , cur_error_in= 0.008695377440515299
+cur_iter_in= 233 , cur_error_in= 0.008260608578501309
+cur_iter_in= 234 , cur_error_in= 0.007847578134334104
+cur_iter_in= 235 , cur_error_in= 0.007455199244760856
+cur_iter_in= 236 , cur_error_in= 0.007082439285078054
+cur_iter_in= 237 , cur_error_in= 0.00672831729066117
+cur_iter_in= 238 , cur_error_in= 0.0063919014561014
+cur_iter_in= 239 , cur_error_in= 0.006072306370128996
+cur_iter_in= 240 , cur_error_in= 0.005768691063084584
+cur_iter_in= 241 , cur_error_in= 0.005480256497743519
+cur_iter_in= 242 , cur_error_in= 0.005206243680412072
+cur_iter_in= 243 , cur_error_in= 0.004945931506237262
+cur_iter_in= 244 , cur_error_in= 0.004698634945731241
+cur_iter_in= 245 , cur_error_in= 0.0044637032030730205
+cur_iter_in= 246 , cur_error_in= 0.004240518056798463
+cur_iter_in= 247 , cur_error_in= 0.004028492118045894
+cur_iter_in= 248 , cur_error_in= 0.0038270675242956585
+cur_iter_in= 249 , cur_error_in= 0.003635714145014373
+cur_iter_in= 250 , cur_error_in= 0.0034539284269095695
+cur_iter_in= 251 , cur_error_in= 0.003281232021752214
+cur_iter_in= 252 , cur_error_in= 0.003117170407852293
+cur_iter_in= 253 , cur_error_in= 0.0029613118905249987
+cur_iter_in= 254 , cur_error_in= 0.00281324628817125
+cur_iter_in= 255 , cur_error_in= 0.0026725839895554745
+cur_iter_in= 256 , cur_error_in= 0.0025389547757486085
+cur_iter_in= 257 , cur_error_in= 0.002412007039970773
+cur_iter_in= 258 , cur_error_in= 0.0022914066925398464
+cur_iter_in= 259 , cur_error_in= 0.002176836346958654
+cur_iter_in= 260 , cur_error_in= 0.002067994545142945
+cur_iter_in= 261 , cur_error_in= 0.001964594809524644
+cur_iter_in= 262 , cur_error_in= 0.0018663650753418715
+cur_iter_in= 263 , cur_error_in= 0.0017730468340390521
+cur_iter_in= 264 , cur_error_in= 0.0016843944565550024
+cur_iter_in= 265 , cur_error_in= 0.0016001747625055869
+cur_iter_in= 266 , cur_error_in= 0.001520166009304943
+cur_iter_in= 267 , cur_error_in= 0.0014441577199049479
+cur_iter_in= 268 , cur_error_in= 0.0013719498306216174
+cur_iter_in= 269 , cur_error_in= 0.0013033523334247956
+cur_iter_in= 270 , cur_error_in= 0.0012381847316161687
+cur_iter_in= 271 , cur_error_in= 0.0011762754756550623
+cur_iter_in= 272 , cur_error_in= 0.0011174617165472147
+cur_iter_in= 273 , cur_error_in= 0.0010615886502603447
+cur_iter_in= 274 , cur_error_in= 0.0010085092066081712
+cur_iter_in= 275 , cur_error_in= 0.0009580837499614336
+cur_iter_in= 276 , cur_error_in= 0.0009101795538350655
+cur_iter_in= 277 , cur_error_in= 0.000864670556959033
+cur_iter_in= 278 , cur_error_in= 0.0008214370552924109
+cur_iter_in= 279 , cur_error_in= 0.0007803652063480671
+cur_iter_in= 280 , cur_error_in= 0.0007413469361595829
+cur_iter_in= 281 , cur_error_in= 0.0007042795951526436
+cur_iter_in= 282 , cur_error_in= 0.0006690655989250971
+cur_iter_in= 283 , cur_error_in= 0.0006356123177117129
+cur_iter_in= 284 , cur_error_in= 0.0006038316951723668
+cur_iter_in= 285 , cur_error_in= 0.0005736401092865136
+cur_iter_in= 286 , cur_error_in= 0.0005449581188126075
+cur_iter_in= 287 , cur_error_in= 0.0005177101951832697
+cur_iter_in= 288 , cur_error_in= 0.0004918247022341462
+cur_iter_in= 289 , cur_error_in= 0.0004672334391740489
+cur_iter_in= 290 , cur_error_in= 0.0004438717998196352
+cur_iter_in= 291 , cur_error_in= 0.0004216781940621989
+cur_iter_in= 292 , cur_error_in= 0.0004005942862007317
+cur_iter_in= 293 , cur_error_in= 0.00038056457858094445
+cur_iter_in= 294 , cur_error_in= 0.00036153634617887233
+cur_iter_in= 295 , cur_error_in= 0.00034345952635538723
+cur_iter_in= 296 , cur_error_in= 0.0003262865165919678
+cur_iter_in= 297 , cur_error_in= 0.00030997219557858544
+cur_iter_in= 298 , cur_error_in= 0.0002944735982155268
+cur_iter_in= 299 , cur_error_in= 0.0002797499329341084
+cur_iter_in= 300 , cur_error_in= 0.0002657624497040034
+cur_iter_in= 301 , cur_error_in= 0.000252474305928492
+cur_iter_in= 302 , cur_error_in= 0.00023985061651650308
+cur_iter_in= 303 , cur_error_in= 0.00022785805979244023
+cur_iter_in= 304 , cur_error_in= 0.00021646516668926343
+cur_iter_in= 305 , cur_error_in= 0.00020564189497132245
+cur_iter_in= 306 , cur_error_in= 0.00019535980597611664
+cur_iter_in= 307 , cur_error_in= 0.00018559180529119517
+cur_iter_in= 308 , cur_error_in= 0.00017631224332743535
+cur_iter_in= 309 , cur_error_in= 0.00016749663414373958
+cur_iter_in= 310 , cur_error_in= 0.0001591217950903569
+cur_iter_in= 311 , cur_error_in= 0.00015116569960885656
+cur_iter_in= 312 , cur_error_in= 0.0001436074175308559
+cur_iter_in= 313 , cur_error_in= 0.00013642703884620593
+cur_iter_in= 314 , cur_error_in= 0.00012960568574565425
+cur_iter_in= 315 , cur_error_in= 0.00012312542035768326
+cur_iter_in= 316 , cur_error_in= 0.00011696915693112501
+cur_iter_in= 317 , cur_error_in= 0.00011112068974564269
+cur_iter_in= 318 , cur_error_in= 0.00010556464781761363
+cur_iter_in= 319 , cur_error_in= 0.00010028642158033116
+cur_iter_in= 320 , cur_error_in= 9.527209037240129e-05
+cur_iter_in= 321 , cur_error_in= 9.050848517454725e-05
+cur_iter_in= 322 , cur_error_in= 8.598304733867895e-05
+cur_iter_in= 323 , cur_error_in= 8.16839166296816e-05
+cur_iter_in= 324 , cur_error_in= 7.759970727894499e-05
+cur_iter_in= 325 , cur_error_in= 7.371973848401624e-05
+cur_iter_in= 326 , cur_error_in= 7.003372837227121e-05
+cur_iter_in= 327 , cur_error_in= 6.653207526344522e-05
+cur_iter_in= 328 , cur_error_in= 6.32054686172947e-05
+cur_iter_in= 329 , cur_error_in= 6.0045185355420735e-05
+cur_iter_in= 330 , cur_error_in= 5.704292376400305e-05
+cur_iter_in= 331 , cur_error_in= 5.419078659972672e-05
+cur_iter_in= 332 , cur_error_in= 5.148124959676528e-05
+cur_iter_in= 333 , cur_error_in= 4.890718191646708e-05
+cur_iter_in= 334 , cur_error_in= 4.6461795138000264e-05
+cur_iter_in= 335 , cur_error_in= 4.413871606080971e-05
+cur_iter_in= 336 , cur_error_in= 4.193178162401115e-05
+cur_iter_in= 337 , cur_error_in= 3.983519872791109e-05
+cur_iter_in= 338 , cur_error_in= 3.784344593720807e-05
+cur_iter_in= 339 , cur_error_in= 3.595125485128316e-05
+cur_iter_in= 340 , cur_error_in= 3.415371540372425e-05
+cur_iter_in= 341 , cur_error_in= 3.24460299637595e-05
+cur_iter_in= 342 , cur_error_in= 3.082373911461856e-05
+cur_iter_in= 343 , cur_error_in= 2.9282536952802664e-05
+cur_iter_in= 344 , cur_error_in= 2.7818402669241382e-05
+cur_iter_in= 345 , cur_error_in= 2.64274707345193e-05
+cur_iter_in= 346 , cur_error_in= 2.510610174327747e-05
+cur_iter_in= 347 , cur_error_in= 2.3850791186043344e-05
+cur_iter_in= 348 , cur_error_in= 2.2658245230759336e-05
+cur_iter_in= 349 , cur_error_in= 2.1525326268068177e-05
+cur_iter_in= 350 , cur_error_in= 2.044908260396359e-05
+cur_iter_in= 351 , cur_error_in= 1.942661807152213e-05
+cur_iter_in= 352 , cur_error_in= 1.845532124973471e-05
+cur_iter_in= 353 , cur_error_in= 1.753255092812667e-05
+cur_iter_in= 354 , cur_error_in= 1.6655920700572364e-05
+cur_iter_in= 355 , cur_error_in= 1.5823111444149926e-05
+cur_iter_in= 356 , cur_error_in= 1.5031931824083344e-05
+cur_iter_in= 357 , cur_error_in= 1.428033665858293e-05
+cur_iter_in= 358 , cur_error_in= 1.356631112393541e-05
+cur_iter_in= 359 , cur_error_in= 1.2888009952066863e-05
+cur_iter_in= 360 , cur_error_in= 1.2243622135047402e-05
+cur_iter_in= 361 , cur_error_in= 1.1631436614462657e-05
+cur_iter_in= 362 , cur_error_in= 1.1049862422519894e-05
+cur_iter_in= 363 , cur_error_in= 1.0497374944203064e-05
+cur_iter_in= 364 , cur_error_in= 9.97250942984142e-06
+cur_iter_in= 365 , cur_error_in= 9.473887855840515e-06
+cur_iter_in= 366 , cur_error_in= 9.000178283926073e-06
+cur_iter_in= 367 , cur_error_in= 8.550188673189168e-06
+cur_iter_in= 368 , cur_error_in= 8.122649532068543e-06
+cur_iter_in= 369 , cur_error_in= 7.716528349254286e-06
+cur_iter_in= 370 , cur_error_in= 7.330704293039436e-06
+cur_iter_in= 371 , cur_error_in= 6.964162568836651e-06
+cur_iter_in= 372 , cur_error_in= 6.6159643128632155e-06
+cur_iter_in= 373 , cur_error_in= 6.28517448980468e-06
+cur_iter_in= 374 , cur_error_in= 5.970914099684566e-06
+cur_iter_in= 375 , cur_error_in= 5.672368309246209e-06
+cur_iter_in= 376 , cur_error_in= 5.388736676375148e-06
+cur_iter_in= 377 , cur_error_in= 5.119304440679586e-06
+cur_iter_in= 378 , cur_error_in= 4.863328645026275e-06
+cur_iter_in= 379 , cur_error_in= 4.620173330285798e-06
+cur_iter_in= 380 , cur_error_in= 4.389171975195488e-06
+cur_iter_in= 381 , cur_error_in= 4.169693870122456e-06
+cur_iter_in= 382 , cur_error_in= 3.961209673196385e-06
+cur_iter_in= 383 , cur_error_in= 3.7631635530462917e-06
+cur_iter_in= 384 , cur_error_in= 3.5749939734048747e-06
+cur_iter_in= 385 , cur_error_in= 3.396277585546819e-06
+cur_iter_in= 386 , cur_error_in= 3.2264436158244604e-06
+cur_iter_in= 387 , cur_error_in= 3.0651667794860243e-06
+cur_iter_in= 388 , cur_error_in= 2.911888609224068e-06
+cur_iter_in= 389 , cur_error_in= 2.7662899435552e-06
+cur_iter_in= 390 , cur_error_in= 2.62795779068582e-06
+cur_iter_in= 391 , cur_error_in= 2.4965792596353003e-06
+cur_iter_in= 392 , cur_error_in= 2.3717247618079763e-06
+cur_iter_in= 393 , cur_error_in= 2.2531447575034553e-06
+cur_iter_in= 394 , cur_error_in= 2.140493971584304e-06
+cur_iter_in= 395 , cur_error_in= 2.0334726886621707e-06
+cur_iter_in= 396 , cur_error_in= 1.9317811410766323e-06
+cur_iter_in= 397 , cur_error_in= 1.8352159079198863e-06
+cur_iter_in= 398 , cur_error_in= 1.7434494296273678e-06
+cur_iter_in= 399 , cur_error_in= 1.656278065311696e-06
+cur_iter_in= 400 , cur_error_in= 1.5734454928346499e-06
+cur_iter_in= 401 , cur_error_in= 1.4947539665388605e-06
+cur_iter_in= 402 , cur_error_in= 1.4200339277558466e-06
+cur_iter_in= 403 , cur_error_in= 1.3490331734182501e-06
+cur_iter_in= 404 , cur_error_in= 1.2815884636738915e-06
+cur_iter_in= 405 , cur_error_in= 1.2174761281384588e-06
+cur_iter_in= 406 , cur_error_in= 1.1566311083932726e-06
+cur_iter_in= 407 , cur_error_in= 1.0987852933322418e-06
+cur_iter_in= 408 , cur_error_in= 1.0438357625702594e-06
+cur_iter_out= 4 , cur_error_out= 36.55133376499413
+cur_iter_in= 1 , cur_error_in= 9.999999999999999e-06
+cur_iter_in= 2 , cur_error_in= 1013.4575812893554
+cur_iter_in= 3 , cur_error_in= 1091.9607947370655
+cur_iter_in= 4 , cur_error_in= 1222.605972677279
+cur_iter_in= 5 , cur_error_in= 1340.0512968856992
+cur_iter_in= 6 , cur_error_in= 1429.3808373812367
+cur_iter_in= 7 , cur_error_in= 1505.186687146693
+cur_iter_in= 8 , cur_error_in= 1538.6940038527725
+cur_iter_in= 9 , cur_error_in= 1513.2920722187102
+cur_iter_in= 10 , cur_error_in= 1447.860523461987
+cur_iter_in= 11 , cur_error_in= 1355.249424092654
+cur_iter_in= 12 , cur_error_in= 1283.8965356597616
+cur_iter_in= 13 , cur_error_in= 1220.9772699894158
+cur_iter_in= 14 , cur_error_in= 1158.8509562774811
+cur_iter_in= 15 , cur_error_in= 1101.2258605733934
+cur_iter_in= 16 , cur_error_in= 1046.1831118236823
+cur_iter_in= 17 , cur_error_in= 993.7860412266114
+cur_iter_in= 18 , cur_error_in= 944.1523168206303
+cur_iter_in= 19 , cur_error_in= 896.9269645038235
+cur_iter_in= 20 , cur_error_in= 852.0798570391836
+cur_iter_in= 21 , cur_error_in= 809.4804925085193
+cur_iter_in= 22 , cur_error_in= 769.0034751059344
+cur_iter_in= 23 , cur_error_in= 730.5542766709347
+cur_iter_in= 24 , cur_error_in= 694.02658897339
+cur_iter_in= 25 , cur_error_in= 659.325015530479
+cur_iter_in= 26 , cur_error_in= 626.358925700363
+cur_iter_in= 27 , cur_error_in= 595.0409258123268
+cur_iter_in= 28 , cur_error_in= 565.288878901567
+cur_iter_in= 29 , cur_error_in= 537.0244478069459
+cur_iter_in= 30 , cur_error_in= 510.1732167645298
+cur_iter_in= 31 , cur_error_in= 484.66455886947756
+cur_iter_in= 32 , cur_error_in= 460.4313309171459
+cur_iter_in= 33 , cur_error_in= 437.4097636950692
+cur_iter_in= 34 , cur_error_in= 415.53927597523347
+cur_iter_in= 35 , cur_error_in= 394.76231201500264
+cur_iter_in= 36 , cur_error_in= 375.0241964169996
+cur_iter_in= 37 , cur_error_in= 356.2729866317133
+cur_iter_in= 38 , cur_error_in= 338.4593372751443
+cur_iter_in= 39 , cur_error_in= 321.53637042022484
+cur_iter_in= 40 , cur_error_in= 305.4595518989571
+cur_iter_in= 41 , cur_error_in= 290.1865743021518
+cur_iter_in= 42 , cur_error_in= 275.6772455883841
+cur_iter_in= 43 , cur_error_in= 261.89338330849705
+cur_iter_in= 44 , cur_error_in= 248.79871414307547
+cur_iter_in= 45 , cur_error_in= 236.3587784360124
+cur_iter_in= 46 , cur_error_in= 224.54083951414626
+cur_iter_in= 47 , cur_error_in= 213.31379753847494
+cur_iter_in= 48 , cur_error_in= 202.6481076615552
+cur_iter_in= 49 , cur_error_in= 192.51570227846068
+cur_iter_in= 50 , cur_error_in= 182.8899171645461
+cur_iter_in= 51 , cur_error_in= 173.74542130631684
+cur_iter_in= 52 , cur_error_in= 165.05815024098916
+cur_iter_in= 53 , cur_error_in= 156.80524272894937
+cur_iter_in= 54 , cur_error_in= 148.9649805924871
+cur_iter_in= 55 , cur_error_in= 141.5167315628578
+cur_iter_in= 56 , cur_error_in= 134.4408949847286
+cur_iter_in= 57 , cur_error_in= 127.718850235482
+cur_iter_in= 58 , cur_error_in= 121.33290772371451
+cur_iter_in= 59 , cur_error_in= 115.26626233752914
+cur_iter_in= 60 , cur_error_in= 109.50294922064253
+cur_iter_in= 61 , cur_error_in= 104.02780175960741
+cur_iter_in= 62 , cur_error_in= 98.82641167164518
+cur_iter_in= 63 , cur_error_in= 93.88509108805866
+cur_iter_in= 64 , cur_error_in= 89.19083653364528
+cur_iter_in= 65 , cur_error_in= 84.7312947069623
+cur_iter_in= 66 , cur_error_in= 80.4947299716123
+cur_iter_in= 67 , cur_error_in= 76.46999347302584
+cur_iter_in= 68 , cur_error_in= 72.64649379938965
+cur_iter_in= 69 , cur_error_in= 69.0141691094147
+cur_iter_in= 70 , cur_error_in= 65.56346065393745
+cur_iter_in= 71 , cur_error_in= 62.28528762123589
+cur_iter_in= 72 , cur_error_in= 59.171023240159684
+cur_iter_in= 73 , cur_error_in= 56.212472078156765
+cur_iter_in= 74 , cur_error_in= 53.40184847426347
+cur_iter_in= 75 , cur_error_in= 50.73175605056458
+cur_iter_in= 76 , cur_error_in= 48.1951682480263
+cur_iter_in= 77 , cur_error_in= 45.785409835638866
+cur_iter_in= 78 , cur_error_in= 43.49613934386208
+cur_iter_in= 79 , cur_error_in= 41.321332376663726
+cur_iter_in= 80 , cur_error_in= 39.255265757835545
+cur_iter_in= 81 , cur_error_in= 37.29250246993284
+cur_iter_in= 82 , cur_error_in= 35.4278773464358
+cur_iter_in= 83 , cur_error_in= 33.65648347910978
+cur_iter_in= 84 , cur_error_in= 31.97365930515269
+cur_iter_in= 85 , cur_error_in= 30.374976339899032
+cur_iter_in= 86 , cur_error_in= 28.85622752290495
+cur_iter_in= 87 , cur_error_in= 27.413416146753573
+cur_iter_in= 88 , cur_error_in= 26.042745339415813
+cur_iter_in= 89 , cur_error_in= 24.74060807245847
+cur_iter_in= 90 , cur_error_in= 23.503577668844425
+cur_iter_in= 91 , cur_error_in= 22.328398785408442
+cur_iter_in= 92 , cur_error_in= 21.211978846124286
+cur_iter_in= 93 , cur_error_in= 20.15137990383132
+cur_iter_in= 94 , cur_error_in= 19.143810908638336
+cur_iter_in= 95 , cur_error_in= 18.186620363201822
+cur_iter_in= 96 , cur_error_in= 17.277289345038238
+cur_iter_in= 97 , cur_error_in= 16.413424877772147
+cur_iter_in= 98 , cur_error_in= 15.592753633873485
+cur_iter_in= 99 , cur_error_in= 14.813115952167456
+cur_iter_in= 100 , cur_error_in= 14.072460154586361
+cur_iter_in= 101 , cur_error_in= 13.36883714687941
+cur_iter_in= 102 , cur_error_in= 12.700395289521666
+cur_iter_in= 103 , cur_error_in= 12.065375525045788
+cur_iter_in= 104 , cur_error_in= 11.462106748789394
+cur_iter_in= 105 , cur_error_in= 10.88900141135492
+cur_iter_in= 106 , cur_error_in= 10.344551340776933
+cur_iter_in= 107 , cur_error_in= 9.827323773739979
+cur_iter_in= 108 , cur_error_in= 9.335957585057702
+cur_iter_in= 109 , cur_error_in= 8.86915970580254
+cur_iter_in= 110 , cur_error_in= 8.425701720511325
+cur_iter_in= 111 , cur_error_in= 8.00441663448468
+cur_iter_in= 112 , cur_error_in= 7.604195802737381
+cur_iter_in= 113 , cur_error_in= 7.223986012611775
+cur_iter_in= 114 , cur_error_in= 6.862786711993282
+cur_iter_in= 115 , cur_error_in= 6.519647376378083
+cur_iter_in= 116 , cur_error_in= 6.193665007559738
+cur_iter_in= 117 , cur_error_in= 5.8839817571893045
+cur_iter_in= 118 , cur_error_in= 5.589782669332989
+cur_iter_in= 119 , cur_error_in= 5.310293535877409
+cur_iter_in= 120 , cur_error_in= 5.044778859070683
+cur_iter_in= 121 , cur_error_in= 4.792539916119681
+cur_iter_in= 122 , cur_error_in= 4.552912920307907
+cur_iter_in= 123 , cur_error_in= 4.325267274282978
+cur_iter_in= 124 , cur_error_in= 4.109003910571131
+cur_iter_in= 125 , cur_error_in= 3.9035537150407715
+cur_iter_in= 126 , cur_error_in= 3.708376029287141
+cur_iter_in= 127 , cur_error_in= 3.5229572278271504
+cur_iter_in= 128 , cur_error_in= 3.3468093664437357
+cur_iter_in= 129 , cur_error_in= 3.1794688981023596
+cur_iter_in= 130 , cur_error_in= 3.0204954532165047
+cur_iter_in= 131 , cur_error_in= 2.8694706805470154
+cur_iter_in= 132 , cur_error_in= 2.725997146536681
+cur_iter_in= 133 , cur_error_in= 2.5896972892036803
+cur_iter_in= 134 , cur_error_in= 2.460212424759033
+cur_iter_in= 135 , cur_error_in= 2.3372018035159625
+cur_iter_in= 136 , cur_error_in= 2.2203417133263903
+cur_iter_in= 137 , cur_error_in= 2.1093246276786672
+cur_iter_in= 138 , cur_error_in= 2.0038583962764096
+cur_iter_in= 139 , cur_error_in= 1.903665476453854
+cur_iter_in= 140 , cur_error_in= 1.8084822026390934
+cur_iter_in= 141 , cur_error_in= 1.7180580925118156
+cur_iter_in= 142 , cur_error_in= 1.632155187880712
+cur_iter_in= 143 , cur_error_in= 1.5505474284850729
+cur_iter_in= 144 , cur_error_in= 1.4730200570796312
+cur_iter_in= 145 , cur_error_in= 1.3993690542251884
+cur_iter_in= 146 , cur_error_in= 1.3294006015080804
+cur_iter_in= 147 , cur_error_in= 1.2629305714395103
+cur_iter_in= 148 , cur_error_in= 1.1997840428612585
+cur_iter_in= 149 , cur_error_in= 1.1397948407285539
+cur_iter_in= 150 , cur_error_in= 1.0828050986895004
+cur_iter_in= 151 , cur_error_in= 1.0286648437630994
+cur_iter_in= 152 , cur_error_in= 0.9772316015719474
+cur_iter_in= 153 , cur_error_in= 0.9283700215050259
+cur_iter_in= 154 , cur_error_in= 0.881951520403084
+cur_iter_in= 155 , cur_error_in= 0.8378539443728003
+cur_iter_in= 156 , cur_error_in= 0.7959612471745698
+cur_iter_in= 157 , cur_error_in= 0.7561631847966456
+cur_iter_in= 158 , cur_error_in= 0.7183550255574361
+cur_iter_in= 159 , cur_error_in= 0.6824372742775033
+cur_iter_in= 160 , cur_error_in= 0.6483154105806828
+cur_iter_in= 161 , cur_error_in= 0.6158996400614672
+cur_iter_in= 162 , cur_error_in= 0.5851046580445886
+cur_iter_in= 163 , cur_error_in= 0.5558494251439394
+cur_iter_in= 164 , cur_error_in= 0.5280569538686478
+cur_iter_in= 165 , cur_error_in= 0.5016541061906346
+cur_iter_in= 166 , cur_error_in= 0.4765714008868278
+cur_iter_in= 167 , cur_error_in= 0.4527428308358113
+cur_iter_in= 168 , cur_error_in= 0.4301056892777892
+cur_iter_in= 169 , cur_error_in= 0.4086004048246602
+cur_iter_in= 170 , cur_error_in= 0.38817038457535846
+cur_iter_in= 171 , cur_error_in= 0.36876186536982064
+cur_iter_in= 172 , cur_error_in= 0.3503237721167398
+cur_iter_in= 173 , cur_error_in= 0.3328075834954357
+cur_iter_in= 174 , cur_error_in= 0.31616720433871204
+cur_iter_in= 175 , cur_error_in= 0.30035884410928687
+cur_iter_in= 176 , cur_error_in= 0.2853409018938289
+cur_iter_in= 177 , cur_error_in= 0.2710738567923411
+cur_iter_in= 178 , cur_error_in= 0.2575201639342847
+cur_iter_in= 179 , cur_error_in= 0.2446441557516624
+cur_iter_in= 180 , cur_error_in= 0.232411947973176
+cur_iter_in= 181 , cur_error_in= 0.22079135055811952
+cur_iter_in= 182 , cur_error_in= 0.2097517830417304
+cur_iter_in= 183 , cur_error_in= 0.19926419388764088
+cur_iter_in= 184 , cur_error_in= 0.18930098419392716
+cur_iter_in= 185 , cur_error_in= 0.17983593497603662
+cur_iter_in= 186 , cur_error_in= 0.17084413823602743
+cur_iter_in= 187 , cur_error_in= 0.16230193132297419
+cur_iter_in= 188 , cur_error_in= 0.1541868347626246
+cur_iter_in= 189 , cur_error_in= 0.14647749303574134
+cur_iter_in= 190 , cur_error_in= 0.13915361838506263
+cur_iter_in= 191 , cur_error_in= 0.13219593744514294
+cur_iter_in= 192 , cur_error_in= 0.1255861405675464
+cur_iter_in= 193 , cur_error_in= 0.11930683355033316
+cur_iter_in= 194 , cur_error_in= 0.11334149187261638
+cur_iter_in= 195 , cur_error_in= 0.10767441729657073
+cur_iter_in= 196 , cur_error_in= 0.10229069641095075
+cur_iter_in= 197 , cur_error_in= 0.09717616158810961
+cur_iter_in= 198 , cur_error_in= 0.09231735352022011
+cur_iter_in= 199 , cur_error_in= 0.08770148583505306
+cur_iter_in= 200 , cur_error_in= 0.08331641153914349
+cur_iter_in= 201 , cur_error_in= 0.07915059096468906
+cur_iter_in= 202 , cur_error_in= 0.07519306141435148
+cur_iter_in= 203 , cur_error_in= 0.0714334083482839
+cur_iter_in= 204 , cur_error_in= 0.0678617379259129
+cur_iter_in= 205 , cur_error_in= 0.06446865104648472
+cur_iter_in= 206 , cur_error_in= 0.06124521849674726
+cur_iter_in= 207 , cur_error_in= 0.05818295757173991
+cur_iter_in= 208 , cur_error_in= 0.055273809717086404
+cur_iter_in= 209 , cur_error_in= 0.052510119212070265
+cur_iter_in= 210 , cur_error_in= 0.0498846132549255
+cur_iter_in= 211 , cur_error_in= 0.04739038257440305
+cur_iter_in= 212 , cur_error_in= 0.0450208634446725
+cur_iter_in= 213 , cur_error_in= 0.042769820265795656
+cur_iter_in= 214 , cur_error_in= 0.040631329267256974
+cur_iter_in= 215 , cur_error_in= 0.03859976278855043
+cur_iter_in= 216 , cur_error_in= 0.03666977466189325
+cur_iter_in= 217 , cur_error_in= 0.03483628591929115
+cur_iter_in= 218 , cur_error_in= 0.03309447162288931
+cur_iter_in= 219 , cur_error_in= 0.03143974804548806
+cur_iter_in= 220 , cur_error_in= 0.029867760647358597
+cur_iter_in= 221 , cur_error_in= 0.028374372610492013
+cur_iter_in= 222 , cur_error_in= 0.02695565396903536
+cur_iter_in= 223 , cur_error_in= 0.02560787127735083
+cur_iter_in= 224 , cur_error_in= 0.024327477710993705
+cur_iter_in= 225 , cur_error_in= 0.023111103833682853
+cur_iter_in= 226 , cur_error_in= 0.021955548635556207
+cur_iter_in= 227 , cur_error_in= 0.02085777122627558
+cur_iter_in= 228 , cur_error_in= 0.019814882662836143
+cur_iter_in= 229 , cur_error_in= 0.018824138517852116
+cur_iter_in= 230 , cur_error_in= 0.017882931580170642
+cur_iter_in= 231 , cur_error_in= 0.016988784997869225
+cur_iter_in= 232 , cur_error_in= 0.01613934576839182
+cur_iter_in= 233 , cur_error_in= 0.015332378470242823
+cur_iter_in= 234 , cur_error_in= 0.014565759550729923
+cur_iter_in= 235 , cur_error_in= 0.013837471572617884
+cur_iter_in= 236 , cur_error_in= 0.013145597991853096
+cur_iter_in= 237 , cur_error_in= 0.012488318107787198
+cur_iter_in= 238 , cur_error_in= 0.011863902207540859
+cur_iter_in= 239 , cur_error_in= 0.01127070709472641
+cur_iter_in= 240 , cur_error_in= 0.010707171724795832
+cur_iter_in= 241 , cur_error_in= 0.010171813126858728
+cur_iter_in= 242 , cur_error_in= 0.009663222471400848
+cur_iter_in= 243 , cur_error_in= 0.009180061334018762
+cur_iter_in= 244 , cur_error_in= 0.008721058266643942
+cur_iter_in= 245 , cur_error_in= 0.008285005369715253
+cur_iter_in= 246 , cur_error_in= 0.007870755117001402
+cur_iter_in= 247 , cur_error_in= 0.007477217364757286
+cur_iter_in= 248 , cur_error_in= 0.00710335646914063
+cur_iter_in= 249 , cur_error_in= 0.006748188644240652
+cur_iter_in= 250 , cur_error_in= 0.0064107792265769206
+cur_iter_in= 251 , cur_error_in= 0.006090240258130885
+cur_iter_in= 252 , cur_error_in= 0.005785728252193791
+cur_iter_in= 253 , cur_error_in= 0.00549644184088458
+cur_iter_in= 254 , cur_error_in= 0.005221619749868535
+cur_iter_in= 255 , cur_error_in= 0.00496053877506642
+cur_iter_in= 256 , cur_error_in= 0.004712511836601858
+cur_iter_in= 257 , cur_error_in= 0.004476886232114834
+cur_iter_in= 258 , cur_error_in= 0.004253041916576113
+cur_iter_in= 259 , cur_error_in= 0.004040389814541125
+cur_iter_in= 260 , cur_error_in= 0.0038383703279497227
+cur_iter_in= 261 , cur_error_in= 0.00364645181411453
+cur_iter_in= 262 , cur_error_in= 0.003464129228844343
+cur_iter_in= 263 , cur_error_in= 0.003290922767657427
+cur_iter_in= 264 , cur_error_in= 0.0031263766231867363
+cur_iter_in= 265 , cur_error_in= 0.002970057790376905
+cur_iter_in= 266 , cur_error_in= 0.0028215549105901675
+cur_iter_in= 267 , cur_error_in= 0.0026804771654866206
+cur_iter_in= 268 , cur_error_in= 0.0025464533057065063
+cur_iter_in= 269 , cur_error_in= 0.0024191306414708355
+cur_iter_in= 270 , cur_error_in= 0.0022981741017811647
+cur_iter_in= 271 , cur_error_in= 0.002183265396648438
+cur_iter_in= 272 , cur_error_in= 0.00207410212401733
+cur_iter_in= 273 , cur_error_in= 0.001970397012841534
+cur_iter_in= 274 , cur_error_in= 0.001871877164383277
+cur_iter_in= 275 , cur_error_in= 0.001778283317076094
+cur_iter_in= 276 , cur_error_in= 0.0016893691659109556
+cur_iter_in= 277 , cur_error_in= 0.0016049006931396267
+cur_iter_in= 278 , cur_error_in= 0.0015246556707762542
+cur_iter_in= 279 , cur_error_in= 0.0014484228806797947
+cur_iter_in= 280 , cur_error_in= 0.0013760017332962735
+cur_iter_in= 281 , cur_error_in= 0.0013072016652909105
+cur_iter_in= 282 , cur_error_in= 0.0012418415669758326
+cur_iter_in= 283 , cur_error_in= 0.0011797494785184327
+cur_iter_in= 284 , cur_error_in= 0.0011207620100605303
+cur_iter_in= 285 , cur_error_in= 0.0010647239128281996
+cur_iter_in= 286 , cur_error_in= 0.0010114877028272577
+cur_iter_in= 287 , cur_error_in= 0.0009609133105904495
+cur_iter_in= 288 , cur_error_in= 0.0009128676606260188
+cur_iter_in= 289 , cur_error_in= 0.0008672242890679513
+cur_iter_in= 290 , cur_error_in= 0.0008238630597695963
+cur_iter_in= 291 , cur_error_in= 0.0007826698806238147
+cur_iter_in= 292 , cur_error_in= 0.0007435363957799685
+cur_iter_in= 293 , cur_error_in= 0.0007063595897713952
+cur_iter_in= 294 , cur_error_in= 0.0006710416080755605
+cur_iter_in= 295 , cur_error_in= 0.0006374895296173633
+cur_iter_in= 296 , cur_error_in= 0.0006056150643791896
+cur_iter_in= 297 , cur_error_in= 0.0005753342997248677
+cur_iter_in= 298 , cur_error_in= 0.0005465675811106118
+cur_iter_in= 299 , cur_error_in= 0.000519239209986179
+cur_iter_in= 300 , cur_error_in= 0.0004932772499550667
+cur_iter_in= 301 , cur_error_in= 0.0004686133876514769
+cur_iter_in= 302 , cur_error_in= 0.0004451827160092208
+cur_iter_in= 303 , cur_error_in= 0.00042292358702382545
+cur_iter_in= 304 , cur_error_in= 0.0004017773995055966
+cur_iter_in= 305 , cur_error_in= 0.000381688516931619
+cur_iter_in= 306 , cur_error_in= 0.00036260409271254704
+cur_iter_in= 307 , cur_error_in= 0.00034447388666355023
+cur_iter_in= 308 , cur_error_in= 0.0003272501853764081
+cur_iter_in= 309 , cur_error_in= 0.0003108876961051674
+cur_iter_in= 310 , cur_error_in= 0.00029534330765606636
+cur_iter_in= 311 , cur_error_in= 0.00028057612794711513
+cur_iter_in= 312 , cur_error_in= 0.00026654732867586713
+cur_iter_in= 313 , cur_error_in= 0.00025321996888903357
+cur_iter_in= 314 , cur_error_in= 0.00024055897898107926
+cur_iter_in= 315 , cur_error_in= 0.00022853103759922877
+cur_iter_in= 316 , cur_error_in= 0.00021710447860512043
+cur_iter_in= 317 , cur_error_in= 0.00020624925734300282
+cur_iter_in= 318 , cur_error_in= 0.00019593679118508732
+cur_iter_in= 319 , cur_error_in= 0.00018613994934578416
+cur_iter_in= 320 , cur_error_in= 0.00017683294613648866
+cur_iter_in= 321 , cur_error_in= 0.00016799130932303278
+cur_iter_in= 322 , cur_error_in= 0.00015959173117934678
+cur_iter_in= 323 , cur_error_in= 0.0001516121560537197
+cur_iter_in= 324 , cur_error_in= 0.00014403156294344357
+cur_iter_in= 325 , cur_error_in= 0.00013682997686425275
+cur_iter_in= 326 , cur_error_in= 0.0001299884526501373
+cur_iter_in= 327 , cur_error_in= 0.00012348903017181598
+cur_iter_in= 328 , cur_error_in= 0.00011731457270387413
+cur_iter_in= 329 , cur_error_in= 0.00011144883932234799
+cur_iter_in= 330 , cur_error_in= 0.0001058764003260092
+cur_iter_in= 331 , cur_error_in= 0.00010058257950925523
+cur_iter_in= 332 , cur_error_in= 9.555345267638707e-05
+cur_iter_in= 333 , cur_error_in= 9.077578814363359e-05
+cur_iter_in= 334 , cur_error_in= 8.623700802935627e-05
+cur_iter_in= 335 , cur_error_in= 8.192514546139892e-05
+cur_iter_in= 336 , cur_error_in= 7.782889182913577e-05
+cur_iter_in= 337 , cur_error_in= 7.393745192941066e-05
+cur_iter_in= 338 , cur_error_in= 7.024056731641895e-05
+cur_iter_in= 339 , cur_error_in= 6.672854833893828e-05
+cur_iter_in= 340 , cur_error_in= 6.339212934758687e-05
+cur_iter_in= 341 , cur_error_in= 6.0222532584070345e-05
+cur_iter_in= 342 , cur_error_in= 5.7211394129609264e-05
+cur_iter_in= 343 , cur_error_in= 5.4350821973290485e-05
+cur_iter_in= 344 , cur_error_in= 5.1633289461407885e-05
+cur_iter_in= 345 , cur_error_in= 4.905162183329752e-05
+cur_iter_in= 346 , cur_error_in= 4.6599048992692463e-05
+cur_iter_in= 347 , cur_error_in= 4.4269091640554905e-05
+cur_iter_in= 348 , cur_error_in= 4.2055626113608635e-05
+cur_iter_in= 349 , cur_error_in= 3.99528422947499e-05
+cur_iter_in= 350 , cur_error_in= 3.795520392722979e-05
+cur_iter_in= 351 , cur_error_in= 3.605746187779912e-05
+cur_iter_in= 352 , cur_error_in= 3.425458130220994e-05
+cur_iter_in= 353 , cur_error_in= 3.254183699755402e-05
+cur_iter_in= 354 , cur_error_in= 3.091475264385892e-05
+cur_iter_in= 355 , cur_error_in= 2.936901967951817e-05
+cur_iter_in= 356 , cur_error_in= 2.79005729525433e-05
+cur_iter_in= 357 , cur_error_in= 2.6505537012069694e-05
+cur_iter_in= 358 , cur_error_in= 2.5180279167044102e-05
+cur_iter_in= 359 , cur_error_in= 2.392126342620055e-05
+cur_iter_in= 360 , cur_error_in= 2.2725204401755924e-05
+cur_iter_in= 361 , cur_error_in= 2.1588960646522783e-05
+cur_iter_in= 362 , cur_error_in= 2.0509485321003098e-05
+cur_iter_in= 363 , cur_error_in= 1.9483994366676794e-05
+cur_iter_in= 364 , cur_error_in= 1.8509794067440747e-05
+cur_iter_in= 365 , cur_error_in= 1.7584294245190028e-05
+cur_iter_in= 366 , cur_error_in= 1.6705086683359123e-05
+cur_iter_in= 367 , cur_error_in= 1.58698286473498e-05
+cur_iter_in= 368 , cur_error_in= 1.5076333491952892e-05
+cur_iter_in= 369 , cur_error_in= 1.4322518618112334e-05
+cur_iter_in= 370 , cur_error_in= 1.36063918967989e-05
+cur_iter_in= 371 , cur_error_in= 1.2926072535673432e-05
+cur_iter_in= 372 , cur_error_in= 1.2279763834896304e-05
+cur_iter_in= 373 , cur_error_in= 1.1665788985478417e-05
+cur_iter_in= 374 , cur_error_in= 1.1082498512412274e-05
+cur_iter_in= 375 , cur_error_in= 1.0528368888076765e-05
+cur_iter_in= 376 , cur_error_in= 1.0001975422754537e-05
+cur_iter_in= 377 , cur_error_in= 9.501870304062372e-06
+cur_iter_in= 378 , cur_error_in= 9.026781829241716e-06
+cur_iter_in= 379 , cur_error_in= 8.575453476067371e-06
+cur_iter_in= 380 , cur_error_in= 8.146665840117755e-06
+cur_iter_in= 381 , cur_error_in= 7.73932375250756e-06
+cur_iter_in= 382 , cur_error_in= 7.352356822043635e-06
+cur_iter_in= 383 , cur_error_in= 6.98474381062337e-06
+cur_iter_in= 384 , cur_error_in= 6.635501747624918e-06
+cur_iter_in= 385 , cur_error_in= 6.303730133861945e-06
+cur_iter_in= 386 , cur_error_in= 5.988549441134023e-06
+cur_iter_in= 387 , cur_error_in= 5.689123070496956e-06
+cur_iter_in= 388 , cur_error_in= 5.404658302955189e-06
+cur_iter_in= 389 , cur_error_in= 5.134417194236934e-06
+cur_iter_in= 390 , cur_error_in= 4.877684935781069e-06
+cur_iter_in= 391 , cur_error_in= 4.6338150759012415e-06
+cur_iter_in= 392 , cur_error_in= 4.402135072038833e-06
+cur_iter_in= 393 , cur_error_in= 4.182020506374447e-06
+cur_iter_in= 394 , cur_error_in= 3.972925232792502e-06
+cur_iter_in= 395 , cur_error_in= 3.77427218064098e-06
+cur_iter_in= 396 , cur_error_in= 3.5855560806483266e-06
+cur_iter_in= 397 , cur_error_in= 3.4062853753021446e-06
+cur_iter_in= 398 , cur_error_in= 3.235981501691411e-06
+cur_iter_in= 399 , cur_error_in= 3.0741919771406042e-06
+cur_iter_in= 400 , cur_error_in= 2.9204794718840737e-06
+cur_iter_in= 401 , cur_error_in= 2.7744611563477096e-06
+cur_iter_in= 402 , cur_error_in= 2.6357287147467605e-06
+cur_iter_in= 403 , cur_error_in= 2.5039402167658665e-06
+cur_iter_in= 404 , cur_error_in= 2.3787427768129203e-06
+cur_iter_in= 405 , cur_error_in= 2.259811021526412e-06
+cur_iter_in= 406 , cur_error_in= 2.1468027444477007e-06
+cur_iter_in= 407 , cur_error_in= 2.0394724915275977e-06
+cur_iter_in= 408 , cur_error_in= 1.9375022124659436e-06
+cur_iter_in= 409 , cur_error_in= 1.8406161225451475e-06
+cur_iter_in= 410 , cur_error_in= 1.7485918885469468e-06
+cur_iter_in= 411 , cur_error_in= 1.6611537183017855e-06
+cur_iter_in= 412 , cur_error_in= 1.5780966967704714e-06
+cur_iter_in= 413 , cur_error_in= 1.4991744528416042e-06
+cur_iter_in= 414 , cur_error_in= 1.4242018457218642e-06
+cur_iter_in= 415 , cur_error_in= 1.3529940995102635e-06
+cur_iter_in= 416 , cur_error_in= 1.285338671380903e-06
+cur_iter_in= 417 , cur_error_in= 1.2211006549488085e-06
+cur_iter_in= 418 , cur_error_in= 1.1600520865460806e-06
+cur_iter_in= 419 , cur_error_in= 1.1020513094860958e-06
+cur_iter_in= 420 , cur_error_in= 1.0469451077642341e-06
+cur_iter_out= 5 , cur_error_out= 10.099504938362077
+cur_iter_in= 1 , cur_error_in= 9.999999999999999e-06
+cur_iter_in= 2 , cur_error_in= 65.43944221820342
+cur_iter_in= 3 , cur_error_in= 33.488776531427355
+cur_iter_in= 4 , cur_error_in= 37.06131862569393
+cur_iter_in= 5 , cur_error_in= 42.633565824876705
+cur_iter_in= 6 , cur_error_in= 47.924095792716386
+cur_iter_in= 7 , cur_error_in= 52.366414501146856
+cur_iter_in= 8 , cur_error_in= 56.18541058487267
+cur_iter_in= 9 , cur_error_in= 58.54633643331593
+cur_iter_in= 10 , cur_error_in= 58.83352868042329
+cur_iter_in= 11 , cur_error_in= 57.451404278142284
+cur_iter_in= 12 , cur_error_in= 54.6760562996585
+cur_iter_in= 13 , cur_error_in= 51.973169447122096
+cur_iter_in= 14 , cur_error_in= 49.40781609969479
+cur_iter_in= 15 , cur_error_in= 46.907954393263225
+cur_iter_in= 16 , cur_error_in= 44.57700593215535
+cur_iter_in= 17 , cur_error_in= 42.34464504721776
+cur_iter_in= 18 , cur_error_in= 40.226128739842466
+cur_iter_in= 19 , cur_error_in= 38.21685328321254
+cur_iter_in= 20 , cur_error_in= 36.30472073924367
+cur_iter_in= 21 , cur_error_in= 34.48995542199122
+cur_iter_in= 22 , cur_error_in= 32.76544090133438
+cur_iter_in= 23 , cur_error_in= 31.12704875438392
+cur_iter_in= 24 , cur_error_in= 29.57079867709208
+cur_iter_in= 25 , cur_error_in= 28.092209624303848
+cur_iter_in= 26 , cur_error_in= 26.687610007550884
+cur_iter_in= 27 , cur_error_in= 25.35323462023195
+cur_iter_in= 28 , cur_error_in= 24.08556564815718
+cur_iter_in= 29 , cur_error_in= 22.881291800223867
+cur_iter_in= 30 , cur_error_in= 21.737225661259934
+cur_iter_in= 31 , cur_error_in= 20.65036437835343
+cur_iter_in= 32 , cur_error_in= 19.617846599075765
+cur_iter_in= 33 , cur_error_in= 18.636953911680465
+cur_iter_in= 34 , cur_error_in= 17.705106381814847
+cur_iter_in= 35 , cur_error_in= 16.819851029492796
+cur_iter_in= 36 , cur_error_in= 15.9788584579895
+cur_iter_in= 37 , cur_error_in= 15.17991556082023
+cur_iter_in= 38 , cur_error_in= 14.420919767550618
+cur_iter_in= 39 , cur_error_in= 13.699873784239092
+cur_iter_in= 40 , cur_error_in= 13.014880095232185
+cur_iter_in= 41 , cur_error_in= 12.364136088861214
+cur_iter_in= 42 , cur_error_in= 11.745929285670629
+cur_iter_in= 43 , cur_error_in= 11.158632820829236
+cur_iter_in= 44 , cur_error_in= 10.600701179878362
+cur_iter_in= 45 , cur_error_in= 10.070666120972692
+cur_iter_in= 46 , cur_error_in= 9.567132814839225
+cur_iter_in= 47 , cur_error_in= 9.088776174149745
+cur_iter_in= 48 , cur_error_in= 8.634337365422196
+cur_iter_in= 49 , cur_error_in= 8.202620497147603
+cur_iter_in= 50 , cur_error_in= 7.792489472277001
+cur_iter_in= 51 , cur_error_in= 7.402864998666989
+cur_iter_in= 52 , cur_error_in= 7.032721748742572
+cur_iter_in= 53 , cur_error_in= 6.6810856613061205
+cur_iter_in= 54 , cur_error_in= 6.347031378225005
+cur_iter_in= 55 , cur_error_in= 6.029679809324951
+cur_iter_in= 56 , cur_error_in= 5.728195818858664
+cur_iter_in= 57 , cur_error_in= 5.441786027936523
+cur_iter_in= 58 , cur_error_in= 5.169696726530119
+cur_iter_in= 59 , cur_error_in= 4.911211890202956
+cur_iter_in= 60 , cur_error_in= 4.665651295685402
+cur_iter_in= 61 , cur_error_in= 4.432368730910009
+cur_iter_in= 62 , cur_error_in= 4.210750294354157
+cur_iter_in= 63 , cur_error_in= 4.000212779632769
+cur_iter_in= 64 , cur_error_in= 3.80020214065868
+cur_iter_in= 65 , cur_error_in= 3.6101920336361966
+cur_iter_in= 66 , cur_error_in= 3.429682431941584
+cur_iter_in= 67 , cur_error_in= 3.258198310356593
+cur_iter_in= 68 , cur_error_in= 3.0952883948421115
+cur_iter_in= 69 , cur_error_in= 2.9405239750956413
+cur_iter_in= 70 , cur_error_in= 2.793497776334646
+cur_iter_in= 71 , cur_error_in= 2.6538228875153584
+cur_iter_in= 72 , cur_error_in= 2.521131743124466
+cur_iter_in= 73 , cur_error_in= 2.3950751559711354
+cur_iter_in= 74 , cur_error_in= 2.2753213981832787
+cur_iter_in= 75 , cur_error_in= 2.1615553282701243
+cur_iter_in= 76 , cur_error_in= 2.053477561862164
+cur_iter_in= 77 , cur_error_in= 1.9508036837830856
+cur_iter_in= 78 , cur_error_in= 1.8532634995951915
+cur_iter_in= 79 , cur_error_in= 1.7606003246004522
+cur_iter_in= 80 , cur_error_in= 1.672570308360941
+cur_iter_in= 81 , cur_error_in= 1.588941792947095
+cur_iter_in= 82 , cur_error_in= 1.5094947032799328
+cur_iter_in= 83 , cur_error_in= 1.4340199681160117
+cur_iter_in= 84 , cur_error_in= 1.3623189697267704
+cur_iter_in= 85 , cur_error_in= 1.2942030212389224
+cur_iter_in= 86 , cur_error_in= 1.2294928702107202
+cur_iter_in= 87 , cur_error_in= 1.1680182266693981
+cur_iter_in= 88 , cur_error_in= 1.1096173153243085
+cur_iter_in= 89 , cur_error_in= 1.0541364495664576
+cur_iter_in= 90 , cur_error_in= 1.0014296270942997
+cur_iter_in= 91 , cur_error_in= 0.951358145741502
+cur_iter_in= 92 , cur_error_in= 0.9037902384574867
+cur_iter_in= 93 , cur_error_in= 0.8586007265334529
+cur_iter_in= 94 , cur_error_in= 0.8156706902072769
+cur_iter_in= 95 , cur_error_in= 0.7748871557017303
+cur_iter_in= 96 , cur_error_in= 0.7361427979045365
+cur_iter_in= 97 , cur_error_in= 0.6993356580104719
+cur_iter_in= 98 , cur_error_in= 0.6643688751203816
+cur_iter_in= 99 , cur_error_in= 0.631150431383972
+cur_iter_in= 100 , cur_error_in= 0.5995929098113937
+cur_iter_in= 101 , cur_error_in= 0.5696132643066223
+cur_iter_in= 102 , cur_error_in= 0.5411326010817098
+cur_iter_in= 103 , cur_error_in= 0.5140759710473715
+cur_iter_in= 104 , cur_error_in= 0.4883721724952748
+cur_iter_in= 105 , cur_error_in= 0.46395356387637904
+cur_iter_in= 106 , cur_error_in= 0.4407558856821779
+cur_iter_in= 107 , cur_error_in= 0.41871809138533456
+cur_iter_in= 108 , cur_error_in= 0.39778218682528543
+cur_iter_in= 109 , cur_error_in= 0.3778930774825819
+cur_iter_in= 110 , cur_error_in= 0.3589984236060637
+cur_iter_in= 111 , cur_error_in= 0.341048502420905
+cur_iter_in= 112 , cur_error_in= 0.323996077300384
+cur_iter_in= 113 , cur_error_in= 0.3077962734303469
+cur_iter_in= 114 , cur_error_in= 0.2924064597612141
+cur_iter_in= 115 , cur_error_in= 0.27778613676946445
+cur_iter_in= 116 , cur_error_in= 0.26389682993554875
+cur_iter_in= 117 , cur_error_in= 0.2507019884427366
+cur_iter_in= 118 , cur_error_in= 0.23816688903281613
+cur_iter_in= 119 , cur_error_in= 0.2262585445860564
+cur_iter_in= 120 , cur_error_in= 0.2149456173532332
+cur_iter_in= 121 , cur_error_in= 0.2041983364699699
+cur_iter_in= 122 , cur_error_in= 0.19398841961732186
+cur_iter_in= 123 , cur_error_in= 0.18428899863674578
+cur_iter_in= 124 , cur_error_in= 0.1750745487153692
+cur_iter_in= 125 , cur_error_in= 0.1663208212880586
+cur_iter_in= 126 , cur_error_in= 0.15800478021433878
+cur_iter_in= 127 , cur_error_in= 0.1501045412072634
+cur_iter_in= 128 , cur_error_in= 0.1425993141476444
+cur_iter_in= 129 , cur_error_in= 0.1354693484204983
+cur_iter_in= 130 , cur_error_in= 0.12869588100330998
+cur_iter_in= 131 , cur_error_in= 0.12226108696828665
+cur_iter_in= 132 , cur_error_in= 0.11614803261634658
+cur_iter_in= 133 , cur_error_in= 0.1103406309840484
+cur_iter_in= 134 , cur_error_in= 0.10482359944655026
+cur_iter_in= 135 , cur_error_in= 0.0995824194861687
+cur_iter_in= 136 , cur_error_in= 0.09460329850630249
+cur_iter_in= 137 , cur_error_in= 0.08987313359502407
+cur_iter_in= 138 , cur_error_in= 0.08537947691878625
+cur_iter_in= 139 , cur_error_in= 0.08111050307021195
+cur_iter_in= 140 , cur_error_in= 0.07705497791220463
+cur_iter_in= 141 , cur_error_in= 0.07320222900853209
+cur_iter_in= 142 , cur_error_in= 0.06954211754285589
+cur_iter_in= 143 , cur_error_in= 0.06606501166048727
+cur_iter_in= 144 , cur_error_in= 0.06276176108096834
+cur_iter_in= 145 , cur_error_in= 0.059623673021728676
+cur_iter_in= 146 , cur_error_in= 0.056642489352993076
+cur_iter_in= 147 , cur_error_in= 0.0538103649129397
+cur_iter_in= 148 , cur_error_in= 0.05111984668496877
+cur_iter_in= 149 , cur_error_in= 0.04856385435702854
+cur_iter_in= 150 , cur_error_in= 0.04613566163117271
+cur_iter_in= 151 , cur_error_in= 0.04382887852788541
+cur_iter_in= 152 , cur_error_in= 0.041637434608719645
+cur_iter_in= 153 , cur_error_in= 0.039555562907258285
+cur_iter_in= 154 , cur_error_in= 0.03757778474674597
+cur_iter_in= 155 , cur_error_in= 0.03569889549907058
+cur_iter_in= 156 , cur_error_in= 0.03391395071220843
+cur_iter_in= 157 , cur_error_in= 0.03221825318776615
+cur_iter_in= 158 , cur_error_in= 0.030607340527482176
+cur_iter_in= 159 , cur_error_in= 0.029076973501132843
+cur_iter_in= 160 , cur_error_in= 0.02762312483335878
+cur_iter_in= 161 , cur_error_in= 0.026241968592399637
+cur_iter_in= 162 , cur_error_in= 0.024929870160626266
+cur_iter_in= 163 , cur_error_in= 0.0236833766396606
+cur_iter_in= 164 , cur_error_in= 0.02249920780114659
+cur_iter_in= 165 , cur_error_in= 0.021374247419172925
+cur_iter_in= 166 , cur_error_in= 0.02030553506248645
+cur_iter_in= 167 , cur_error_in= 0.01929025830718872
+cur_iter_in= 168 , cur_error_in= 0.01832574539328336
+cur_iter_in= 169 , cur_error_in= 0.017409458128999408
+cur_iter_in= 170 , cur_error_in= 0.016538985223154886
+cur_iter_in= 171 , cur_error_in= 0.015712035966940784
+cur_iter_in= 172 , cur_error_in= 0.014926434169842125
+cur_iter_in= 173 , cur_error_in= 0.014180112449222463
+cur_iter_in= 174 , cur_error_in= 0.013471106818588761
+cur_iter_in= 175 , cur_error_in= 0.012797551486320962
+cur_iter_in= 176 , cur_error_in= 0.012157673897578401
+cur_iter_in= 177 , cur_error_in= 0.011549790199244757
+cur_iter_in= 178 , cur_error_in= 0.010972300706988616
+cur_iter_in= 179 , cur_error_in= 0.010423685681018773
+cur_iter_in= 180 , cur_error_in= 0.009902501398259354
+cur_iter_in= 181 , cur_error_in= 0.009407376318274669
+cur_iter_in= 182 , cur_error_in= 0.008937007511870215
+cur_iter_in= 183 , cur_error_in= 0.008490157132861569
+cur_iter_in= 184 , cur_error_in= 0.008065649276357206
+cur_iter_in= 185 , cur_error_in= 0.007662366806816296
+cur_iter_in= 186 , cur_error_in= 0.00727924846527703
+cur_iter_in= 187 , cur_error_in= 0.006915286024330601
+cur_iter_in= 188 , cur_error_in= 0.006569521723622566
+cur_iter_in= 189 , cur_error_in= 0.00624104563779185
+cur_iter_in= 190 , cur_error_in= 0.0059289933621506615
+cur_iter_in= 191 , cur_error_in= 0.005632543696774368
+cur_iter_in= 192 , cur_error_in= 0.005350916510290952
+cur_iter_in= 193 , cur_error_in= 0.005083370676350702
+cur_iter_in= 194 , cur_error_in= 0.004829202147848762
+cur_iter_in= 195 , cur_error_in= 0.004587742031391385
+cur_iter_in= 196 , cur_error_in= 0.004358354928964689
+cur_iter_in= 197 , cur_error_in= 0.004140437193589087
+cur_iter_in= 198 , cur_error_in= 0.003933415336134421
+cur_iter_in= 199 , cur_error_in= 0.0037367445618153106
+cur_iter_in= 200 , cur_error_in= 0.0035499073422203954
+cur_iter_in= 201 , cur_error_in= 0.0033724119798446187
+cur_iter_in= 202 , cur_error_in= 0.0032037913730731038
+cur_iter_in= 203 , cur_error_in= 0.003043601805098472
+cur_iter_in= 204 , cur_error_in= 0.0028914217413639593
+cur_iter_in= 205 , cur_error_in= 0.0027468506370565324
+cur_iter_in= 206 , cur_error_in= 0.0026095080921746897
+cur_iter_in= 207 , cur_error_in= 0.002479032691326701
+cur_iter_in= 208 , cur_error_in= 0.002355081062964574
+cur_iter_in= 209 , cur_error_in= 0.002237326965481293
+cur_iter_in= 210 , cur_error_in= 0.0021254606352095248
+cur_iter_in= 211 , cur_error_in= 0.002019187598074895
+cur_iter_in= 212 , cur_error_in= 0.0019182282397073455
+cur_iter_in= 213 , cur_error_in= 0.0018223168451969463
+cur_iter_in= 214 , cur_error_in= 0.0017312009979959589
+cur_iter_in= 215 , cur_error_in= 0.0016446409547399008
+cur_iter_in= 216 , cur_error_in= 0.0015624089159553467
+cur_iter_in= 217 , cur_error_in= 0.001484288467212996
+cur_iter_in= 218 , cur_error_in= 0.0014100740281544747
+cur_iter_in= 219 , cur_error_in= 0.0013395703238967534
+cur_iter_in= 220 , cur_error_in= 0.001272591805417385
+cur_iter_in= 221 , cur_error_in= 0.0012089622059049232
+cur_iter_in= 222 , cur_error_in= 0.0011485141049027204
+cur_iter_in= 223 , cur_error_in= 0.001091088390700137
+cur_iter_in= 224 , cur_error_in= 0.0010365339757266814
+cur_iter_in= 225 , cur_error_in= 0.0009847072722232858
+cur_iter_in= 226 , cur_error_in= 0.0009354719194556036
+cur_iter_in= 227 , cur_error_in= 0.000888698339515109
+cur_iter_in= 228 , cur_error_in= 0.0008442634258579307
+cur_iter_in= 229 , cur_error_in= 0.0008020502495421567
+cur_iter_in= 230 , cur_error_in= 0.0007619477275586687
+cur_iter_in= 231 , cur_error_in= 0.0007238503397389094
+cur_iter_in= 232 , cur_error_in= 0.0006876578120967918
+cur_iter_in= 233 , cur_error_in= 0.0006532749112118376
+cur_iter_in= 234 , cur_error_in= 0.000620611193548686
+cur_iter_in= 235 , cur_error_in= 0.0005895806290313429
+cur_iter_in= 236 , cur_error_in= 0.0005601015669307527
+cur_iter_in= 237 , cur_error_in= 0.000532096497498784
+cur_iter_in= 238 , cur_error_in= 0.000505491700745818
+cur_iter_in= 239 , cur_error_in= 0.00048021711237513395
+cur_iter_in= 240 , cur_error_in= 0.0004562062507641367
+cur_iter_in= 241 , cur_error_in= 0.00043339594141646523
+cur_iter_in= 242 , cur_error_in= 0.0004117261253326206
+cur_iter_in= 243 , cur_error_in= 0.00039113983050010514
+cur_iter_in= 244 , cur_error_in= 0.000371582851714103
+cur_iter_in= 245 , cur_error_in= 0.00035300369656132246
+cur_iter_in= 246 , cur_error_in= 0.00033535350417436836
+cur_iter_in= 247 , cur_error_in= 0.0003185858312313449
+cur_iter_in= 248 , cur_error_in= 0.0003026565548520811
+cur_iter_in= 249 , cur_error_in= 0.0002875237289898909
+cur_iter_in= 250 , cur_error_in= 0.0002731475365090478
+cur_iter_in= 251 , cur_error_in= 0.0002594901478464552
+cur_iter_in= 252 , cur_error_in= 0.0002465156298160659
+cur_iter_in= 253 , cur_error_in= 0.00023418986205808772
+cur_iter_in= 254 , cur_error_in= 0.00022248038875504478
+cur_iter_in= 255 , cur_error_in= 0.00021135636156233378
+cur_iter_in= 256 , cur_error_in= 0.00020078854714971004
+cur_iter_in= 257 , cur_error_in= 0.00019074912522175068
+cur_iter_in= 258 , cur_error_in= 0.0001812116593690884
+cur_iter_in= 259 , cur_error_in= 0.00017215108163689226
+cur_iter_in= 260 , cur_error_in= 0.00016354352569584784
+cur_iter_in= 261 , cur_error_in= 0.00015536633914897728
+cur_iter_in= 262 , cur_error_in= 0.0001475980250201212
+cur_iter_in= 263 , cur_error_in= 0.00014021815452954506
+cur_iter_in= 264 , cur_error_in= 0.0001332072284645715
+cur_iter_in= 265 , cur_error_in= 0.00012654686647000006
+cur_iter_in= 266 , cur_error_in= 0.00012021952653572294
+cur_iter_in= 267 , cur_error_in= 0.00011420855131890503
+cur_iter_in= 268 , cur_error_in= 0.00010849812757363886
+cur_iter_in= 269 , cur_error_in= 0.00010307320535475217
+cur_iter_in= 270 , cur_error_in= 9.791955618871693e-05
+cur_iter_in= 271 , cur_error_in= 9.302358024682886e-05
+cur_iter_in= 272 , cur_error_in= 8.837238258227269e-05
+cur_iter_in= 273 , cur_error_in= 8.395376264810974e-05
+cur_iter_in= 274 , cur_error_in= 7.975606990503316e-05
+cur_iter_in= 275 , cur_error_in= 7.576827536208404e-05
+cur_iter_in= 276 , cur_error_in= 7.197984999113631e-05
+cur_iter_in= 277 , cur_error_in= 6.83808389046004e-05
+cur_iter_in= 278 , cur_error_in= 6.496182247693532e-05
+cur_iter_in= 279 , cur_error_in= 6.171373962981856e-05
+cur_iter_in= 280 , cur_error_in= 5.86280596376899e-05
+cur_iter_in= 281 , cur_error_in= 5.569664222492263e-05
+cur_iter_in= 282 , cur_error_in= 5.2911803402859555e-05
+cur_iter_in= 283 , cur_error_in= 5.026624066644067e-05
+cur_iter_in= 284 , cur_error_in= 4.77529273864863e-05
+cur_iter_in= 285 , cur_error_in= 4.536527432981627e-05
+cur_iter_in= 286 , cur_error_in= 4.3096988528538725e-05
+cur_iter_in= 287 , cur_error_in= 4.094212742370806e-05
+cur_iter_in= 288 , cur_error_in= 3.889505245775868e-05
+cur_iter_in= 289 , cur_error_in= 3.695029320196614e-05
+cur_iter_in= 290 , cur_error_in= 3.5102756284240335e-05
+cur_iter_in= 291 , cur_error_in= 3.3347627181135644e-05
+cur_iter_in= 292 , cur_error_in= 3.168024881504435e-05
+cur_iter_in= 293 , cur_error_in= 3.009623580362874e-05
+cur_iter_in= 294 , cur_error_in= 2.8591425933573874e-05
+cur_iter_in= 295 , cur_error_in= 2.7161873295917873e-05
+cur_iter_in= 296 , cur_error_in= 2.580377609388094e-05
+cur_iter_in= 297 , cur_error_in= 2.451355602653668e-05
+cur_iter_in= 298 , cur_error_in= 2.328788500009439e-05
+cur_iter_in= 299 , cur_error_in= 2.2123501667066793e-05
+cur_iter_in= 300 , cur_error_in= 2.10173324055889e-05
+cur_iter_in= 301 , cur_error_in= 1.996645544838002e-05
+cur_iter_in= 302 , cur_error_in= 1.8968140372576598e-05
+cur_iter_in= 303 , cur_error_in= 1.8019735968768955e-05
+cur_iter_in= 304 , cur_error_in= 1.7118750592195336e-05
+cur_iter_in= 305 , cur_error_in= 1.6262823150207845e-05
+cur_iter_in= 306 , cur_error_in= 1.5449675460864325e-05
+cur_iter_in= 307 , cur_error_in= 1.4677204319809075e-05
+cur_iter_in= 308 , cur_error_in= 1.3943324343061877e-05
+cur_iter_in= 309 , cur_error_in= 1.3246146369418628e-05
+cur_iter_in= 310 , cur_error_in= 1.2583841703655018e-05
+cur_iter_in= 311 , cur_error_in= 1.1954654962824203e-05
+cur_iter_in= 312 , cur_error_in= 1.1356918771655237e-05
+cur_iter_in= 313 , cur_error_in= 1.0789090900857528e-05
+cur_iter_in= 314 , cur_error_in= 1.0249616358353607e-05
+cur_iter_in= 315 , cur_error_in= 9.737140428075454e-06
+cur_iter_in= 316 , cur_error_in= 9.250285800852903e-06
+cur_iter_in= 317 , cur_error_in= 8.787762696426566e-06
+cur_iter_in= 318 , cur_error_in= 8.348378506610642e-06
+cur_iter_in= 319 , cur_error_in= 7.930967726059778e-06
+cur_iter_in= 320 , cur_error_in= 7.534426329910368e-06
+cur_iter_in= 321 , cur_error_in= 7.157710223737486e-06
+cur_iter_in= 322 , cur_error_in= 6.799817836556921e-06
+cur_iter_in= 323 , cur_error_in= 6.459831638270035e-06
+cur_iter_in= 324 , cur_error_in= 6.136840010997872e-06
+cur_iter_in= 325 , cur_error_in= 5.829973977534941e-06
+cur_iter_in= 326 , cur_error_in= 5.538489811264365e-06
+cur_iter_in= 327 , cur_error_in= 5.261584539469643e-06
+cur_iter_in= 328 , cur_error_in= 4.998495795751022e-06
+cur_iter_in= 329 , cur_error_in= 4.748557988632034e-06
+cur_iter_in= 330 , cur_error_in= 4.511146922382286e-06
+cur_iter_in= 331 , cur_error_in= 4.2855788996461336e-06
+cur_iter_in= 332 , cur_error_in= 4.071297039657039e-06
+cur_iter_in= 333 , cur_error_in= 3.867726598842676e-06
+cur_iter_in= 334 , cur_error_in= 3.6743450202283164e-06
+cur_iter_in= 335 , cur_error_in= 3.4906454439832306e-06
+cur_iter_in= 336 , cur_error_in= 3.3160989970209196e-06
+cur_iter_in= 337 , cur_error_in= 3.1503171276777552e-06
+cur_iter_in= 338 , cur_error_in= 2.9928055124314655e-06
+cur_iter_in= 339 , cur_error_in= 2.843155920459418e-06
+cur_iter_in= 340 , cur_error_in= 2.7009856353747796e-06
+cur_iter_in= 341 , cur_error_in= 2.5659508172719017e-06
+cur_iter_in= 342 , cur_error_in= 2.437614357830459e-06
+cur_iter_in= 343 , cur_error_in= 2.3157535234790416e-06
+cur_iter_in= 344 , cur_error_in= 2.1999514283666053e-06
+cur_iter_in= 345 , cur_error_in= 2.0899614503772024e-06
+cur_iter_in= 346 , cur_error_in= 1.9854654520894834e-06
+cur_iter_in= 347 , cur_error_in= 1.8861898197799393e-06
+cur_iter_in= 348 , cur_error_in= 1.7918853547666478e-06
+cur_iter_in= 349 , cur_error_in= 1.7022797783495003e-06
+cur_iter_in= 350 , cur_error_in= 1.6171809804368197e-06
+cur_iter_in= 351 , cur_error_in= 1.5362997264168707e-06
+cur_iter_in= 352 , cur_error_in= 1.459494684869995e-06
+cur_iter_in= 353 , cur_error_in= 1.3865323639721382e-06
+cur_iter_in= 354 , cur_error_in= 1.3172131874333058e-06
+cur_iter_in= 355 , cur_error_in= 1.251356794206879e-06
+cur_iter_in= 356 , cur_error_in= 1.1887566920403374e-06
+cur_iter_in= 357 , cur_error_in= 1.1293180399182689e-06
+cur_iter_in= 358 , cur_error_in= 1.0728779678074851e-06
+cur_iter_in= 359 , cur_error_in= 1.019229631419989e-06
+cur_iter_out= 6 , cur_error_out= 3.0
+cur_iter_in= 1 , cur_error_in= 9.999999999999999e-06
+cur_iter_in= 2 , cur_error_in= 1.454881673106078
+cur_iter_in= 3 , cur_error_in= 0.2168289383257696
+cur_iter_in= 4 , cur_error_in= 0.14545752806319073
+cur_iter_in= 5 , cur_error_in= 0.16341055719663275
+cur_iter_in= 6 , cur_error_in= 0.19026237345704283
+cur_iter_in= 7 , cur_error_in= 0.21366505908607783
+cur_iter_in= 8 , cur_error_in= 0.23341815551987796
+cur_iter_in= 9 , cur_error_in= 0.24823577450160936
+cur_iter_in= 10 , cur_error_in= 0.254887120769086
+cur_iter_in= 11 , cur_error_in= 0.2535583866145102
+cur_iter_in= 12 , cur_error_in= 0.2448817142654019
+cur_iter_in= 13 , cur_error_in= 0.2332023549570211
+cur_iter_in= 14 , cur_error_in= 0.22177201337185704
+cur_iter_in= 15 , cur_error_in= 0.21063586826170405
+cur_iter_in= 16 , cur_error_in= 0.20011300216741695
+cur_iter_in= 17 , cur_error_in= 0.19011703416759537
+cur_iter_in= 18 , cur_error_in= 0.18060114955916073
+cur_iter_in= 19 , cur_error_in= 0.17157650750269338
+cur_iter_in= 20 , cur_error_in= 0.1629961148626856
+cur_iter_in= 21 , cur_error_in= 0.15484605608840896
+cur_iter_in= 22 , cur_error_in= 0.14710439766243225
+cur_iter_in= 23 , cur_error_in= 0.13974872733672553
+cur_iter_in= 24 , cur_error_in= 0.13276147447704292
+cur_iter_in= 25 , cur_error_in= 0.12612337872443916
+cur_iter_in= 26 , cur_error_in= 0.11981717611557319
+cur_iter_in= 27 , cur_error_in= 0.11382635073965341
+cur_iter_in= 28 , cur_error_in= 0.1081350155893727
+cur_iter_in= 29 , cur_error_in= 0.10272826967990928
+cur_iter_in= 30 , cur_error_in= 0.09759185720789686
+cur_iter_in= 31 , cur_error_in= 0.0927122621542347
+cur_iter_in= 32 , cur_error_in= 0.08807665053347237
+cur_iter_in= 33 , cur_error_in= 0.08367281742013408
+cur_iter_in= 34 , cur_error_in= 0.07948917661629987
+cur_iter_in= 35 , cur_error_in= 0.07551471790234272
+cur_iter_in= 36 , cur_error_in= 0.07173898188822218
+cur_iter_in= 37 , cur_error_in= 0.06815203284748211
+cur_iter_in= 38 , cur_error_in= 0.06474443119457139
+cur_iter_in= 39 , cur_error_in= 0.06150720963208451
+cur_iter_in= 40 , cur_error_in= 0.058431849146265785
+cur_iter_in= 41 , cur_error_in= 0.055510256681465225
+cur_iter_in= 42 , cur_error_in= 0.052734743853836565
+cur_iter_in= 43 , cur_error_in= 0.0500980066720612
+cur_iter_in= 44 , cur_error_in= 0.04759310632322872
+cur_iter_in= 45 , cur_error_in= 0.045213451011420686
+cur_iter_in= 46 , cur_error_in= 0.04295277845938239
+cur_iter_in= 47 , cur_error_in= 0.04080513954535761
+cur_iter_in= 48 , cur_error_in= 0.038764882556276165
+cur_iter_in= 49 , cur_error_in= 0.03682663844229587
+cur_iter_in= 50 , cur_error_in= 0.03498530652566186
+cur_iter_in= 51 , cur_error_in= 0.03323604119324029
+cur_iter_in= 52 , cur_error_in= 0.03157423913498244
+cur_iter_in= 53 , cur_error_in= 0.0299955271619377
+cur_iter_in= 54 , cur_error_in= 0.028495750809055767
+cur_iter_in= 55 , cur_error_in= 0.027070963277415643
+cur_iter_in= 56 , cur_error_in= 0.025717415106181658
+cur_iter_in= 57 , cur_error_in= 0.024431544355428856
+cur_iter_in= 58 , cur_error_in= 0.02320996713509802
+cur_iter_in= 59 , cur_error_in= 0.02204946877989745
+cur_iter_in= 60 , cur_error_in= 0.020946995330475577
+cur_iter_in= 61 , cur_error_in= 0.01989964555253962
+cur_iter_in= 62 , cur_error_in= 0.018904663278331128
+cur_iter_in= 63 , cur_error_in= 0.017959430111374953
+cur_iter_in= 64 , cur_error_in= 0.017061458627797864
+cur_iter_in= 65 , cur_error_in= 0.01620838570685592
+cur_iter_in= 66 , cur_error_in= 0.015397966422407136
+cur_iter_in= 67 , cur_error_in= 0.014628068121762585
+cur_iter_in= 68 , cur_error_in= 0.013896664706730575
+cur_iter_in= 69 , cur_error_in= 0.013201831457743245
+cur_iter_in= 70 , cur_error_in= 0.012541739878486158
+cur_iter_in= 71 , cur_error_in= 0.011914652874993749
+cur_iter_in= 72 , cur_error_in= 0.011318920218694696
+cur_iter_in= 73 , cur_error_in= 0.010752974221784615
+cur_iter_in= 74 , cur_error_in= 0.010215325519470646
+cur_iter_in= 75 , cur_error_in= 0.009704559258713897
+cur_iter_in= 76 , cur_error_in= 0.009219331305686109
+cur_iter_in= 77 , cur_error_in= 0.008758364714428285
+cur_iter_in= 78 , cur_error_in= 0.008320446485107954
+cur_iter_in= 79 , cur_error_in= 0.007904424173526416
+cur_iter_in= 80 , cur_error_in= 0.007509202960694879
+cur_iter_in= 81 , cur_error_in= 0.007133742816805863
+cur_iter_in= 82 , cur_error_in= 0.006777055676882836
+cur_iter_in= 83 , cur_error_in= 0.006438202893580845
+cur_iter_in= 84 , cur_error_in= 0.006116292740998558
+cur_iter_in= 85 , cur_error_in= 0.005810478092708369
+cur_iter_in= 86 , cur_error_in= 0.005519954183756357
+cur_iter_in= 87 , cur_error_in= 0.005243956458871584
+cur_iter_in= 88 , cur_error_in= 0.0049817586359180615
+cur_iter_in= 89 , cur_error_in= 0.0047326706984857254
+cur_iter_in= 90 , cur_error_in= 0.0044960371736682625
+cur_iter_in= 91 , cur_error_in= 0.0042712353082042425
+cur_iter_in= 92 , cur_error_in= 0.004057673553428911
+cur_iter_in= 93 , cur_error_in= 0.003854789889216854
+cur_iter_in= 94 , cur_error_in= 0.0036620503974352813
+cur_iter_in= 95 , cur_error_in= 0.003478947876508854
+cur_iter_in= 96 , cur_error_in= 0.003305000469016941
+cur_iter_in= 97 , cur_error_in= 0.003139750446313749
+cur_iter_in= 98 , cur_error_in= 0.002982762908405377
+cur_iter_in= 99 , cur_error_in= 0.002833624779527332
+cur_iter_in= 100 , cur_error_in= 0.0026919435336952044
+cur_iter_in= 101 , cur_error_in= 0.0025573463596024427
+cur_iter_in= 102 , cur_error_in= 0.0024294790441990372
+cur_iter_in= 103 , cur_error_in= 0.0023080050908790943
+cur_iter_in= 104 , cur_error_in= 0.002192604840627163
+cur_iter_in= 105 , cur_error_in= 0.002082974613857312
+cur_iter_in= 106 , cur_error_in= 0.0019788258762488773
+cur_iter_in= 107 , cur_error_in= 0.0018798845820225268
+cur_iter_in= 108 , cur_error_in= 0.0017858903461953975
+cur_iter_in= 109 , cur_error_in= 0.0016965958326005898
+cur_iter_in= 110 , cur_error_in= 0.001611766046702564
+cur_iter_in= 111 , cur_error_in= 0.0015311777285197795
+cur_iter_in= 112 , cur_error_in= 0.0014546188413336928
+cur_iter_in= 113 , cur_error_in= 0.0013818878698024755
+cur_iter_in= 114 , cur_error_in= 0.0013127935037864533
+cur_iter_in= 115 , cur_error_in= 0.0012471538380512783
+cur_iter_in= 116 , cur_error_in= 0.0011847961372888885
+cur_iter_in= 117 , cur_error_in= 0.0011255563276416315
+cur_iter_in= 118 , cur_error_in= 0.0010692785251383155
+cur_iter_in= 119 , cur_error_in= 0.0010158145950152017
+cur_iter_in= 120 , cur_error_in= 0.0009650238609107696
+cur_iter_in= 121 , cur_error_in= 0.0009167726798459091
+cur_iter_in= 122 , cur_error_in= 0.0008709340426420072
+cur_iter_in= 123 , cur_error_in= 0.000827387329017046
+cur_iter_in= 124 , cur_error_in= 0.0007860179586566611
+cur_iter_in= 125 , cur_error_in= 0.000746717072556371
+cur_iter_in= 126 , cur_error_in= 0.0007093812197991151
+cur_iter_in= 127 , cur_error_in= 0.0006739121722122247
+cur_iter_in= 128 , cur_error_in= 0.0006402165647944123
+cur_iter_in= 129 , cur_error_in= 0.0006082057332337473
+cur_iter_in= 130 , cur_error_in= 0.0005777954434830386
+cur_iter_in= 131 , cur_error_in= 0.0005489056768134472
+cur_iter_in= 132 , cur_error_in= 0.0005214603928581782
+cur_iter_in= 133 , cur_error_in= 0.0004953873685860584
+cur_iter_in= 134 , cur_error_in= 0.00047061799667110627
+cur_iter_in= 135 , cur_error_in= 0.0004470870934123038
+cur_iter_in= 136 , cur_error_in= 0.00042473273118427126
+cur_iter_in= 137 , cur_error_in= 0.00040349610019388833
+cur_iter_in= 138 , cur_error_in= 0.0003833213070635253
+cur_iter_in= 139 , cur_error_in= 0.00036415522772863707
+cur_iter_in= 140 , cur_error_in= 0.0003459474785501397
+cur_iter_in= 141 , cur_error_in= 0.0003286501055788978
+cur_iter_in= 142 , cur_error_in= 0.00031221758561628907
+cur_iter_in= 143 , cur_error_in= 0.00029660670877343305
+cur_iter_in= 144 , cur_error_in= 0.00028177636682729507
+cur_iter_in= 145 , cur_error_in= 0.0002676875580397413
+cur_iter_in= 146 , cur_error_in= 0.0002543031738788355
+cur_iter_in= 147 , cur_error_in= 0.00024158800677137932
+cur_iter_in= 148 , cur_error_in= 0.00022950861929121657
+cur_iter_in= 149 , cur_error_in= 0.0002180331756504465
+cur_iter_in= 150 , cur_error_in= 0.00020713153120987106
+cur_iter_in= 151 , cur_error_in= 0.00019677495568507533
+cur_iter_in= 152 , cur_error_in= 0.0001869362207099375
+cur_iter_in= 153 , cur_error_in= 0.00017758942260830176
+cur_iter_in= 154 , cur_error_in= 0.00016870993034994675
+cur_iter_in= 155 , cur_error_in= 0.00016027441924282916
+cur_iter_in= 156 , cur_error_in= 0.00015226069349541966
+cur_iter_in= 157 , cur_error_in= 0.00014464768027289888
+cur_iter_in= 158 , cur_error_in= 0.00013741529830281628
+cur_iter_in= 159 , cur_error_in= 0.00013054452050720967
+cur_iter_in= 160 , cur_error_in= 0.000124017281161126
+cur_iter_in= 161 , cur_error_in= 0.00011781642497017714
+cur_iter_in= 162 , cur_error_in= 0.00011192560994137074
+cur_iter_in= 163 , cur_error_in= 0.00010632932347613161
+cur_iter_in= 164 , cur_error_in= 0.00010101285728508396
+cur_iter_in= 165 , cur_error_in= 9.596222955577105e-05
+cur_iter_in= 166 , cur_error_in= 9.116411389056939e-05
+cur_iter_in= 167 , cur_error_in= 8.660591793546999e-05
+cur_iter_in= 168 , cur_error_in= 8.227560546582553e-05
+cur_iter_in= 169 , cur_error_in= 7.816182321828152e-05
+cur_iter_in= 170 , cur_error_in= 7.425374722847588e-05
+cur_iter_in= 171 , cur_error_in= 7.05410672563757e-05
+cur_iter_in= 172 , cur_error_in= 6.701401836250845e-05
+cur_iter_in= 173 , cur_error_in= 6.366329656275797e-05
+cur_iter_in= 174 , cur_error_in= 6.048012814322509e-05
+cur_iter_in= 175 , cur_error_in= 5.745611468774125e-05
+cur_iter_in= 176 , cur_error_in= 5.4583326426656195e-05
+cur_iter_in= 177 , cur_error_in= 5.1854146631740375e-05
+cur_iter_in= 178 , cur_error_in= 4.9261446997187984e-05
+cur_iter_in= 179 , cur_error_in= 4.679835364288405e-05
+cur_iter_in= 180 , cur_error_in= 4.445845246472043e-05
+cur_iter_in= 181 , cur_error_in= 4.223552631150344e-05
+cur_iter_in= 182 , cur_error_in= 4.012373619045676e-05
+cur_iter_in= 183 , cur_error_in= 3.811755587616721e-05
+cur_iter_in= 184 , cur_error_in= 3.621169873361471e-05
+cur_iter_in= 185 , cur_error_in= 3.4401107552419876e-05
+cur_iter_in= 186 , cur_error_in= 3.268105830747114e-05
+cur_iter_in= 187 , cur_error_in= 3.1046993648852496e-05
+cur_iter_in= 188 , cur_error_in= 2.949463303428117e-05
+cur_iter_in= 189 , cur_error_in= 2.8019906620850446e-05
+cur_iter_in= 190 , cur_error_in= 2.6618924708797993e-05
+cur_iter_in= 191 , cur_error_in= 2.5287972347413304e-05
+cur_iter_in= 192 , cur_error_in= 2.4023573578857055e-05
+cur_iter_in= 193 , cur_error_in= 2.2822392077815607e-05
+cur_iter_in= 194 , cur_error_in= 2.168128674136568e-05
+cur_iter_in= 195 , cur_error_in= 2.0597215175758446e-05
+cur_iter_in= 196 , cur_error_in= 1.9567358551100513e-05
+cur_iter_in= 197 , cur_error_in= 1.8588983400768812e-05
+cur_iter_in= 198 , cur_error_in= 1.765953519644044e-05
+cur_iter_in= 199 , cur_error_in= 1.6776541175821007e-05
+cur_iter_in= 200 , cur_error_in= 1.5937723476212265e-05
+cur_iter_in= 201 , cur_error_in= 1.5140838334661648e-05
+cur_iter_in= 202 , cur_error_in= 1.4383823061476288e-05
+cur_iter_in= 203 , cur_error_in= 1.366462899261535e-05
+cur_iter_in= 204 , cur_error_in= 1.2981396945772525e-05
+cur_iter_in= 205 , cur_error_in= 1.233231975382954e-05
+cur_iter_in= 206 , cur_error_in= 1.1715686910510168e-05
+cur_iter_in= 207 , cur_error_in= 1.1129907810346142e-05
+cur_iter_in= 208 , cur_error_in= 1.0573409257150591e-05
+cur_iter_in= 209 , cur_error_in= 1.0044752419027835e-05
+cur_iter_in= 210 , cur_error_in= 9.542513340400445e-06
+cur_iter_in= 211 , cur_error_in= 9.065388312045344e-06
+cur_iter_in= 212 , cur_error_in= 8.612113736264472e-06
+cur_iter_in= 213 , cur_error_in= 8.181496203095584e-06
+cur_iter_in= 214 , cur_error_in= 7.772431367964904e-06
+cur_iter_in= 215 , cur_error_in= 7.383823101105396e-06
+cur_iter_in= 216 , cur_error_in= 7.014634447372704e-06
+cur_iter_in= 217 , cur_error_in= 6.66389692525009e-06
+cur_iter_in= 218 , cur_error_in= 6.330689160059295e-06
+cur_iter_in= 219 , cur_error_in= 6.014153863830461e-06
+cur_iter_in= 220 , cur_error_in= 5.713453125556636e-06
+cur_iter_in= 221 , cur_error_in= 5.4277786824371684e-06
+cur_iter_in= 222 , cur_error_in= 5.156393445589291e-06
+cur_iter_in= 223 , cur_error_in= 4.89856658939654e-06
+cur_iter_in= 224 , cur_error_in= 4.653630536465096e-06
+cur_iter_in= 225 , cur_error_in= 4.420969366530361e-06
+cur_iter_in= 226 , cur_error_in= 4.199913138661242e-06
+cur_iter_in= 227 , cur_error_in= 3.9899195325588705e-06
+cur_iter_in= 228 , cur_error_in= 3.790419005853713e-06
+cur_iter_in= 229 , cur_error_in= 3.6008985538123955e-06
+cur_iter_in= 230 , cur_error_in= 3.420854170251617e-06
+cur_iter_in= 231 , cur_error_in= 3.249820401896177e-06
+cur_iter_in= 232 , cur_error_in= 3.0873238483151074e-06
+cur_iter_in= 233 , cur_error_in= 2.932953576545666e-06
+cur_iter_in= 234 , cur_error_in= 2.7863018869547105e-06
+cur_iter_in= 235 , cur_error_in= 2.646988797838273e-06
+cur_iter_in= 236 , cur_error_in= 2.5146390405533207e-06
+cur_iter_in= 237 , cur_error_in= 2.3889051691756527e-06
+cur_iter_in= 238 , cur_error_in= 2.2694787993240036e-06
+cur_iter_in= 239 , cur_error_in= 2.1560203134545197e-06
+cur_iter_in= 240 , cur_error_in= 2.0482290146290843e-06
+cur_iter_in= 241 , cur_error_in= 1.94579566984988e-06
+cur_iter_in= 242 , cur_error_in= 1.8484986411469297e-06
+cur_iter_in= 243 , cur_error_in= 1.7560865386868729e-06
+cur_iter_in= 244 , cur_error_in= 1.6682753673867488e-06
+cur_iter_in= 245 , cur_error_in= 1.5848426789170054e-06
+cur_iter_in= 246 , cur_error_in= 1.5055907366487816e-06
+cur_iter_in= 247 , cur_error_in= 1.4303042457424425e-06
+cur_iter_in= 248 , cur_error_in= 1.3587929382562455e-06
+cur_iter_in= 249 , cur_error_in= 1.2908479697653928e-06
+cur_iter_in= 250 , cur_error_in= 1.2263126418981796e-06
+cur_iter_in= 251 , cur_error_in= 1.1650111346270024e-06
+cur_iter_in= 252 , cur_error_in= 1.1067584281855789e-06
+cur_iter_in= 253 , cur_error_in= 1.0514285159413473e-06
+Traceback (most recent call last):
+  File "10_cross_entropy_frozenlake.py", line 4, in <module>
+    from torch.utils.tensorboard import SummaryWriter
+  File "/home/wzi1638/.conda/envs/my_env/lib/python3.7/site-packages/torch/utils/tensorboard/__init__.py", line 1, in <module>
+    import tensorboard
+ModuleNotFoundError: No module named 'tensorboard'
+Traceback (most recent call last):
+  File "10_cross_entropy_frozenlake.py", line 4, in <module>
+    from torch.utils.tensorboard import SummaryWriter
+  File "/home/wzi1638/.conda/envs/my_env/lib/python3.7/site-packages/torch/utils/tensorboard/__init__.py", line 1, in <module>
+    import tensorboard
+ModuleNotFoundError: No module named 'tensorboard'
