@@ -1,0 +1,149 @@
+\begin{thebibliography}{23}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Wang et~al.(2020)Wang, Yao, and Zhou]{wang2020markets}
+He~Wang, Yang Yao, and Yue Zhou.
+\newblock Markets price politicians: Evidence from china’s municipal bond
+  markets.
+\newblock 2020.
+
+\bibitem[Ang et~al.(2016)Ang, Bai, and Zhou]{ang2016great}
+Andrew Ang, Jennie Bai, and Hao Zhou.
+\newblock The great wall of debt: Real estate, political risk, and chinese
+  local government credit spreads.
+\newblock \emph{Columbia Business School Research Paper}, \penalty0 (15-57),
+  2016.
+
+\bibitem[Lu and Sun(2013)]{lu2013local}
+Yinqiu Lu and Tao Sun.
+\newblock \emph{Local government financing platforms in China: A fortune or
+  misfortune?}
+\newblock International Monetary Fund, 2013.
+
+\bibitem[Liu et~al.(2017{\natexlab{a}})Liu, Lyu, and Yu]{liu2017implicit}
+Laura~Xiaolei Liu, Yuanzhen Lyu, and Fan Yu.
+\newblock Implicit government guarantee and the pricing of chinese lgfv debt.
+\newblock \emph{Claremont McKenna College Robert Day School of Economics and
+  Finance Research Paper}, \penalty0 (2922946), 2017{\natexlab{a}}.
+
+\bibitem[Chen et~al.(2020)Chen, Lu, Xiao, and Zhu]{chen2020local}
+Zhuo Chen, Andrea Lu, Huili Xiao, and Xiaoquan Zhu.
+\newblock Local political-turnover-induced uncertainty and bond market pricing.
+\newblock \emph{Available at SSRN 3741300}, 2020.
+
+\bibitem[Capeci(1991)]{capeci1991credit}
+John Capeci.
+\newblock Credit risk, credit ratings, and municipal bond yields: A panel
+  study.
+\newblock \emph{National Tax Journal}, pages 41--56, 1991.
+
+\bibitem[Schwert(2017)]{schwert2017municipal}
+Michael Schwert.
+\newblock Municipal bond liquidity and default risk.
+\newblock \emph{The Journal of Finance}, 72\penalty0 (4):\penalty0 1683--1722,
+  2017.
+
+\bibitem[Fortune(1988)]{fortune1988municipal}
+Peter Fortune.
+\newblock Municipal bond yields: whose tax rates matter?
+\newblock \emph{National Tax Journal}, pages 219--233, 1988.
+
+\bibitem[Gao et~al.(2019)Gao, Murphy, and Qi]{gao2019political}
+Pengjie Gao, Dermot Murphy, and Yaxuan Qi.
+\newblock Political uncertainty and public financing costs: Evidence from us
+  gubernatorial elections and municipal bond markets.
+\newblock \emph{Available at SSRN 1992200}, 2019.
+
+\bibitem[Butler et~al.(2009)Butler, Fauver, and Mortal]{butler2009corruption}
+Alexander~W Butler, Larry Fauver, and Sandra Mortal.
+\newblock Corruption, political connections, and municipal finance.
+\newblock \emph{The review of financial studies}, 22\penalty0 (7):\penalty0
+  2873--2905, 2009.
+
+\bibitem[Goldsmith-Pinkham et~al.(2019)Goldsmith-Pinkham, Gustafson, Lewis, and
+  Schwert]{goldsmith2019sea}
+Paul Goldsmith-Pinkham, Matthew Gustafson, Ryan~C Lewis, and Michael Schwert.
+\newblock \emph{Sea level rise and municipal bond yields}.
+\newblock Rodney L. White Center for Financial Research, 2019.
+
+\bibitem[Faccio(2006)]{faccio2006politically}
+Mara Faccio.
+\newblock Politically connected firms.
+\newblock \emph{American economic review}, 96\penalty0 (1):\penalty0 369--386,
+  2006.
+
+\bibitem[Chaney et~al.(2011)Chaney, Faccio, and Parsley]{chaney2011quality}
+Paul~K Chaney, Mara Faccio, and David Parsley.
+\newblock The quality of accounting information in politically connected firms.
+\newblock \emph{Journal of accounting and Economics}, 51\penalty0
+  (1-2):\penalty0 58--76, 2011.
+
+\bibitem[Tahoun(2014)]{tahoun2014role}
+Ahmed Tahoun.
+\newblock The role of stock ownership by us members of congress on the market
+  for political favors.
+\newblock \emph{Journal of Financial Economics}, 111\penalty0 (1):\penalty0
+  86--110, 2014.
+
+\bibitem[Correia(2014)]{correia2014political}
+Maria~M Correia.
+\newblock Political connections and sec enforcement.
+\newblock \emph{Journal of Accounting and Economics}, 57\penalty0
+  (2-3):\penalty0 241--262, 2014.
+
+\bibitem[Fisman(2001)]{fisman2001estimating}
+Raymond Fisman.
+\newblock Estimating the value of political connections.
+\newblock \emph{American economic review}, 91\penalty0 (4):\penalty0
+  1095--1102, 2001.
+
+\bibitem[Faccio and Parsley(2009)]{faccio2009sudden}
+Mara Faccio and David~C Parsley.
+\newblock Sudden deaths: Taking stock of geographic ties.
+\newblock \emph{Journal of Financial and Quantitative Analysis}, pages
+  683--718, 2009.
+
+\bibitem[Liu et~al.(2017{\natexlab{b}})Liu, Shu, and Wei]{liu2017impacts}
+Laura~Xiaolei Liu, Haibing Shu, and KC~John Wei.
+\newblock The impacts of political uncertainty on asset prices: Evidence from
+  the bo scandal in china.
+\newblock \emph{Journal of financial economics}, 125\penalty0 (2):\penalty0
+  286--310, 2017{\natexlab{b}}.
+
+\bibitem[Bertrand et~al.(2004)Bertrand, Duflo, and
+  Mullainathan]{bertrand2004much}
+Marianne Bertrand, Esther Duflo, and Sendhil Mullainathan.
+\newblock How much should we trust differences-in-differences estimates?
+\newblock \emph{The Quarterly journal of economics}, 119\penalty0 (1):\penalty0
+  249--275, 2004.
+
+\bibitem[Baker et~al.(2021)Baker, Larcker, and Wang]{baker2021much}
+Andrew Baker, David~F Larcker, and Charles~CY Wang.
+\newblock How much should we trust staggered difference-in-differences
+  estimates?
+\newblock \emph{Available at SSRN 3794018}, 2021.
+
+\bibitem[Brogaard and Detzel(2015)]{brogaard2015asset}
+Jonathan Brogaard and Andrew Detzel.
+\newblock The asset-pricing implications of government economic policy
+  uncertainty.
+\newblock \emph{Management Science}, 61\penalty0 (1):\penalty0 3--18, 2015.
+
+\bibitem[Kelly et~al.(2016)Kelly, P{\'a}stor, and Veronesi]{kelly2016price}
+Bryan Kelly, L'ubo{\v{s}} P{\'a}stor, and Pietro Veronesi.
+\newblock The price of political uncertainty: Theory and evidence from the
+  option market.
+\newblock \emph{The Journal of Finance}, 71\penalty0 (5):\penalty0 2417--2480,
+  2016.
+
+\bibitem[P{\'a}stor and Veronesi(2013)]{pastor2013political}
+L'ubo{\v{s}} P{\'a}stor and Pietro Veronesi.
+\newblock Political uncertainty and risk premia.
+\newblock \emph{Journal of financial Economics}, 110\penalty0 (3):\penalty0
+  520--545, 2013.
+
+\end{thebibliography}
