@@ -42,6 +42,8 @@ toler_value_iter=10**-6
 max_policy_iter=10**7
 toler_policy_iter=10**-6
 
+#c_h=[1,1.5,2,2.5,3]
+#p_max=100
 
 #define some supporting function as the state space becomes complicated in multi case
 def reward(s,a,c_h,c_f):

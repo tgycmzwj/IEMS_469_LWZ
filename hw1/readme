@@ -1,0 +1,14 @@
+hw1
+|-hw1_RL.pdf (posted homework assignment)
+|-nohup.out (some printed outcome showing the progress of the program)
+|-q1_enumeration.pdf (output graph)
+|-q1_policy_iteration.pdf (output graph)
+|-q1_value_iteration.pdf (output graph)
+|-q1.py (code for part 1)
+|-q2_enumeration.pdf (output graph)
+|-q2_policy_iteration.pdf (output graph)
+|-q2_value_iteration.pdf (output graph)
+|-q2.py (code for part 2)
+|-writeup
+  |-document.pdf (summary of this homework assignment)
+  |-document.tex (tex file of the pdf document)
