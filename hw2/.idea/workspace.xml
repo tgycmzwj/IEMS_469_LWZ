@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15541068-b388-42e6-aa95-adc5769f9c42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1_cartpole.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_pong_github.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plot_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_cartpole.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_cartpole.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_pong.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_pong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junk/1_cartpole.txt" beforeDir="false" afterPath="$PROJECT_DIR$/junk/1_cartpole.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junk/1_cartpole_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/1_cartpole_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junk/writeup/document.log" beforeDir="false" afterPath="$PROJECT_DIR$/junk/writeup/document.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junk/writeup/document.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/junk/writeup/document.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junk/writeup/document.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/junk/writeup/document.synctex.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junk/writeup/document.tex" beforeDir="false" afterPath="$PROJECT_DIR$/junk/writeup/document.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/plot_graph.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +60,28 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
+    <configuration name="2_pong" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hw2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/python37/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_pong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="hw2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,28 +96,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_pong_github.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="plot_graph" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="hw2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/python37/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_graph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +140,11 @@
       <workItem from="1636500894312" duration="1911000" />
       <workItem from="1636504433164" duration="57000" />
       <workItem from="1636505104473" duration="438000" />
+      <workItem from="1636574309634" duration="1431000" />
+      <workItem from="1636578150444" duration="17000" />
+      <workItem from="1636578348156" duration="1887000" />
+      <workItem from="1636580509948" duration="249000" />
+      <workItem from="1636580923673" duration="99000" />
     </task>
     <servers />
   </component>
@@ -152,11 +164,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="148" width="1071" height="618" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636498981466">
+    <state x="0" y="76" width="1071" height="754" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636579443052">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state x="66" y="211" width="1071" height="618" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.804@0.25.1440.804" timestamp="1636495028671" />
-    <state x="0" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.805@0.25.1440.805" timestamp="1636498981466" />
+    <state x="66" y="187" width="1071" height="642" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.804@0.25.1440.804" timestamp="1636574336765" />
+    <state x="0" y="76" width="1071" height="754" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.805@0.25.1440.805" timestamp="1636579443052" />
     <state x="0" y="129" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.807@0.25.1440.807" timestamp="1636045491472" />
     <state x="0" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.809@0.25.1440.809" timestamp="1636049044435" />
     <state x="0" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.813@0.25.1440.813" timestamp="1636138902323" />
@@ -164,52 +176,52 @@
       <screen x="0" y="25" width="1440" height="807" />
     </state>
     <state x="487" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.807@0.25.1440.807" timestamp="1636044863927" />
-    <state x="522" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636502364602">
-      <screen x="0" y="25" width="1440" height="807" />
+    <state x="522" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636579496411">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state x="522" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.805@0.25.1440.805" timestamp="1636499825529" />
+    <state x="522" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.805@0.25.1440.805" timestamp="1636579496411" />
     <state x="522" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.807@0.25.1440.807" timestamp="1636502364602" />
     <state width="735" height="466" key="DebuggerActiveHint" timestamp="1635907222398">
       <screen x="0" y="25" width="1440" height="813" />
     </state>
     <state width="735" height="466" key="DebuggerActiveHint/0.25.1440.813@0.25.1440.813" timestamp="1635907222398" />
-    <state width="1269" height="288" key="GridCell.Tab.0.bottom" timestamp="1636505543346">
-      <screen x="0" y="25" width="1440" height="809" />
+    <state width="1269" height="316" key="GridCell.Tab.0.bottom" timestamp="1636580411274">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
     <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1636059011560" />
     <state width="1269" height="316" key="GridCell.Tab.0.bottom/0.25.1440.804@0.25.1440.804" timestamp="1636496491816" />
-    <state width="1269" height="316" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1636499989829" />
-    <state width="1269" height="288" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1636502812109" />
+    <state width="1269" height="316" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1636580411274" />
+    <state width="1269" height="316" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1636574509756" />
     <state width="1269" height="288" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1636505543346" />
     <state width="1269" height="228" key="GridCell.Tab.0.bottom/0.25.1440.813@0.25.1440.813" timestamp="1636140372120" />
     <state width="1398" height="292" key="GridCell.Tab.0.bottom/0.25.1440.814@0.25.1440.814" timestamp="1635905147020" />
-    <state width="1269" height="288" key="GridCell.Tab.0.center" timestamp="1636505543346">
-      <screen x="0" y="25" width="1440" height="809" />
+    <state width="1269" height="316" key="GridCell.Tab.0.center" timestamp="1636580411273">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
     <state width="1398" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1636059011559" />
     <state width="1269" height="316" key="GridCell.Tab.0.center/0.25.1440.804@0.25.1440.804" timestamp="1636496491815" />
-    <state width="1269" height="316" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1636499989828" />
-    <state width="1269" height="288" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1636502812108" />
+    <state width="1269" height="316" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1636580411273" />
+    <state width="1269" height="316" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1636574509755" />
     <state width="1269" height="288" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1636505543346" />
     <state width="1269" height="228" key="GridCell.Tab.0.center/0.25.1440.813@0.25.1440.813" timestamp="1636140372119" />
     <state width="1398" height="292" key="GridCell.Tab.0.center/0.25.1440.814@0.25.1440.814" timestamp="1635905147016" />
-    <state width="1269" height="288" key="GridCell.Tab.0.left" timestamp="1636505543346">
-      <screen x="0" y="25" width="1440" height="809" />
+    <state width="1269" height="316" key="GridCell.Tab.0.left" timestamp="1636580411273">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
     <state width="1398" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1636059011559" />
     <state width="1269" height="316" key="GridCell.Tab.0.left/0.25.1440.804@0.25.1440.804" timestamp="1636496491815" />
-    <state width="1269" height="316" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1636499989828" />
-    <state width="1269" height="288" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1636502812108" />
+    <state width="1269" height="316" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1636580411273" />
+    <state width="1269" height="316" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1636574509755" />
     <state width="1269" height="288" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1636505543346" />
     <state width="1269" height="228" key="GridCell.Tab.0.left/0.25.1440.813@0.25.1440.813" timestamp="1636140372119" />
     <state width="1398" height="292" key="GridCell.Tab.0.left/0.25.1440.814@0.25.1440.814" timestamp="1635905147016" />
-    <state width="1269" height="288" key="GridCell.Tab.0.right" timestamp="1636505543346">
-      <screen x="0" y="25" width="1440" height="809" />
+    <state width="1269" height="316" key="GridCell.Tab.0.right" timestamp="1636580411273">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
     <state width="1398" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1636059011559" />
     <state width="1269" height="316" key="GridCell.Tab.0.right/0.25.1440.804@0.25.1440.804" timestamp="1636496491816" />
-    <state width="1269" height="316" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1636499989829" />
-    <state width="1269" height="288" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1636502812109" />
+    <state width="1269" height="316" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1636580411273" />
+    <state width="1269" height="316" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1636574509756" />
     <state width="1269" height="288" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1636505543346" />
     <state width="1269" height="228" key="GridCell.Tab.0.right/0.25.1440.813@0.25.1440.813" timestamp="1636140372120" />
     <state width="1398" height="292" key="GridCell.Tab.0.right/0.25.1440.814@0.25.1440.814" timestamp="1635905147017" />
@@ -267,29 +279,9 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2_pong_github.py</url>
-          <line>106</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2_pong_github.py</url>
-          <line>76</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/plot_graph.py</url>
           <line>7</line>
           <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/plot_graph.py</url>
-          <line>59</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/plot_graph.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -308,7 +300,7 @@
     <SUITE FILE_PATH="coverage/hw2$plot_graph.coverage" NAME="plot_graph Coverage Results" MODIFIED="1636505534616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hw2$2_pong.coverage" NAME="2_pong Coverage Results" MODIFIED="1635980103346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hw2$2_pong_copy.coverage" NAME="2_pong_copy Coverage Results" MODIFIED="1636071580320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/hw2$1_cartpole_base.coverage" NAME="1_cartpole_base Coverage Results" MODIFIED="1636498106283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hw2$1_cartpole_base.coverage" NAME="2_pong Coverage Results" MODIFIED="1636580373667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hw2$actor.coverage" NAME="actor Coverage Results" MODIFIED="1636139137528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -130,7 +130,7 @@ for episode in range(EPISODE):
             advantage=reward-state_value
             advantage=advantage.detach()
             policy_loss.append(-log_prob*advantage)
-            value_loss.append(F.smooth_l1_loss(state_value.reshape(-1),torch.tensor([np.float(reward)])))
+            value_loss.append(F.smooth_l1_loss(state_value.reshape(-1),torch.tensor([np.float(reward)]).to(device)))
 
         # loss = [-log_prob * reward for log_prob, reward in zip(policy.saved_log_probs,flatten_episodes_rewards)]
         optimizer.zero_grad()

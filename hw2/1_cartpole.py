@@ -13,9 +13,9 @@ original_stdout = sys.stdout
 seed = 42
 gamma = 0.95
 env = gym.make('CartPole-v0')
-np.random.seed(seed)
-env.seed(seed)
-torch.manual_seed(seed)
+# np.random.seed(seed)
+# env.seed(seed)
+# torch.manual_seed(seed)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 #state space dimension
 dim_input=env.observation_space.sample().size

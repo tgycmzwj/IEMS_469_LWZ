@@ -10,12 +10,12 @@ import collections
 original_stdout = sys.stdout
 
 #define global parameters
-#seed = 1234
+seed = 12345
 gamma = 0.95
 env = gym.make('CartPole-v0')
-#np.random.seed(seed)
-#env.seed(seed)
-#torch.manual_seed(seed)
+np.random.seed(seed)
+env.seed(seed)
+torch.manual_seed(seed)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 #state space dimension
 dim_input=env.observation_space.sample().size
@@ -23,7 +23,7 @@ dim_input=env.observation_space.sample().size
 dim_output=env.action_space.n
 #fully connected neural network
 dim_1=16
-learning_rate=1e-3
+learning_rate=3e-3
 
 
 class Policy(nn.Module):
@@ -81,21 +81,20 @@ def cal_loss(episodes_buffer):
         policy_loss=torch.cat(policy_loss).sum()
         value_loss=torch.cat(value_loss).sum()
         all_loss.append(policy_loss+value_loss*0.5)
-
     total_loss=torch.tensor(0)
     for i in all_loss:
         total_loss=total_loss+i
     return total_loss/BATCH_SIZE
 
 
-# f=open('filename.txt', 'w')
-# sys.stdout=f
-BATCH_SIZE=2
+f=open('1_cartpole.txt', 'w')
+sys.stdout=f
+BATCH_SIZE=5
 episodes_buffer=ExperienceBuffer(BATCH_SIZE)
 running_reward = 10
 i_episode=0
-
-while True:
+Epochs=640
+while i_episode/BATCH_SIZE<Epochs:
     i_episode=i_episode+1
     state= env.reset()
     done = False
@@ -117,5 +116,5 @@ while True:
         loss.backward()
         optimizer.step()
         episodes_buffer.clear()
-        print('Episode {}\tLoss :{:.2f}\tLast reward: {:.2f}\tLast 10 Average reward: {:.2f}'.format(i_episode, loss, ep_reward, running_reward))
-# sys.stdout=original_stdout
+        print('Episode {}\tLoss :{:.2f}\tLast reward: {:.2f}\tLast 10 Average reward: {:.2f}'.format(i_episode/BATCH_SIZE, loss, ep_reward, running_reward))
+sys.stdout=original_stdout
