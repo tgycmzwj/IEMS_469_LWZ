@@ -1,0 +1,15 @@
+hw2
+--1_cartpole.pdf         #graph for question 1
+--1_cartpole.py          #code for question 1 (without baseline)
+--1_cartpole.txt         #output log for question 1
+--2_pong.pdf             #graph for question 2
+--2_pong.py              #code for question 2
+--base.log               #output log for question 2
+--document.pdf           #a write up document summarize my approach, findings etc
+--hw2_RL                 #original hw assignment
+--junk
+----1_cartpole_base.py   #code for question 1 (with baseline)
+----1_cartpole.txt       #output log for question 1 (with baseline)
+----executable.sh        #slurm executable file to run code on question
+----writeup              #tex file
+--plot_graph.py          #code to plot output
