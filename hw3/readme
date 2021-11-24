@@ -1,0 +1,17 @@
+hw3
+--1_cartpole_qvalue.pdf (training maxq for q1)
+--1_cartpole_reward.pdf (testing reward for q1)
+--1_cartpole_testing.txt (testing output information for q1)
+--1_cartpole_training.txt (training output information for q1)
+--2_pacman_qvalue.pdf (training maxq for q2)
+--2_pacman_reward.pdf (testing reward for q2)
+--2_pacman_testing.txt (testing output information for q2)
+--2_pacman_reward.txt (training output information for q1)
+--document.pdf (a write up file that summarizes everything for this hw)
+--hw3_RL.pdf (the original hw instruction file)
+--plot_graph.py (python file that plot graph)
+--q1
+----q1.py (python file for q1)
+--q2
+----q2.py (python file for q2)
+--writeup (tex file for the documnet)
